@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: media
+  uuid: 405ea926-095d-4cb1-948b-b8ddfa8c45be
+  bundle: image
+  default_langcode: en
+  depends:
+    0a86c3bd-1cbb-45ac-88da-c2e6f0dbc3d3: file
+    2651446f-4234-4948-9bc6-65d956fecb6d: taxonomy_term
+default:
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  name:
+    -
+      value: harps-joseph.jpg
+  created:
+    -
+      value: 1725614652
+  revision_translation_affected:
+    -
+      value: true
+  metatag:
+    -
+      tag: meta
+      attributes:
+        name: title
+        content: '| StormCMS'
+    -
+      tag: link
+      attributes:
+        rel: canonical
+        href: 'https://storm.ddev.site/user/login'
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 0
+  field_caption_credit:
+    -
+      value: '<p>Photo by <a href="https://unsplash.com/@harpsjoseph?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Harps Joseph</a> on <a href="https://unsplash.com/photos/man-self-portrait-wearing-gray-and-white-collared-button-up-shirt-near-green-leaf-plant-with-white-ceramic-pot-tAvpDE7fXgY?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Unsplash</a>.</p>'
+      format: basic_html
+  field_media_image:
+    -
+      entity: 0a86c3bd-1cbb-45ac-88da-c2e6f0dbc3d3
+      alt: 'Harps Joseph'
+      title: ''
+      width: 5472
+      height: 3648
+  field_media_tags:
+    -
+      entity: 2651446f-4234-4948-9bc6-65d956fecb6d

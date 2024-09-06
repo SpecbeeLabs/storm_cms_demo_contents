@@ -1,0 +1,82 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: eea688c0-d4e8-40d0-bf1b-878f87ef7d70
+  bundle: person
+  default_langcode: en
+  depends:
+    76c0e253-a64b-4967-a16b-d944e1ee3b9f: media
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Joe Fernandes'
+  created:
+    -
+      value: 1725616895
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  moderation_state:
+    -
+      value: published
+  metatag:
+    -
+      tag: meta
+      attributes:
+        name: title
+        content: 'Joe Fernandes | StormCMS'
+    -
+      tag: meta
+      attributes:
+        name: description
+        content: 'Completely scale inexpensive catalysts for change rather than global outsourcing. Seamlessly envisioneer exceptional action items after impactful paradigms. Uniquely customize best-of-breed methodologies for holistic results. Competently network cross-unit manufactured products via effective benefits. Globally drive backend users after backend processes.'
+    -
+      tag: link
+      attributes:
+        rel: canonical
+        href: 'https://storm.ddev.site/people/joe-fernandes'
+  path:
+    -
+      alias: /people/joe-fernandes
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: '<p>Completely scale inexpensive catalysts for change rather than global outsourcing. Seamlessly envisioneer exceptional action items after impactful paradigms. Uniquely customize best-of-breed methodologies for holistic results. Competently network cross-unit manufactured products via effective benefits. Globally drive backend users after backend processes.</p><p>Intrinsicly customize top-line niches before 24/365 quality vectors. Compellingly brand standards compliant leadership through interactive users. Authoritatively incubate top-line deliverables before empowered value. Distinctively supply multidisciplinary intellectual capital via fully researched partnerships. Synergistically generate.</p>'
+      format: basic_html
+      summary: ''
+  field_company:
+    -
+      value: 'Zenith Solutions'
+  field_designation:
+    -
+      value: 'Development Practive Head'
+  field_first_name:
+    -
+      value: Joe
+  field_image:
+    -
+      entity: 76c0e253-a64b-4967-a16b-d944e1ee3b9f
+  field_last_name:
+    -
+      value: Fernandes
+  field_link:
+    -
+      uri: 'https://example.com/'
+      title: 'Click Here'
+      options: {  }

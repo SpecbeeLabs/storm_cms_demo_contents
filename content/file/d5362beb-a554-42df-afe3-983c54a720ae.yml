@@ -1,0 +1,30 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: d5362beb-a554-42df-afe3-983c54a720ae
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: alexander-hipp.jpg
+  uri:
+    -
+      value: 'public://2024-09/alexander-hipp.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 918924
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1725619379
+  origname:
+    -
+      value: alexander-hipp.jpg

@@ -1,0 +1,30 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 8aea0f27-9bea-49f6-810c-563f3b97e55c
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: jim-beam.jpg
+  uri:
+    -
+      value: 'public://2024-09/jim-beam.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 2694764
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1725619220
+  origname:
+    -
+      value: jim-beam.jpg

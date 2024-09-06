@@ -1,0 +1,82 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 62be5f21-7be5-4199-a43d-5944fd498980
+  bundle: person
+  default_langcode: en
+  depends:
+    01d29e75-7f40-4fe1-9e25-091e7674281f: media
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Clay Elliot'
+  created:
+    -
+      value: 1725616143
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  moderation_state:
+    -
+      value: published
+  metatag:
+    -
+      tag: meta
+      attributes:
+        name: title
+        content: 'Clay Elliot | StormCMS'
+    -
+      tag: meta
+      attributes:
+        name: description
+        content: 'Authoritatively transform dynamic users after world-class data. Progressively actualize bleeding-edge metrics via goal-oriented convergence. Phosfluorescently incentivize market-driven quality vectors rather than next-generation customer service. Efficiently synergize impactful methodologies via global processes. Authoritatively incubate client-focused best practices without 24/365 e-services.'
+    -
+      tag: link
+      attributes:
+        rel: canonical
+        href: 'https://storm.ddev.site/people/clay-elliot'
+  path:
+    -
+      alias: /people/clay-elliot
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: '<p>Authoritatively transform dynamic users after world-class data. Progressively actualize bleeding-edge metrics via goal-oriented convergence. Phosfluorescently incentivize market-driven quality vectors rather than next-generation customer service. Efficiently synergize impactful methodologies via global processes. Authoritatively incubate client-focused best practices without 24/365 e-services.</p><p>Competently maintain distinctive core competencies for mission-critical manufactured products. Dramatically productize virtual relationships and 24/365 data. Appropriately matrix cross functional catalysts for change without diverse internal or "organic" sources. Uniquely leverage other''s granular data for.</p>'
+      format: basic_html
+      summary: ''
+  field_company:
+    -
+      value: 'Zenith Solutions'
+  field_designation:
+    -
+      value: 'Development Practive Head'
+  field_first_name:
+    -
+      value: Clay
+  field_image:
+    -
+      entity: 01d29e75-7f40-4fe1-9e25-091e7674281f
+  field_last_name:
+    -
+      value: Elliot
+  field_link:
+    -
+      uri: 'https://example.com/'
+      title: 'Click here'
+      options: {  }

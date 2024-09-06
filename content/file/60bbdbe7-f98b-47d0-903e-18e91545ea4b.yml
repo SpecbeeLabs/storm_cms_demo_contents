@@ -1,0 +1,30 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 60bbdbe7-f98b-47d0-903e-18e91545ea4b
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: ryan-hoffman.jpg
+  uri:
+    -
+      value: 'public://2024-09/ryan-hoffman.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 2445719
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1725619361
+  origname:
+    -
+      value: ryan-hoffman.jpg

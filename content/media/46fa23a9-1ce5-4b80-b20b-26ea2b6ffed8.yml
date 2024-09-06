@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: media
+  uuid: 46fa23a9-1ce5-4b80-b20b-26ea2b6ffed8
+  bundle: image
+  default_langcode: en
+  depends:
+    60bbdbe7-f98b-47d0-903e-18e91545ea4b: file
+    238bea2c-808b-4e7a-a9d7-e8ee066e9508: taxonomy_term
+default:
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  name:
+    -
+      value: ryan-hoffman.jpg
+  created:
+    -
+      value: 1725615416
+  revision_translation_affected:
+    -
+      value: true
+  metatag:
+    -
+      tag: meta
+      attributes:
+        name: title
+        content: '| StormCMS'
+    -
+      tag: link
+      attributes:
+        rel: canonical
+        href: 'https://storm.ddev.site/user/login'
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 0
+  field_caption_credit:
+    -
+      value: '<p>Photo by <a href="https://unsplash.com/@ryanhoffman007?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Ryan Hoffman</a> on <a href="https://unsplash.com/photos/man-in-black-crew-neck-long-sleeve-shirt-Ft4p5E9HjTQ?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Unsplash</a></p>'
+      format: basic_html
+  field_media_image:
+    -
+      entity: 60bbdbe7-f98b-47d0-903e-18e91545ea4b
+      alt: 'Ryan Hoffman'
+      title: ''
+      width: 4800
+      height: 6719
+  field_media_tags:
+    -
+      entity: 238bea2c-808b-4e7a-a9d7-e8ee066e9508

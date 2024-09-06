@@ -1,0 +1,82 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: a0436158-051d-4e19-9aed-dc6ee45a4cbb
+  bundle: person
+  default_langcode: en
+  depends:
+    5e1945d3-99b9-4c35-92fd-f54f7f2edf8e: media
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Haydn Golden'
+  created:
+    -
+      value: 1725616828
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  moderation_state:
+    -
+      value: published
+  metatag:
+    -
+      tag: meta
+      attributes:
+        name: title
+        content: 'Haydn Golden | StormCMS'
+    -
+      tag: meta
+      attributes:
+        name: description
+        content: 'Rapidiously incentivize cooperative methodologies rather than business solutions. Collaboratively harness compelling channels after error-free process improvements. Authoritatively revolutionize bleeding-edge web-readiness before dynamic networks. Quickly enhance backward-compatible methodologies through backward-compatible growth strategies. Credibly administrate best-of-breed platforms without robust markets.'
+    -
+      tag: link
+      attributes:
+        rel: canonical
+        href: 'https://storm.ddev.site/people/haydn-golden'
+  path:
+    -
+      alias: /people/haydn-golden
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: '<p>Rapidiously incentivize cooperative methodologies rather than business solutions. Collaboratively harness compelling channels after error-free process improvements. Authoritatively revolutionize bleeding-edge web-readiness before dynamic networks. Quickly enhance backward-compatible methodologies through backward-compatible growth strategies. Credibly administrate best-of-breed platforms without robust markets.</p><p>Collaboratively whiteboard cross-platform technologies via backward-compatible information. Phosfluorescently utilize mission-critical intellectual capital without resource-leveling growth strategies. Continually brand state of the art relationships rather than innovative initiatives. Collaboratively fabricate virtual materials with client-focused outsourcing. Credibly unleash.</p>'
+      format: basic_html
+      summary: ''
+  field_company:
+    -
+      value: 'Crown LLC'
+  field_designation:
+    -
+      value: 'Development Practive Head'
+  field_first_name:
+    -
+      value: Haydn
+  field_image:
+    -
+      entity: 5e1945d3-99b9-4c35-92fd-f54f7f2edf8e
+  field_last_name:
+    -
+      value: Golden
+  field_link:
+    -
+      uri: 'https://example.com/'
+      title: 'Click Here'
+      options: {  }

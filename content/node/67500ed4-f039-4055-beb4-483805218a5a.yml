@@ -1,0 +1,82 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 67500ed4-f039-4055-beb4-483805218a5a
+  bundle: person
+  default_langcode: en
+  depends:
+    42a2ef50-e44f-43e9-9efe-3ce90f323ab2: media
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Greg Edwards'
+  created:
+    -
+      value: 1725616519
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  moderation_state:
+    -
+      value: published
+  metatag:
+    -
+      tag: meta
+      attributes:
+        name: title
+        content: 'Greg Edwards | StormCMS'
+    -
+      tag: meta
+      attributes:
+        name: description
+        content: 'Globally pursue alternative methodologies after B2B vortals. Globally seize superior quality vectors vis-a-vis interdependent benefits. Efficiently initiate user friendly services for out-of-the-box systems. Quickly scale maintainable potentialities for B2C channels. Appropriately innovate progressive convergence for sticky e-services.'
+    -
+      tag: link
+      attributes:
+        rel: canonical
+        href: 'https://storm.ddev.site/people/greg-edwards'
+  path:
+    -
+      alias: /people/greg-edwards
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<p>Globally pursue alternative methodologies after B2B vortals. Globally seize superior quality vectors vis-a-vis interdependent benefits. Efficiently initiate user friendly services for out-of-the-box systems. Quickly scale maintainable potentialities for B2C channels. Appropriately innovate progressive convergence for sticky e-services.</p><p>Dramatically leverage other's high standards in relationships without effective supply chains. Seamlessly cultivate one-to-one e-tailers and distributed human capital. Monotonectally parallel task intermandated collaboration and idea-sharing for ethical leadership. Rapidiously restore front-end paradigms with unique value. Continually.</p>"
+      format: basic_html
+      summary: ''
+  field_company:
+    -
+      value: 'Acme Industries'
+  field_designation:
+    -
+      value: 'Director of Delivery'
+  field_first_name:
+    -
+      value: Greg
+  field_image:
+    -
+      entity: 42a2ef50-e44f-43e9-9efe-3ce90f323ab2
+  field_last_name:
+    -
+      value: Edwards
+  field_link:
+    -
+      uri: 'https://example.com/'
+      title: 'Click here'
+      options: {  }

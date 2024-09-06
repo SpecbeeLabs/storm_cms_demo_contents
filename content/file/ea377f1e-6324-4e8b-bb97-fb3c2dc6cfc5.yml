@@ -1,0 +1,30 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: ea377f1e-6324-4e8b-bb97-fb3c2dc6cfc5
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: haydn-golden.jpg
+  uri:
+    -
+      value: 'public://2024-09/haydn-golden.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 666344
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1725619458
+  origname:
+    -
+      value: haydn-golden.jpg

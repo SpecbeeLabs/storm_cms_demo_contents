@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: media
+  uuid: c4440d66-e90c-48f7-886b-2a7e0d6f40e3
+  bundle: image
+  default_langcode: en
+  depends:
+    d5362beb-a554-42df-afe3-983c54a720ae: file
+    3b63a2b2-1df9-4160-97c2-7b5a7dfcfeb9: taxonomy_term
+default:
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  name:
+    -
+      value: alexander-hipp.jpg
+  created:
+    -
+      value: 1725615773
+  revision_translation_affected:
+    -
+      value: true
+  metatag:
+    -
+      tag: meta
+      attributes:
+        name: title
+        content: '| StormCMS'
+    -
+      tag: link
+      attributes:
+        rel: canonical
+        href: 'https://storm.ddev.site/user/login'
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 0
+  field_caption_credit:
+    -
+      value: '<p>Photo by <a href="https://unsplash.com/@alexanderhipp?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Alexander Hipp</a> on <a href="https://unsplash.com/photos/a-man-wearing-glasses-and-a-black-shirt-iEEBWgY_6lA?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Unsplash</a>.</p>'
+      format: basic_html
+  field_media_image:
+    -
+      entity: d5362beb-a554-42df-afe3-983c54a720ae
+      alt: 'Alexander Hipp'
+      title: ''
+      width: 6220
+      height: 6220
+  field_media_tags:
+    -
+      entity: 3b63a2b2-1df9-4160-97c2-7b5a7dfcfeb9

@@ -1,0 +1,82 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: bcd19fc8-e8a2-44b9-815d-1be0b2c1fb5f
+  bundle: person
+  default_langcode: en
+  depends:
+    3d192255-c508-4840-b5c5-e5e186fe751c: media
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Jane Doe'
+  created:
+    -
+      value: 1725614954
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  moderation_state:
+    -
+      value: published
+  metatag:
+    -
+      tag: meta
+      attributes:
+        name: title
+        content: 'Jane Doe | StormCMS'
+    -
+      tag: meta
+      attributes:
+        name: description
+        content: 'Efficiently deliver go forward niches before emerging convergence. Dynamically underwhelm high-payoff leadership whereas functional "outside the box" thinking. Monotonectally develop extensible communities before principle-centered scenarios. Rapidiously monetize ubiquitous quality vectors and quality mindshare. Distinctively strategize seamless methodologies after best-of-breed meta-services.'
+    -
+      tag: link
+      attributes:
+        rel: canonical
+        href: 'https://storm.ddev.site/people/jane-doe'
+  path:
+    -
+      alias: /people/jane-doe
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: '<p>Efficiently deliver go forward niches before emerging convergence. Dynamically underwhelm high-payoff leadership whereas functional "outside the box" thinking. Monotonectally develop extensible communities before principle-centered scenarios. Rapidiously monetize ubiquitous quality vectors and quality mindshare. Distinctively strategize seamless methodologies after best-of-breed meta-services.</p><p>Credibly grow dynamic scenarios before premium methods of empowerment. Globally coordinate holistic processes rather than leveraged expertise. Energistically pontificate client-based web-readiness and just in.</p>'
+      format: basic_html
+      summary: ''
+  field_company:
+    -
+      value: 'Acme Industries'
+  field_designation:
+    -
+      value: 'Senior Manager'
+  field_first_name:
+    -
+      value: Jane
+  field_image:
+    -
+      entity: 3d192255-c508-4840-b5c5-e5e186fe751c
+  field_last_name:
+    -
+      value: Doe
+  field_link:
+    -
+      uri: 'https://example.com'
+      title: 'Click here'
+      options: {  }

@@ -1,0 +1,82 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: d2ce9351-9301-4d53-9a38-60791fe2d6ec
+  bundle: person
+  default_langcode: en
+  depends:
+    38f1fa8e-820f-4e5a-9dee-abb7ebec0125: media
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Jim Beam'
+  created:
+    -
+      value: 1725615319
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  moderation_state:
+    -
+      value: published
+  metatag:
+    -
+      tag: meta
+      attributes:
+        name: title
+        content: 'Jim Beam | StormCMS'
+    -
+      tag: meta
+      attributes:
+        name: description
+        content: 'Rapidiously iterate premier web-readiness vis-a-vis web-enabled total linkage. Competently innovate technically sound users through real-time outsourcing. Energistically exploit tactical intellectual capital and customized ideas. Proactively cultivate clicks-and-mortar products without stand-alone metrics. Energistically productivate excellent e-services whereas client-based internal or "organic" sources.'
+    -
+      tag: link
+      attributes:
+        rel: canonical
+        href: 'https://storm.ddev.site/people/jim-beam'
+  path:
+    -
+      alias: /people/jim-beam
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: '<p>Rapidiously iterate premier web-readiness vis-a-vis web-enabled total linkage. Competently innovate technically sound users through real-time outsourcing. Energistically exploit tactical intellectual capital and customized ideas. Proactively cultivate clicks-and-mortar products without stand-alone metrics. Energistically productivate excellent e-services whereas client-based internal or "organic" sources.</p><p>Professionally orchestrate enterprise channels rather than prospective markets. Credibly incentivize dynamic outsourcing for magnetic expertise. Monotonectally visualize extensible innovation rather than corporate technology. Credibly productize robust relationships through high-payoff value. Rapidiously provide access.</p>'
+      format: basic_html
+      summary: ''
+  field_company:
+    -
+      value: 'Zenith Solutions'
+  field_designation:
+    -
+      value: 'Vice President - Sales'
+  field_first_name:
+    -
+      value: Jim
+  field_image:
+    -
+      entity: 38f1fa8e-820f-4e5a-9dee-abb7ebec0125
+  field_last_name:
+    -
+      value: Beam
+  field_link:
+    -
+      uri: 'https://example.com/'
+      title: 'Click Here'
+      options: {  }

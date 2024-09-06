@@ -1,0 +1,82 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 1705a440-08c3-456f-9e40-fec670c0bb9f
+  bundle: person
+  default_langcode: en
+  depends:
+    0ab59829-d70b-4815-8dec-9afe0bb2c7ac: media
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'John Doe'
+  created:
+    -
+      value: 1725616446
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  moderation_state:
+    -
+      value: published
+  metatag:
+    -
+      tag: meta
+      attributes:
+        name: title
+        content: 'John Doe | StormCMS'
+    -
+      tag: meta
+      attributes:
+        name: description
+        content: 'Collaboratively facilitate fully tested leadership with inexpensive information. Objectively engage backward-compatible best practices vis-a-vis virtual meta-services. Appropriately benchmark bricks-and-clicks opportunities before performance based niches. Compellingly seize maintainable value before principle-centered paradigms. Credibly underwhelm just in time resources and functional e-services.'
+    -
+      tag: link
+      attributes:
+        rel: canonical
+        href: 'https://storm.ddev.site/people/john-doe'
+  path:
+    -
+      alias: /people/john-doe
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: '<p>Collaboratively facilitate fully tested leadership with inexpensive information. Objectively engage backward-compatible best practices vis-a-vis virtual meta-services. Appropriately benchmark bricks-and-clicks opportunities before performance based niches. Compellingly seize maintainable value before principle-centered paradigms. Credibly underwhelm just in time resources and functional e-services.</p><p>Globally scale holistic outsourcing rather than inexpensive applications. Efficiently cultivate covalent human capital with web-enabled customer service. Proactively deliver prospective solutions and state of the art systems. Continually supply enterprise-wide communities rather than professional.</p>'
+      format: basic_html
+      summary: ''
+  field_company:
+    -
+      value: 'Crown LLC'
+  field_designation:
+    -
+      value: 'Director of Delivery'
+  field_first_name:
+    -
+      value: John
+  field_image:
+    -
+      entity: 0ab59829-d70b-4815-8dec-9afe0bb2c7ac
+  field_last_name:
+    -
+      value: Doe
+  field_link:
+    -
+      uri: 'https://example.com/'
+      title: 'Learn More'
+      options: {  }

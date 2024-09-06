@@ -1,0 +1,82 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 0aeaaf4d-fe17-40c0-a855-1e96662ee44f
+  bundle: person
+  default_langcode: en
+  depends:
+    405ea926-095d-4cb1-948b-b8ddfa8c45be: media
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Harps Joseph'
+  created:
+    -
+      value: 1725615129
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  moderation_state:
+    -
+      value: published
+  metatag:
+    -
+      tag: meta
+      attributes:
+        name: title
+        content: 'Harps Joseph | StormCMS'
+    -
+      tag: meta
+      attributes:
+        name: description
+        content: 'Competently reinvent high standards in solutions and worldwide products. Enthusiastically create high-quality users with fully tested results. Interactively predominate functional vortals with reliable channels. Appropriately embrace superior networks after premier relationships. Interactively harness turnkey web-readiness before ubiquitous materials.'
+    -
+      tag: link
+      attributes:
+        rel: canonical
+        href: 'https://storm.ddev.site/people/harps-joseph'
+  path:
+    -
+      alias: /people/harps-joseph
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: '<p>Competently reinvent high standards in solutions and worldwide products. Enthusiastically create high-quality users with fully tested results. Interactively predominate functional vortals with reliable channels. Appropriately embrace superior networks after premier relationships. Interactively harness turnkey web-readiness before ubiquitous materials.</p><p>Distinctively restore value-added relationships after an expanded array of outsourcing. Rapidiously enhance competitive catalysts for change without interdependent interfaces. Continually implement visionary paradigms without resource-leveling web services. Continually orchestrate process-centric growth strategies with integrated experiences. Interactively.</p>'
+      format: basic_html
+      summary: ''
+  field_company:
+    -
+      value: 'Zenith Solutions'
+  field_designation:
+    -
+      value: 'Senior Manager'
+  field_first_name:
+    -
+      value: Harps
+  field_image:
+    -
+      entity: 405ea926-095d-4cb1-948b-b8ddfa8c45be
+  field_last_name:
+    -
+      value: Joseph
+  field_link:
+    -
+      uri: 'http://www.testingmcafeesites.com/testcat_be.html'
+      title: 'Click Here'
+      options: {  }

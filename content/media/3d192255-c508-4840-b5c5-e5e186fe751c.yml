@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: media
+  uuid: 3d192255-c508-4840-b5c5-e5e186fe751c
+  bundle: image
+  default_langcode: en
+  depends:
+    7743f20a-3578-40a4-bbb8-93e167ee9f76: file
+    238bea2c-808b-4e7a-a9d7-e8ee066e9508: taxonomy_term
+default:
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  name:
+    -
+      value: jane-doe.jpg
+  created:
+    -
+      value: 1725614574
+  revision_translation_affected:
+    -
+      value: true
+  metatag:
+    -
+      tag: meta
+      attributes:
+        name: title
+        content: '| StormCMS'
+    -
+      tag: link
+      attributes:
+        rel: canonical
+        href: 'https://storm.ddev.site/user/login'
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 0
+  field_caption_credit:
+    -
+      value: '<p>Photo by <a href="https://unsplash.com/@michaeldam?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Jane Doe</a> on <a href="https://unsplash.com/photos/closeup-photography-of-woman-smiling-mEZ3PoFGs_k?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Unsplash</a>.</p>'
+      format: basic_html
+  field_media_image:
+    -
+      entity: 7743f20a-3578-40a4-bbb8-93e167ee9f76
+      alt: 'Jane Doe'
+      title: ''
+      width: 3744
+      height: 5616
+  field_media_tags:
+    -
+      entity: 238bea2c-808b-4e7a-a9d7-e8ee066e9508

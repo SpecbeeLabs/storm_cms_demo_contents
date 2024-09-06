@@ -1,0 +1,82 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 0dcc0aec-b246-46b7-b69b-656475704105
+  bundle: person
+  default_langcode: en
+  depends:
+    c4440d66-e90c-48f7-886b-2a7e0d6f40e3: media
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Alexander Hipp'
+  created:
+    -
+      value: 1725616061
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  moderation_state:
+    -
+      value: published
+  metatag:
+    -
+      tag: meta
+      attributes:
+        name: title
+        content: 'Alexander Hipp | StormCMS'
+    -
+      tag: meta
+      attributes:
+        name: description
+        content: 'Intrinsicly reintermediate long-term high-impact web services via interactive markets. Credibly coordinate holistic value without scalable channels. Professionally maximize client-centric outsourcing and focused information. Seamlessly transform principle-centered intellectual capital whereas multidisciplinary schemas. Efficiently productize cross-platform "outside the box" thinking without intermandated strategic theme areas.'
+    -
+      tag: link
+      attributes:
+        rel: canonical
+        href: 'https://storm.ddev.site/people/alexander-hipp'
+  path:
+    -
+      alias: /people/alexander-hipp
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: '<p>Intrinsicly reintermediate long-term high-impact web services via interactive markets. Credibly coordinate holistic value without scalable channels. Professionally maximize client-centric outsourcing and focused information. Seamlessly transform principle-centered intellectual capital whereas multidisciplinary schemas. Efficiently productize cross-platform "outside the box" thinking without intermandated strategic theme areas.</p><p>Progressively leverage other''s end-to-end functionalities and open-source relationships. Seamlessly simplify one-to-one solutions and viral leadership. Seamlessly repurpose resource-leveling methods of empowerment vis-a-vis plug-and-play data. Assertively integrate flexible mindshare after cutting-edge platforms.</p>'
+      format: basic_html
+      summary: ''
+  field_company:
+    -
+      value: 'Crown LLC'
+  field_designation:
+    -
+      value: 'Senior Manager'
+  field_first_name:
+    -
+      value: Alexander
+  field_image:
+    -
+      entity: c4440d66-e90c-48f7-886b-2a7e0d6f40e3
+  field_last_name:
+    -
+      value: Hipp
+  field_link:
+    -
+      uri: 'https://example.com/'
+      title: 'Learn More'
+      options: {  }

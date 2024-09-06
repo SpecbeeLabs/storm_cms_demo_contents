@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: media
+  uuid: 38f1fa8e-820f-4e5a-9dee-abb7ebec0125
+  bundle: image
+  default_langcode: en
+  depends:
+    8aea0f27-9bea-49f6-810c-563f3b97e55c: file
+    2651446f-4234-4948-9bc6-65d956fecb6d: taxonomy_term
+default:
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  name:
+    -
+      value: jim-beam.jpg
+  created:
+    -
+      value: 1725614848
+  revision_translation_affected:
+    -
+      value: true
+  metatag:
+    -
+      tag: meta
+      attributes:
+        name: title
+        content: '| StormCMS'
+    -
+      tag: link
+      attributes:
+        rel: canonical
+        href: 'https://storm.ddev.site/user/login'
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 0
+  field_caption_credit:
+    -
+      value: '<p>Photo by <a href="https://unsplash.com/@austindistel?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Austin Distel</a> on <a href="https://unsplash.com/photos/woman-wearing-blue-coat-7uoMmzPd2JA?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Unsplash</a>.</p>'
+      format: basic_html
+  field_media_image:
+    -
+      entity: 8aea0f27-9bea-49f6-810c-563f3b97e55c
+      alt: 'Jim Beam'
+      title: ''
+      width: 6720
+      height: 4480
+  field_media_tags:
+    -
+      entity: 2651446f-4234-4948-9bc6-65d956fecb6d
