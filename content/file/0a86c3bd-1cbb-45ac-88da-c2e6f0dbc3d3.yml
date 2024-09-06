@@ -1,0 +1,30 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 0a86c3bd-1cbb-45ac-88da-c2e6f0dbc3d3
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: harps-joseph.jpg
+  uri:
+    -
+      value: 'public://2024-09/harps-joseph.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 708705
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1725619338
+  origname:
+    -
+      value: harps-joseph.jpg

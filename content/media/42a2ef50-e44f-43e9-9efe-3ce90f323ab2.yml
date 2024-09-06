@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: media
+  uuid: 42a2ef50-e44f-43e9-9efe-3ce90f323ab2
+  bundle: image
+  default_langcode: en
+  depends:
+    556c899c-4c75-4154-a3a7-766693ac9cb6: file
+    238bea2c-808b-4e7a-a9d7-e8ee066e9508: taxonomy_term
+default:
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  name:
+    -
+      value: greg-edwards.jpg
+  created:
+    -
+      value: 1725616369
+  revision_translation_affected:
+    -
+      value: true
+  metatag:
+    -
+      tag: meta
+      attributes:
+        name: title
+        content: '| StormCMS'
+    -
+      tag: link
+      attributes:
+        rel: canonical
+        href: 'https://storm.ddev.site/user/login'
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 0
+  field_caption_credit:
+    -
+      value: '<p>Photo by <a href="https://unsplash.com/@gregsedwards?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Greg Edwards</a> on <a href="https://unsplash.com/photos/a-man-in-a-blue-shirt-smiling-at-the-camera-oz2wj86hGxA?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Unsplash</a>.</p>'
+      format: basic_html
+  field_media_image:
+    -
+      entity: 556c899c-4c75-4154-a3a7-766693ac9cb6
+      alt: 'Greg Edwards'
+      title: ''
+      width: 2872
+      height: 3590
+  field_media_tags:
+    -
+      entity: 238bea2c-808b-4e7a-a9d7-e8ee066e9508

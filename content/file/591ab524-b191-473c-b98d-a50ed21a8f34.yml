@@ -1,0 +1,30 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 591ab524-b191-473c-b98d-a50ed21a8f34
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: joe-fernandes.jpg
+  uri:
+    -
+      value: 'public://2024-09/joe-fernandes.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 352462
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1725619476
+  origname:
+    -
+      value: joe-fernandes.jpg

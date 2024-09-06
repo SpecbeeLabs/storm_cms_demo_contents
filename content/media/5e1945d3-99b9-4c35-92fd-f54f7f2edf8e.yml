@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: media
+  uuid: 5e1945d3-99b9-4c35-92fd-f54f7f2edf8e
+  bundle: image
+  default_langcode: en
+  depends:
+    ea377f1e-6324-4e8b-bb97-fb3c2dc6cfc5: file
+    3b63a2b2-1df9-4160-97c2-7b5a7dfcfeb9: taxonomy_term
+default:
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  name:
+    -
+      value: haydn-golden.jpg
+  created:
+    -
+      value: 1725616598
+  revision_translation_affected:
+    -
+      value: true
+  metatag:
+    -
+      tag: meta
+      attributes:
+        name: title
+        content: '| StormCMS'
+    -
+      tag: link
+      attributes:
+        rel: canonical
+        href: 'https://storm.ddev.site/user/login'
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 0
+  field_caption_credit:
+    -
+      value: '<p>Photo by <a href="https://unsplash.com/@goldensson?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Haydn Golden</a> on <a href="https://unsplash.com/photos/man-wearing-suit-jacket-and-white-painted-wall-wcvuv00UDd4?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Unsplash</a></p>'
+      format: basic_html
+  field_media_image:
+    -
+      entity: ea377f1e-6324-4e8b-bb97-fb3c2dc6cfc5
+      alt: 'Haydn Golden'
+      title: ''
+      width: 3456
+      height: 4608
+  field_media_tags:
+    -
+      entity: 3b63a2b2-1df9-4160-97c2-7b5a7dfcfeb9

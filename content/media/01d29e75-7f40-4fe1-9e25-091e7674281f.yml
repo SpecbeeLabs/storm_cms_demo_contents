@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: media
+  uuid: 01d29e75-7f40-4fe1-9e25-091e7674281f
+  bundle: image
+  default_langcode: en
+  depends:
+    1810eb4f-ca55-4b8f-a6fb-0ec5c8636b3b: file
+    2651446f-4234-4948-9bc6-65d956fecb6d: taxonomy_term
+default:
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  name:
+    -
+      value: clay-elliot.jpg
+  created:
+    -
+      value: 1725615856
+  revision_translation_affected:
+    -
+      value: true
+  metatag:
+    -
+      tag: meta
+      attributes:
+        name: title
+        content: '| StormCMS'
+    -
+      tag: link
+      attributes:
+        rel: canonical
+        href: 'https://storm.ddev.site/user/login'
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 0
+  field_caption_credit:
+    -
+      value: '<p>Photo by <a href="https://unsplash.com/@ibidsy?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Clay Elliot</a> on <a href="https://unsplash.com/photos/woman-in-red-cardigan-smiling-mpDV4xaFP8c?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Unsplash</a>.</p>'
+      format: basic_html
+  field_media_image:
+    -
+      entity: 1810eb4f-ca55-4b8f-a6fb-0ec5c8636b3b
+      alt: 'Clay Elliot'
+      title: ''
+      width: 2725
+      height: 3923
+  field_media_tags:
+    -
+      entity: 2651446f-4234-4948-9bc6-65d956fecb6d

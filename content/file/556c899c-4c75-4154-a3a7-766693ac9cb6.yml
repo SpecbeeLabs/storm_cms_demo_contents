@@ -1,0 +1,30 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 556c899c-4c75-4154-a3a7-766693ac9cb6
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: greg-edwards.jpg
+  uri:
+    -
+      value: 'public://2024-09/greg-edwards.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 539110
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1725619437
+  origname:
+    -
+      value: greg-edwards.jpg

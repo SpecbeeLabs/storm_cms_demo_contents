@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: media
+  uuid: 76c0e253-a64b-4967-a16b-d944e1ee3b9f
+  bundle: image
+  default_langcode: en
+  depends:
+    591ab524-b191-473c-b98d-a50ed21a8f34: file
+    2651446f-4234-4948-9bc6-65d956fecb6d: taxonomy_term
+default:
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  name:
+    -
+      value: joe-fernandes.jpg
+  created:
+    -
+      value: 1725616695
+  revision_translation_affected:
+    -
+      value: true
+  metatag:
+    -
+      tag: meta
+      attributes:
+        name: title
+        content: '| StormCMS'
+    -
+      tag: link
+      attributes:
+        rel: canonical
+        href: 'https://storm.ddev.site/user/login'
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 0
+  field_caption_credit:
+    -
+      value: '<p>Photo by <a href="https://unsplash.com/@zoeaureliaa?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Joe Fernandez</a> on <a href="https://unsplash.com/photos/woman-wearing-striped-top--zqoE7jnQgw?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Unsplash</a></p>'
+      format: basic_html
+  field_media_image:
+    -
+      entity: 591ab524-b191-473c-b98d-a50ed21a8f34
+      alt: 'Joe Fernandes'
+      title: ''
+      width: 1872
+      height: 3344
+  field_media_tags:
+    -
+      entity: 2651446f-4234-4948-9bc6-65d956fecb6d

@@ -1,0 +1,30 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 1810eb4f-ca55-4b8f-a6fb-0ec5c8636b3b
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: clay-elliot.jpg
+  uri:
+    -
+      value: 'public://2024-09/clay-elliot.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 465413
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1725619401
+  origname:
+    -
+      value: clay-elliot.jpg

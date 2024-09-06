@@ -1,0 +1,82 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: daae9f84-f08c-44e2-8c3b-c1adbc1eac34
+  bundle: person
+  default_langcode: en
+  depends:
+    46fa23a9-1ce5-4b80-b20b-26ea2b6ffed8: media
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Ryan Hoffman'
+  created:
+    -
+      value: 1725615969
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  moderation_state:
+    -
+      value: published
+  metatag:
+    -
+      tag: meta
+      attributes:
+        name: title
+        content: 'Ryan Hoffman | StormCMS'
+    -
+      tag: meta
+      attributes:
+        name: description
+        content: "Proactively syndicate ethical best practices rather than transparent methodologies. Uniquely leverage other's top-line bandwidth rather than turnkey e-business. Progressively fashion performance based e-markets rather than mission-critical markets. Assertively create emerging markets through functional markets. Holisticly strategize extensible deliverables and orthogonal leadership."
+    -
+      tag: link
+      attributes:
+        rel: canonical
+        href: 'https://storm.ddev.site/people/ryan-hoffman'
+  path:
+    -
+      alias: /people/ryan-hoffman
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: '<p>Proactively syndicate ethical best practices rather than transparent methodologies. Uniquely leverage other''s top-line bandwidth rather than turnkey e-business. Progressively fashion performance based e-markets rather than mission-critical markets. Assertively create emerging markets through functional markets. Holisticly strategize extensible deliverables and orthogonal leadership.</p><p>Progressively utilize 2.0 infrastructures after enterprise e-tailers. Enthusiastically incubate process-centric solutions vis-a-vis leading-edge methodologies. Rapidiously benchmark market positioning internal or "organic" sources without granular e-services. Progressively transform client-focused internal or "organic" sources without.</p>'
+      format: basic_html
+      summary: ''
+  field_company:
+    -
+      value: 'Acme Industries'
+  field_designation:
+    -
+      value: 'Director of Delivery'
+  field_first_name:
+    -
+      value: Ryan
+  field_image:
+    -
+      entity: 46fa23a9-1ce5-4b80-b20b-26ea2b6ffed8
+  field_last_name:
+    -
+      value: Hoffman
+  field_link:
+    -
+      uri: 'https://example.com/'
+      title: 'Click Here'
+      options: {  }

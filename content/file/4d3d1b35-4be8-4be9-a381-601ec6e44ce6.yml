@@ -1,0 +1,30 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 4d3d1b35-4be8-4be9-a381-601ec6e44ce6
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: john-doe.jpg
+  uri:
+    -
+      value: 'public://2024-09/john-doe.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 345746
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1725619419
+  origname:
+    -
+      value: john-doe.jpg

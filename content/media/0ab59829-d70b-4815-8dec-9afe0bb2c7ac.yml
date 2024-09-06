@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: media
+  uuid: 0ab59829-d70b-4815-8dec-9afe0bb2c7ac
+  bundle: image
+  default_langcode: en
+  depends:
+    4d3d1b35-4be8-4be9-a381-601ec6e44ce6: file
+    3b63a2b2-1df9-4160-97c2-7b5a7dfcfeb9: taxonomy_term
+default:
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  name:
+    -
+      value: john-doe.jpg
+  created:
+    -
+      value: 1725616212
+  revision_translation_affected:
+    -
+      value: true
+  metatag:
+    -
+      tag: meta
+      attributes:
+        name: title
+        content: '| StormCMS'
+    -
+      tag: link
+      attributes:
+        rel: canonical
+        href: 'https://storm.ddev.site/user/login'
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 0
+  field_caption_credit:
+    -
+      value: '<p>Photo by <a href="https://example.com/">John Doe</a> on <a href="https://unsplash.com/photos/man-standing-beside-wall-pAtA8xe_iVM?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Unsplash</a></p>'
+      format: basic_html
+  field_media_image:
+    -
+      entity: 4d3d1b35-4be8-4be9-a381-601ec6e44ce6
+      alt: 'John Doe'
+      title: ''
+      width: 3149
+      height: 4724
+  field_media_tags:
+    -
+      entity: 3b63a2b2-1df9-4160-97c2-7b5a7dfcfeb9

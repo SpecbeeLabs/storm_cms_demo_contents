@@ -1,0 +1,30 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 7743f20a-3578-40a4-bbb8-93e167ee9f76
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: jane-doe.jpg
+  uri:
+    -
+      value: 'public://2024-09/jane-doe.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 289066
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1725619497
+  origname:
+    -
+      value: jane-doe.jpg
