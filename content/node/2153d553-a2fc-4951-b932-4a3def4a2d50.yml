@@ -1,0 +1,77 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 2153d553-a2fc-4951-b932-4a3def4a2d50
+  bundle: person
+  default_langcode: en
+  depends:
+    83ea080c-5f40-407e-a9d7-a993fbe5ea41: media
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Joseph Gonzalez'
+  created:
+    -
+      value: 1725611225
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  moderation_state:
+    -
+      value: published
+  metatag:
+    -
+      tag: meta
+      attributes:
+        name: title
+        content: 'Joseph Gonzalez | StormCMS'
+    -
+      tag: meta
+      attributes:
+        name: description
+        content: 'Objectively underwhelm bricks-and-clicks metrics vis-a-vis an expanded array of meta-services. Seamlessly monetize seamless synergy with multifunctional users. Competently coordinate enabled imperatives vis-a-vis flexible applications. Synergistically harness clicks-and-mortar process improvements before client-centered data. Monotonectally formulate long-term high-impact total linkage with backward-compatible portals.'
+    -
+      tag: link
+      attributes:
+        rel: canonical
+        href: 'https://storm-testing.ddev.site/people/joseph-gonzalez'
+  path:
+    -
+      alias: /people/joseph-gonzalez
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: '<p>Objectively underwhelm bricks-and-clicks metrics vis-a-vis an expanded array of meta-services. Seamlessly monetize seamless synergy with multifunctional users. Competently coordinate enabled imperatives vis-a-vis flexible applications. Synergistically harness clicks-and-mortar process improvements before client-centered data. Monotonectally formulate long-term high-impact total linkage with backward-compatible portals.</p><p>Rapidiously reconceptualize strategic meta-services for 24/7 users. Progressively develop granular process improvements through extensive interfaces. Competently network strategic metrics after orthogonal opportunities. Intrinsicly promote state of the art infrastructures before interoperable deliverables. Phosfluorescently develop business technology whereas functional supply chains.</p>'
+      format: basic_html
+      summary: ''
+  field_company:
+    -
+      value: 'Acme Productions'
+  field_designation:
+    -
+      value: 'Vice Presiden'
+  field_first_name:
+    -
+      value: Joseph
+  field_image:
+    -
+      entity: 83ea080c-5f40-407e-a9d7-a993fbe5ea41
+  field_last_name:
+    -
+      value: Gonzalez

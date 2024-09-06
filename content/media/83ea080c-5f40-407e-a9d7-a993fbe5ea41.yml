@@ -1,0 +1,58 @@
+_meta:
+  version: '1.0'
+  entity_type: media
+  uuid: 83ea080c-5f40-407e-a9d7-a993fbe5ea41
+  bundle: image
+  default_langcode: en
+  depends:
+    c382f7c0-2f24-4ab5-a055-c5334906e569: file
+    987ac237-3c71-4d16-8cd7-13bcbc5b83c9: taxonomy_term
+    572366ea-e399-4ce3-92c6-2736fb5ffe0e: taxonomy_term
+default:
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  name:
+    -
+      value: 'Joseph Gonzalez'
+  created:
+    -
+      value: 1725611253
+  revision_translation_affected:
+    -
+      value: true
+  metatag:
+    -
+      tag: meta
+      attributes:
+        name: title
+        content: '| StormCMS'
+    -
+      tag: link
+      attributes:
+        rel: canonical
+        href: 'https://storm-testing.ddev.site/user/login'
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 0
+  field_caption_credit:
+    -
+      value: '<p>Photo by <a href="https://unsplash.com/@miracletwentyone?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Joseph Gonzalez</a> on <a href="https://unsplash.com/photos/man-wearing-white-v-neck-shirt-iFgRcqHznqg?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Unsplash</a></p>'
+      format: basic_html
+  field_media_image:
+    -
+      entity: c382f7c0-2f24-4ab5-a055-c5334906e569
+      alt: joseph-gonzalez
+      title: ''
+      width: 3569
+      height: 5354
+  field_media_tags:
+    -
+      entity: 987ac237-3c71-4d16-8cd7-13bcbc5b83c9
+    -
+      entity: 572366ea-e399-4ce3-92c6-2736fb5ffe0e

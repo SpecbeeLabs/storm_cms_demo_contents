@@ -1,0 +1,30 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: c382f7c0-2f24-4ab5-a055-c5334906e569
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: joseph-gonzalez.jpg
+  uri:
+    -
+      value: 'public://2024-09/joseph-gonzalez.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 515376
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1725611325
+  origname:
+    -
+      value: joseph-gonzalez.jpg
