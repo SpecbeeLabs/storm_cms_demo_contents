@@ -1,0 +1,30 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 6d4fb77a-e667-40e8-8f89-f74e6d5beb4b
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: darshan-patel.jpg
+  uri:
+    -
+      value: 'public://2024-09/darshan-patel.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 411654
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1725610643
+  origname:
+    -
+      value: darshan-patel.jpg

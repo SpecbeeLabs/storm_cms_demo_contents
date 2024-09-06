@@ -1,0 +1,58 @@
+_meta:
+  version: '1.0'
+  entity_type: media
+  uuid: da87874b-6b82-49fc-b549-3996e27427f3
+  bundle: image
+  default_langcode: en
+  depends:
+    6d4fb77a-e667-40e8-8f89-f74e6d5beb4b: file
+    987ac237-3c71-4d16-8cd7-13bcbc5b83c9: taxonomy_term
+    572366ea-e399-4ce3-92c6-2736fb5ffe0e: taxonomy_term
+default:
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  name:
+    -
+      value: 'Darshan Patel'
+  created:
+    -
+      value: 1725610208
+  revision_translation_affected:
+    -
+      value: true
+  metatag:
+    -
+      tag: meta
+      attributes:
+        name: title
+        content: '| StormCMS'
+    -
+      tag: link
+      attributes:
+        rel: canonical
+        href: 'https://storm-testing.ddev.site/user/login'
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 0
+  field_caption_credit:
+    -
+      value: '<p>Photo by <a href="https://unsplash.com/@darshanp9?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Darshan Patel</a> on <a href="https://unsplash.com/photos/man-wearing-eyeglasses-and-blue-shirt-inside-coffee-shop-QJEVpydulGs?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Unsplash</a></p>'
+      format: basic_html
+  field_media_image:
+    -
+      entity: 6d4fb77a-e667-40e8-8f89-f74e6d5beb4b
+      alt: 'Darshan Patel'
+      title: ''
+      width: 3024
+      height: 4032
+  field_media_tags:
+    -
+      entity: 987ac237-3c71-4d16-8cd7-13bcbc5b83c9
+    -
+      entity: 572366ea-e399-4ce3-92c6-2736fb5ffe0e

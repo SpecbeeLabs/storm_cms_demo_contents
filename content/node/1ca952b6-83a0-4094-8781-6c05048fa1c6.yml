@@ -1,0 +1,82 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 1ca952b6-83a0-4094-8781-6c05048fa1c6
+  bundle: person
+  default_langcode: en
+  depends:
+    da87874b-6b82-49fc-b549-3996e27427f3: media
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Darshan Patel'
+  created:
+    -
+      value: 1725610691
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  moderation_state:
+    -
+      value: published
+  metatag:
+    -
+      tag: meta
+      attributes:
+        name: title
+        content: 'Darshan Patel | StormCMS'
+    -
+      tag: meta
+      attributes:
+        name: description
+        content: 'Authoritatively strategize enabled markets for adaptive vortals. Proactively optimize inexpensive innovation whereas long-term high-impact systems. Conveniently create parallel outsourcing with vertical content. Authoritatively supply cross-unit niche markets after tactical value. Progressively whiteboard cross-platform innovation and customer directed scenarios.'
+    -
+      tag: link
+      attributes:
+        rel: canonical
+        href: 'https://storm-testing.ddev.site/people/darshan-patel'
+  path:
+    -
+      alias: /people/darshan-patel
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: '<p>Authoritatively strategize enabled markets for adaptive vortals. Proactively optimize inexpensive innovation whereas long-term high-impact systems. Conveniently create parallel outsourcing with vertical content. Authoritatively supply cross-unit niche markets after tactical value. Progressively whiteboard cross-platform innovation and customer directed scenarios.</p><p>Appropriately leverage existing turnkey communities vis-a-vis user friendly imperatives. Seamlessly optimize diverse opportunities vis-a-vis adaptive channels. Dramatically revolutionize resource sucking e-services vis-a-vis emerging web services. Uniquely target cross functional architectures via just in time process improvements. Conveniently fashion highly efficient technologies whereas business methods of empowerment.</p><p>Energistically administrate resource maximizing metrics whereas one-to-one imperatives. Continually exploit scalable communities before enterprise-wide channels. Dramatically matrix timely expertise through value-added.</p>'
+      format: basic_html
+      summary: ''
+  field_company:
+    -
+      value: 'Acme Productions'
+  field_designation:
+    -
+      value: 'Senior Developer'
+  field_first_name:
+    -
+      value: Darshan
+  field_image:
+    -
+      entity: da87874b-6b82-49fc-b549-3996e27427f3
+  field_last_name:
+    -
+      value: Patel
+  field_link:
+    -
+      uri: 'http://example.com'
+      title: 'Personal Website'
+      options: {  }
