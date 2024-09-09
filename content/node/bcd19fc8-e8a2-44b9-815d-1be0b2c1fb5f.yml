@@ -65,7 +65,7 @@ default:
       value: 'Acme Industries'
   field_designation:
     -
-      value: 'Senior Manager'
+      value: 'Senior Analyst'
   field_first_name:
     -
       value: Jane
