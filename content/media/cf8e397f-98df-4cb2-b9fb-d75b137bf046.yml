@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: media
+  uuid: cf8e397f-98df-4cb2-b9fb-d75b137bf046
+  bundle: image
+  default_langcode: en
+  depends:
+    0674ced9-61a0-4858-9a5e-3aa80e20825f: file
+    8b5b5902-9021-4aa0-bf9c-181d1d9955e4: taxonomy_term
+default:
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  name:
+    -
+      value: pivots-founder.jpg
+  created:
+    -
+      value: 1725873680
+  revision_translation_affected:
+    -
+      value: true
+  metatag:
+    -
+      tag: meta
+      attributes:
+        name: title
+        content: '| StormCMS'
+    -
+      tag: link
+      attributes:
+        rel: canonical
+        href: 'https://storm.ddev.site/user/login'
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 0
+  field_caption_credit:
+    -
+      value: '<p>Credit: <a href="https://thenextweb.com/news/embracing-pivots-insights-nanotech-startup-founder">The Next Web</a></p>'
+      format: basic_html
+  field_media_image:
+    -
+      entity: 0674ced9-61a0-4858-9a5e-3aa80e20825f
+      alt: 'Pivots Founder'
+      title: ''
+      width: 1280
+      height: 720
+  field_media_tags:
+    -
+      entity: 8b5b5902-9021-4aa0-bf9c-181d1d9955e4

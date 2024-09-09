@@ -1,0 +1,30 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 2160a1b0-6f51-42dc-8af3-88a070808598
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: volkswagen-car.jpg
+  uri:
+    -
+      value: 'public://2024-09/volkswagen-car_0.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 181471
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1725877559
+  origname:
+    -
+      value: volkswagen-car.jpg

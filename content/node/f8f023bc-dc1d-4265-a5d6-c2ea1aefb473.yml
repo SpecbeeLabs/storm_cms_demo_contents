@@ -1,0 +1,97 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: f8f023bc-dc1d-4265-a5d6-c2ea1aefb473
+  bundle: article
+  default_langcode: en
+  depends:
+    a0436158-051d-4e19-9aed-dc6ee45a4cbb: node
+    e87fcf0e-768d-4fe1-b52b-0ff18c022910: taxonomy_term
+    945adf79-35a1-44c1-82bd-c13fc588902b: media
+    4931fb10-fc4f-4e04-8b74-f2e9e63be30e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Iceland’s sonic simulator Treble wants to build ‘a better sounding world’'
+  created:
+    -
+      value: 1725875235
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  moderation_state:
+    -
+      value: published
+  metatag:
+    -
+      tag: meta
+      attributes:
+        name: title
+        content: 'Iceland’s sonic simulator Treble wants to build ‘a better sounding world’ | StormCMS'
+    -
+      tag: meta
+      attributes:
+        name: description
+        content: "Iceland has a proud tradition in acoustics. The island has given birth to some of the most mesmerising soundscapes from artists over the past decades.\_Björk, Sigur Ròs, Ólafur Arnalds — all have been inspired by the otherworldly settings of their home country’s ambience to create their own sublime sonic landscapes.\_"
+    -
+      tag: link
+      attributes:
+        rel: canonical
+        href: 'https://storm.ddev.site/articles/icelands-sonic-simulator-treble-wants-build-better-sounding-world'
+  path:
+    -
+      alias: /articles/icelands-sonic-simulator-treble-wants-build-better-sounding-world
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: '<p>Iceland has a proud tradition in acoustics. The island has given birth to some of the most mesmerising soundscapes from artists over the past decades.&nbsp;</p><p>Björk, Sigur Ròs, Ólafur Arnalds — all have been inspired by the otherworldly settings of their home country’s ambience to create their own sublime sonic landscapes.&nbsp;</p><p>Keeping up the acoustic adventures where the Atlantic and Arctic oceans meet is Treble Technologies. The Reykjavik-based sound simulation and synthetic audio data generation <a href="https://thenextweb.com/topic/startups">startup</a> has just raised €11mn in <a href="https://thenextweb.com/topic/funding">Series A</a> to improve our audio experiences of the built environment, something increasingly proven to affect our overall wellbeing (and productivity) in spaces.&nbsp;</p><p>Treble’s technology specialises in <a href="https://thenextweb.com/news/mozart-and-siemens-acoustic-digital-twin">simulating sounds</a> of buildings, cars — and tech products — via a cloud-based platform. Founded in 2020 by acoustic engineers Dr Finnur Pind and Jesper Pedersen, the startup currently employs 35 people (approximately 0.009% of Iceland’s total population).&nbsp;</p><p>Having launched the platform in 2023, Treble says its mission is to “enable a better sounding world, enhancing overall wellbeing and productivity.” It does this using what it says is the world’s fastest wave-based sound simulation technology — 100 times faster than other state-of-the-art solutions.</p>'
+      format: basic_html
+      summary: ''
+  field_authors:
+    -
+      entity: a0436158-051d-4e19-9aed-dc6ee45a4cbb
+  field_category:
+    -
+      entity: e87fcf0e-768d-4fe1-b52b-0ff18c022910
+  field_content_footer:
+    -
+      value: '<p>Intrinsicly mesh next-generation data for fully tested methods of empowerment. Energistically grow plug-and-play data before corporate applications. Continually negotiate scalable outsourcing rather than 24/7 processes. Compellingly foster alternative internal or "organic" sources after.</p>'
+      format: basic_html
+  field_content_header:
+    -
+      value: '<p>Seamlessly provide access to virtual information rather than backward-compatible opportunities. Proactively seize best-of-breed models with high-quality catalysts for change. Competently parallel task team driven materials before progressive relationships. Dynamically visualize standardized imperatives and.</p>'
+      format: basic_html
+  field_image:
+    -
+      entity: 945adf79-35a1-44c1-82bd-c13fc588902b
+  field_link:
+    -
+      uri: 'https://thenextweb.com/news/icelandic-vc-87m-fund-startup-scene-comes-of-age'
+      title: 'Fourth Fund'
+      options: {  }
+  field_teaser:
+    -
+      value: '<p>Having launched the platform in 2023, Treble says its mission is to “enable a better sounding world, enhancing overall wellbeing and productivity.” It does this using what it says is the world’s fastest wave-based sound simulation technology — 100 times faster than other state-of-the-art solutions.</p>'
+      format: basic_html
+  field_thumbnail:
+    -
+      entity: 945adf79-35a1-44c1-82bd-c13fc588902b
+  field_topics:
+    -
+      entity: 4931fb10-fc4f-4e04-8b74-f2e9e63be30e

@@ -1,0 +1,100 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: e0081384-55c9-41d6-aeee-2f1ff26269aa
+  bundle: article
+  default_langcode: en
+  depends:
+    daae9f84-f08c-44e2-8c3b-c1adbc1eac34: node
+    ff200533-5078-412d-9ccb-d192004e5e2f: taxonomy_term
+    ff19db35-129c-47cf-83c3-9be02c05de57: media
+    973ae070-99a3-4546-973e-f720d6f74c27: taxonomy_term
+    69ba7fdd-8bb6-419d-be84-b8ac72cd7070: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'NHS flies blood packs by drone beyond the line of sight in UK first'
+  created:
+    -
+      value: 1725878259
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  moderation_state:
+    -
+      value: published
+  metatag:
+    -
+      tag: meta
+      attributes:
+        name: title
+        content: 'NHS flies blood packs by drone beyond the line of sight in UK first | StormCMS'
+    -
+      tag: meta
+      attributes:
+        name: description
+        content: 'In a UK first, drones have successfully delivered blood packs, flying beyond the visual line of sight, where the pilot can no longer see them as they travel.The flights were part of a joint trial between the NHS and healthcare logistics startup Apian. Its aim was to test the viability of blood samples following drone transport.'
+    -
+      tag: link
+      attributes:
+        rel: canonical
+        href: 'https://storm.ddev.site/articles/nhs-flies-blood-packs-drone-beyond-line-sight-uk-first'
+  path:
+    -
+      alias: /articles/nhs-flies-blood-packs-drone-beyond-line-sight-uk-first
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: '<p>In a UK first, drones have successfully delivered blood packs, flying <a href="https://thenextweb.com/news/british-police-join-drone-trials">beyond the visual line of sight</a>, where the pilot can no longer see them as they travel.</p><p>The flights were part of a joint trial between the NHS and healthcare logistics <a href="https://thenextweb.com/topic/startup">startup</a> Apian. Its aim was to test the viability of blood samples following drone transport.</p><p>To do this, the research team sent 10 identical blood packs between Northumbria Healthcare NHS Foundation Trust’s Wansbeck Hospital and Alnwick Infirmary, and back again.</p><p>Five of them travelled via <a href="https://thenextweb.com/topic/drone">drone</a> over a 68km journey in a total of 61 minutes. The other five were transported with ground vehicles across a 74.6km route, which took 68 minutes.</p><p>The team then analysed the blood samples to test if they had maintained their quality and could be used for transfusion. They found no significant differences in the biochemical and haematological properties of the blood.</p><p>“The results of this first trial are very promising, showing no compromise to the safety of the blood,” said Gail Miflin, chief medical officer at NHS Blood and Transplant.</p><p>Following this study, the NHS is now planning a series of further trials to determine if delivering medical supplies by drone is feasible. This could potentially offer a faster and greener alternative to traditional road transport.</p><p>The next trial will focus on delivering platelets, a type of blood cell that helps form clots that can slow or stop bleeding.</p>'
+      format: basic_html
+      summary: ''
+  field_authors:
+    -
+      entity: daae9f84-f08c-44e2-8c3b-c1adbc1eac34
+  field_category:
+    -
+      entity: ff200533-5078-412d-9ccb-d192004e5e2f
+  field_content_footer:
+    -
+      value: "<p>Distinctively leverage other's empowered technology through front-end communities. Seamlessly productize client-centric benefits before innovative technologies. Conveniently disintermediate enterprise-wide platforms with error-free results. Assertively leverage other's plug-and-play convergence after transparent action items. Intrinsicly re-engineer.</p>"
+      format: basic_html
+  field_content_header:
+    -
+      value: '<p>Dynamically exploit strategic human capital via error-free services. Progressively leverage existing fully tested total linkage and visionary services. Proactively seize synergistic infrastructures and integrated relationships. Seamlessly architect fully researched services after excellent e-markets.</p>'
+      format: basic_html
+  field_image:
+    -
+      entity: ff19db35-129c-47cf-83c3-9be02c05de57
+  field_link:
+    -
+      uri: 'https://thenextweb.com/news/nhs-blood-packs-drone-beyond-line-of-sight'
+      title: 'Line of Sight'
+      options: {  }
+  field_teaser:
+    -
+      value: '<p>Five of them travelled via <a href="https://thenextweb.com/topic/drone">drone</a> over a 68km journey in a total of 61 minutes. The other five were transported with ground vehicles across a 74.6km route, which took 68 minutes.</p>'
+      format: basic_html
+  field_thumbnail:
+    -
+      entity: ff19db35-129c-47cf-83c3-9be02c05de57
+  field_topics:
+    -
+      entity: 973ae070-99a3-4546-973e-f720d6f74c27
+    -
+      entity: 69ba7fdd-8bb6-419d-be84-b8ac72cd7070

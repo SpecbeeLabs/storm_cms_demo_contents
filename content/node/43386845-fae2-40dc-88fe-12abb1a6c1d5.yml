@@ -1,0 +1,97 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 43386845-fae2-40dc-88fe-12abb1a6c1d5
+  bundle: article
+  default_langcode: en
+  depends:
+    0dcc0aec-b246-46b7-b69b-656475704105: node
+    e87fcf0e-768d-4fe1-b52b-0ff18c022910: taxonomy_term
+    084a1e65-3541-46d1-9e05-928955bd82d3: media
+    cdcf8d31-8c10-47b6-a2f4-16c7ef5e6474: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Europe’s semiconductor sector calls for immediate ‘Chips Act 2.0’'
+  created:
+    -
+      value: 1725875420
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  moderation_state:
+    -
+      value: published
+  metatag:
+    -
+      tag: meta
+      attributes:
+        name: title
+        content: 'Europe’s semiconductor sector calls for immediate ‘Chips Act 2.0’ | StormCMS'
+    -
+      tag: meta
+      attributes:
+        name: description
+        content: 'ESIA, the association representing Europe’s semiconductor industry, has called for an “immediate Chips Act 2.0” — if the bloc is to maintain momentum in the global race for technological leadership.The group comprises major chipmakers such as NXP and Infineon as well as research organisations including imec and Fraunhofer.'
+    -
+      tag: link
+      attributes:
+        rel: canonical
+        href: 'https://storm.ddev.site/articles/europes-semiconductor-sector-calls-immediate-chips-act-20'
+  path:
+    -
+      alias: /articles/europes-semiconductor-sector-calls-immediate-chips-act-20
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: '<p>ESIA, the association representing Europe’s semiconductor industry, has called for an “immediate Chips Act 2.0” — if the bloc is to maintain momentum in the global race for technological leadership.</p><p>The group comprises major chipmakers such as NXP and Infineon as well as research organisations including imec and Fraunhofer.</p><p>The <a href="https://thenextweb.com/news/eu-chips-act-enters-into-force">EU’s Chips Act</a> entered into force in September 2023. It aims to mobilise €43bn in public and private investments that will the help the bloc to produce 20% of the world’s semiconductors by 2030.</p><p>In a <a href="https://www.eusemiconductors.eu/sites/default/files/ESIA_Key%20Recommendations%202024-2029_digital_final_0.pdf">statement</a> on Monday, ESIA acknowledged the act as “a fundamental building block.” However, it argues that the <a href="https://thenextweb.com/topic/european-union">EU</a> still needs to reconsider its scope, streamline processes, and address gaps.</p><p>One such step is fast-tracking state aid schemes — one of the regulation’s most crucial mechanisms to attract major international companies and increase the number of domestic chip factories.</p><p>The EU has still to approve state aid for Intel’s planned <a href="https://thenextweb.com/news/intel-germany-strike-record-e30b-deal-for-chip-mega-factory">€30bn mega fab</a> in Germany. Last month, it finally approved €5bn in support of <a href="https://thenextweb.com/news/tsmc-first-chip-factory-europe-state-aid-germany">TSMC’s upcoming chip plant</a> in Dresden — a year later after the Taiwanese chip giant announced its commitment to invest in the bloc.</p>'
+      format: basic_html
+      summary: ''
+  field_authors:
+    -
+      entity: 0dcc0aec-b246-46b7-b69b-656475704105
+  field_category:
+    -
+      entity: e87fcf0e-768d-4fe1-b52b-0ff18c022910
+  field_content_footer:
+    -
+      value: '<p>Dynamically cultivate 24/365 communities via clicks-and-mortar functionalities. Efficiently communicate team building growth strategies rather than end-to-end ideas. Seamlessly parallel task maintainable synergy vis-a-vis extensible leadership. Globally whiteboard global architectures whereas client-centered architectures. Professionally.</p>'
+      format: basic_html
+  field_content_header:
+    -
+      value: '<p>Monotonectally implement competitive manufactured products and state of the art content. Collaboratively formulate frictionless methodologies before bricks-and-clicks bandwidth. Proactively implement bricks-and-clicks experiences before performance based strategic theme areas. Interactively reconceptualize state of the.</p>'
+      format: basic_html
+  field_image:
+    -
+      entity: 084a1e65-3541-46d1-9e05-928955bd82d3
+  field_link:
+    -
+      uri: 'https://thenextweb.com/news/europe-semiconductor-sector-calls-chips-act-2-0'
+      title: thenextweb
+      options: {  }
+  field_teaser:
+    -
+      value: '<p>The <a href="https://thenextweb.com/news/eu-chips-act-enters-into-force">EU’s Chips Act</a> entered into force in September 2023. It aims to mobilise €43bn in public and private investments that will the help the bloc to produce 20% of the world’s semiconductors by 2030.</p>'
+      format: basic_html
+  field_thumbnail:
+    -
+      entity: 084a1e65-3541-46d1-9e05-928955bd82d3
+  field_topics:
+    -
+      entity: cdcf8d31-8c10-47b6-a2f4-16c7ef5e6474

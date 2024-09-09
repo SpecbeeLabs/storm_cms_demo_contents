@@ -1,0 +1,30 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: b6e1fccc-8388-4d29-9939-ff7766824682
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: sweden-hydrogen.jpg
+  uri:
+    -
+      value: 'public://2024-09/sweden-hydrogen_0.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 186572
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1725876832
+  origname:
+    -
+      value: sweden-hydrogen.jpg

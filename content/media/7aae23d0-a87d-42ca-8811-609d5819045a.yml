@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: media
+  uuid: 7aae23d0-a87d-42ca-8811-609d5819045a
+  bundle: image
+  default_langcode: en
+  depends:
+    7b35d20f-ac06-4d54-ab40-150256c15a23: file
+    8b5b5902-9021-4aa0-bf9c-181d1d9955e4: taxonomy_term
+default:
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  name:
+    -
+      value: universal-wallet.jpg
+  created:
+    -
+      value: 1725872654
+  revision_translation_affected:
+    -
+      value: true
+  metatag:
+    -
+      tag: meta
+      attributes:
+        name: title
+        content: '| StormCMS'
+    -
+      tag: link
+      attributes:
+        rel: canonical
+        href: 'https://storm.ddev.site/user/login'
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 0
+  field_caption_credit:
+    -
+      value: '<p>Credit: <a href="https://www.flickr.com/photos/websummit/51655477615/in/photolist-2mGBPR2-68ACoQ-2nXbrR6-vziH6w-7X3U9m-2nX9zBc-2nX71xb-vRVsjg-2nX9zjt-2novp4-fXgc72-fXgeXo-7X3U3C-a5hs5a-7X3W4m-fXg97y-fXgckD-7fw4Gw-7WZxkx-68wp7B-fXg9mo-emyTuW-2gNZ4NP-7WZELR-7X3QG5-fXg5JS-fXgaqX-fXfY7U-7X3RHU-7X3Nn7-7X3S35-vRVgVR-vwjua9-963i7U-vSiwNP-2cCgMfy-7X3Nc3-7X3MTf-2bhQ45r-7X3MLs-vNjT39-2mGtdAW-emyTSS-fXgdPm-7X3MjJ-fXg7Qr-fXgB4Z-fXgbot-2nX9zh4-7WZK1K">Web Summit</a></p><p>&nbsp;</p>'
+      format: basic_html
+  field_media_image:
+    -
+      entity: 7b35d20f-ac06-4d54-ab40-150256c15a23
+      alt: 'Universal Wallet'
+      title: ''
+      width: 1280
+      height: 720
+  field_media_tags:
+    -
+      entity: 8b5b5902-9021-4aa0-bf9c-181d1d9955e4

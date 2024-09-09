@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: media
+  uuid: fef12a78-df8b-4f64-a6c2-c2c50bac3a18
+  bundle: image
+  default_langcode: en
+  depends:
+    b6e1fccc-8388-4d29-9939-ff7766824682: file
+    8b5b5902-9021-4aa0-bf9c-181d1d9955e4: taxonomy_term
+default:
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  name:
+    -
+      value: sweden-hydrogen.jpg
+  created:
+    -
+      value: 1725876832
+  revision_translation_affected:
+    -
+      value: true
+  metatag:
+    -
+      tag: meta
+      attributes:
+        name: title
+        content: '| StormCMS'
+    -
+      tag: link
+      attributes:
+        rel: canonical
+        href: 'https://storm.ddev.site/user/login'
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 0
+  field_caption_credit:
+    -
+      value: '<p>Credit: <a href="https://thenextweb.com/news/sweden-hydrogen-green-steel-vattenfall-ssab-lkab-hybrit">The Next Web</a></p>'
+      format: basic_html
+  field_media_image:
+    -
+      entity: b6e1fccc-8388-4d29-9939-ff7766824682
+      alt: 'Sweden Hydrogen'
+      title: ''
+      width: 1280
+      height: 720
+  field_media_tags:
+    -
+      entity: 8b5b5902-9021-4aa0-bf9c-181d1d9955e4

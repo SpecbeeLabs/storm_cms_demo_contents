@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: media
+  uuid: 15fefaad-63bb-4168-a588-89169aafadd6
+  bundle: image
+  default_langcode: en
+  depends:
+    2e954bd6-f637-4f87-9e3e-ebcd2c39035b: file
+    8b5b5902-9021-4aa0-bf9c-181d1d9955e4: taxonomy_term
+default:
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  name:
+    -
+      value: gaming-era.jpg
+  created:
+    -
+      value: 1725877006
+  revision_translation_affected:
+    -
+      value: true
+  metatag:
+    -
+      tag: meta
+      attributes:
+        name: title
+        content: '| StormCMS'
+    -
+      tag: link
+      attributes:
+        rel: canonical
+        href: 'https://storm.ddev.site/user/login'
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 0
+  field_caption_credit:
+    -
+      value: '<p><strong>Credit</strong>: <a href="https://thenextweb.com/news/lego-fortnite-heralds-new-gaming-era-for-toys">The Next Web</a></p>'
+      format: basic_html
+  field_media_image:
+    -
+      entity: 2e954bd6-f637-4f87-9e3e-ebcd2c39035b
+      alt: 'Gaming Era'
+      title: ''
+      width: 1280
+      height: 720
+  field_media_tags:
+    -
+      entity: 8b5b5902-9021-4aa0-bf9c-181d1d9955e4

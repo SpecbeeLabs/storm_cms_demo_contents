@@ -1,0 +1,100 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 84e4f734-4078-4306-98f3-d1fe4cde1685
+  bundle: article
+  default_langcode: en
+  depends:
+    daae9f84-f08c-44e2-8c3b-c1adbc1eac34: node
+    a322b976-9037-48c5-9575-09a05ccdf09e: taxonomy_term
+    41a083ee-0abb-488c-838a-c9175634c890: media
+    cdcf8d31-8c10-47b6-a2f4-16c7ef5e6474: taxonomy_term
+    4931fb10-fc4f-4e04-8b74-f2e9e63be30e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Boutique ebike maker Cowboy bags €5M as it races to do what VanMoof couldn’t'
+  created:
+    -
+      value: 1725874047
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  moderation_state:
+    -
+      value: published
+  metatag:
+    -
+      tag: meta
+      attributes:
+        name: title
+        content: 'Boutique ebike maker Cowboy bags €5M as it races to do what VanMoof couldn’t | StormCMS'
+    -
+      tag: meta
+      attributes:
+        name: description
+        content: "Belgian ebike maker Cowboy has bagged €5mn as it looks to achieve full-year profitability next year — and not suffer the same fate as VanMoof.\_The funding round was led by Cypress Capital, a Hong Kong-based VC with strong ties to Taiwan, the global hub of bicycle manufacturing.“Cypress Capital is not just a financial investor — which is great to have as well, especially in this climate — but a strategic one,” Cowboy’s founder and CEO, Adrien Roose, told TNW.\_"
+    -
+      tag: link
+      attributes:
+        rel: canonical
+        href: 'https://storm.ddev.site/articles/boutique-ebike-maker-cowboy-bags-eu5m-it-races-do-what-vanmoof-couldnt'
+  path:
+    -
+      alias: /articles/boutique-ebike-maker-cowboy-bags-eu5m-it-races-do-what-vanmoof-couldnt
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: '<p>Belgian ebike maker Cowboy has bagged €5mn as it looks to achieve full-year profitability next year — and <em>not</em> suffer the same fate as <a href="https://thenextweb.com/news/ebike-vanmoof-bankrupt">VanMoof</a>.&nbsp;</p><p>The funding round was led by Cypress Capital, a Hong Kong-based VC with strong ties to Taiwan, the global hub of bicycle manufacturing.</p><p>“Cypress Capital is not just a financial investor — which is great to have as well, especially in this climate — but a strategic one,” Cowboy’s founder and CEO, Adrien Roose, told TNW.&nbsp;</p><p>While Cowboy’s <a href="https://thenextweb.com/news/cowboy-launches-ebike-game">hyper-connected ebikes</a> are assembled in Europe, it sources about half of its parts from Taiwan, Roose said. “[Cypress Capital] have strong ties with our manufacturers which will help us further secure the supply chain.”&nbsp;</p><p>Existing European investors including Index Ventures, Hardware Club, and Future Positive Capital also joined the funding round. And soon, the general public will have a chance to invest as well.&nbsp;</p>'
+      format: basic_html
+      summary: ''
+  field_authors:
+    -
+      entity: daae9f84-f08c-44e2-8c3b-c1adbc1eac34
+  field_category:
+    -
+      entity: a322b976-9037-48c5-9575-09a05ccdf09e
+  field_content_footer:
+    -
+      value: '<p>Compellingly administrate intuitive synergy with resource sucking catalysts for change. Competently deliver resource-leveling bandwidth and magnetic products. Continually enable standardized vortals whereas extensible users. Professionally restore worldwide e-commerce via B2C scenarios. Intrinsicly cultivate.</p>'
+      format: basic_html
+  field_content_header:
+    -
+      value: '<p>Distinctively foster global deliverables and pandemic services. Dynamically syndicate cross-media technologies via backend resources. Conveniently enhance impactful deliverables rather than cross-unit services. Assertively brand fully researched manufactured products and integrated alignments. Seamlessly promote.</p>'
+      format: basic_html
+  field_image:
+    -
+      entity: 41a083ee-0abb-488c-838a-c9175634c890
+  field_link:
+    -
+      uri: 'https://thenextweb.com/news/ebike-maker-cowboy-profitability-funding-round-vanmoof'
+      title: thenextweb
+      options: {  }
+  field_teaser:
+    -
+      value: '<p>“Cypress Capital is not just a financial investor — which is great to have as well, especially in this climate — but a strategic one,” Cowboy’s founder and CEO, Adrien Roose, told TNW.&nbsp;</p>'
+      format: basic_html
+  field_thumbnail:
+    -
+      entity: 41a083ee-0abb-488c-838a-c9175634c890
+  field_topics:
+    -
+      entity: cdcf8d31-8c10-47b6-a2f4-16c7ef5e6474
+    -
+      entity: 4931fb10-fc4f-4e04-8b74-f2e9e63be30e

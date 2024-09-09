@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: media
+  uuid: 2a93a403-e09d-486d-85cc-1f8b2f60810a
+  bundle: image
+  default_langcode: en
+  depends:
+    2160a1b0-6f51-42dc-8af3-88a070808598: file
+    8b5b5902-9021-4aa0-bf9c-181d1d9955e4: taxonomy_term
+default:
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  name:
+    -
+      value: volkswagen-car.jpg
+  created:
+    -
+      value: 1725877559
+  revision_translation_affected:
+    -
+      value: true
+  metatag:
+    -
+      tag: meta
+      attributes:
+        name: title
+        content: '| StormCMS'
+    -
+      tag: link
+      attributes:
+        rel: canonical
+        href: 'https://storm.ddev.site/user/login'
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 0
+  field_caption_credit:
+    -
+      value: '<p>Credit: <a href="https://thenextweb.com/news/volkswagen-europe-in-car-gaming-airconsole">The Next Web</a></p>'
+      format: basic_html
+  field_media_image:
+    -
+      entity: 2160a1b0-6f51-42dc-8af3-88a070808598
+      alt: 'Volkswagen Car'
+      title: ''
+      width: 1280
+      height: 720
+  field_media_tags:
+    -
+      entity: 8b5b5902-9021-4aa0-bf9c-181d1d9955e4

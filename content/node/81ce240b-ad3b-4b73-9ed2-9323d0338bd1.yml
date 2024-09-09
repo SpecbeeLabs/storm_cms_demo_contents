@@ -1,0 +1,100 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 81ce240b-ad3b-4b73-9ed2-9323d0338bd1
+  bundle: article
+  default_langcode: en
+  depends:
+    d2ce9351-9301-4d53-9a38-60791fe2d6ec: node
+    ff200533-5078-412d-9ccb-d192004e5e2f: taxonomy_term
+    3e9e09a9-94b1-416f-b0d4-b560a5989afa: media
+    4931fb10-fc4f-4e04-8b74-f2e9e63be30e: taxonomy_term
+    973ae070-99a3-4546-973e-f720d6f74c27: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Starship Selected by NASA to Support Sustained Lunar Exploration'
+  created:
+    -
+      value: 1725871420
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  moderation_state:
+    -
+      value: published
+  metatag:
+    -
+      tag: meta
+      attributes:
+        name: title
+        content: 'Starship Selected by NASA to Support Sustained Lunar Exploration | StormCMS'
+    -
+      tag: meta
+      attributes:
+        name: description
+        content: 'Sustaining long-term human exploration on the Moon will require the safe and affordable transportation of crew and significant amounts of cargo.'
+    -
+      tag: link
+      attributes:
+        rel: canonical
+        href: 'https://storm.ddev.site/articles/starship-selected-nasa-support-sustained-lunar-exploration'
+  path:
+    -
+      alias: /articles/starship-selected-nasa-support-sustained-lunar-exploration
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: '<p>Sustaining long-term human exploration on the Moon will require the safe and affordable transportation of crew and significant amounts of cargo.</p><p>NASA <a href="https://www.nasa.gov/press-release/nasa-awards-spacex-second-contract-option-for-artemis-moon-landing-0"><strong>announced</strong></a> it has modified its contract with SpaceX to further develop the Starship human landing system. <a href="https://www.spacex.com/updates/#starship-moon-announcement"><strong>Initially selected</strong></a> to develop a lunar lander capable of carrying astronauts between lunar orbit and the surface of the Moon as part of NASA’s Artemis III mission—marking humanity''s first return to the Moon since the Apollo program’s final mission in 1972—SpaceX will now support a second human landing demonstration as part of NASA''s Artemis IV mission. Additionally, SpaceX will demonstrate Starship’s capability to dock with Gateway, a small space station that will orbit the Moon in efforts to support both lunar and deep-space exploration, accommodate four crew members, and deliver more supplies, equipment, and science payloads that are needed for extensive surface exploration.</p><p>SpaceX’s <a href="https://www.spacex.com/vehicles/starship/"><strong>Starship</strong></a> spacecraft and Super Heavy rocket represent an integrated and fully reusable launch, propellant delivery, rendezvous, and planetary lander system with robust capabilities and safety features uniquely designed to deliver these essential building blocks. We are honored to be a part of NASA’s Artemis Program to help return humanity to the Moon and usher in a new era of human space exploration.</p>'
+      format: basic_html
+      summary: ''
+  field_authors:
+    -
+      entity: d2ce9351-9301-4d53-9a38-60791fe2d6ec
+  field_category:
+    -
+      entity: ff200533-5078-412d-9ccb-d192004e5e2f
+  field_content_footer:
+    -
+      value: '<p>Continually visualize backward-compatible manufactured products for pandemic paradigms. Objectively productivate intuitive quality vectors via resource maximizing ideas. Synergistically innovate market-driven methodologies via visionary e-tailers. Competently generate 2.0 internal or "organic" sources for performance.</p>'
+      format: basic_html
+  field_content_header:
+    -
+      value: '<p>Dramatically syndicate cross-unit synergy and maintainable quality vectors. Rapidiously predominate integrated leadership via prospective manufactured products. Holisticly network exceptional human capital through cross-unit methods of empowerment. Holisticly brand competitive expertise whereas worldwide solutions.</p>'
+      format: basic_html
+  field_image:
+    -
+      entity: 3e9e09a9-94b1-416f-b0d4-b560a5989afa
+  field_link:
+    -
+      uri: 'https://www.spacex.com/updates/'
+      title: SpaceX
+      options: {  }
+  field_teaser:
+    -
+      value: '<p>SpaceX’s <a href="https://www.spacex.com/vehicles/starship/"><strong>Starship</strong></a> spacecraft and Super Heavy rocket represent an integrated and fully reusable launch, propellant delivery, rendezvous, and planetary lander system with robust capabilities and safety features uniquely designed to deliver these essential building blocks. We are honored to be a part of NASA’s Artemis Program to help return humanity to the Moon and usher in a new era of human space exploration.</p>'
+      format: basic_html
+  field_thumbnail:
+    -
+      entity: 3e9e09a9-94b1-416f-b0d4-b560a5989afa
+  field_topics:
+    -
+      entity: 4931fb10-fc4f-4e04-8b74-f2e9e63be30e
+    -
+      entity: 973ae070-99a3-4546-973e-f720d6f74c27

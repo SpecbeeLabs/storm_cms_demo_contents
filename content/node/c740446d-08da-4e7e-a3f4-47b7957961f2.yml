@@ -1,0 +1,100 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: c740446d-08da-4e7e-a3f4-47b7957961f2
+  bundle: article
+  default_langcode: en
+  depends:
+    bcd19fc8-e8a2-44b9-815d-1be0b2c1fb5f: node
+    a322b976-9037-48c5-9575-09a05ccdf09e: taxonomy_term
+    e8d5a2dd-fe7f-47ce-84a1-e4e9e8ddb78e: media
+    4931fb10-fc4f-4e04-8b74-f2e9e63be30e: taxonomy_term
+    cdcf8d31-8c10-47b6-a2f4-16c7ef5e6474: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Uh oh, Elon: Half of European marketers plan to cut spending on X ads'
+  created:
+    -
+      value: 1725873177
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  moderation_state:
+    -
+      value: published
+  metatag:
+    -
+      tag: meta
+      attributes:
+        name: title
+        content: 'Uh oh, Elon: Half of European marketers plan to cut spending on X ads | StormCMS'
+    -
+      tag: meta
+      attributes:
+        name: description
+        content: 'The advertising exodus from X is set to accelerate. In 2025, almost half of marketers in Europe and North America plan to cut their spending on the platform.That’s according to a new study from Kantar, a market research firm based in the UK. The company found that trust in ads on X is now “historically low.”Unsurprisingly, the company’s reputation has plummeted under the leadership of Elon Musk.'
+    -
+      tag: link
+      attributes:
+        rel: canonical
+        href: 'https://storm.ddev.site/articles/uh-oh-elon-half-european-marketers-plan-cut-spending-x-ads'
+  path:
+    -
+      alias: /articles/uh-oh-elon-half-european-marketers-plan-cut-spending-x-ads
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: '<p>The advertising exodus from X is set to accelerate. In 2025, almost half of marketers in Europe and North America plan to cut their spending on the platform.</p><p>That’s according to a new study from Kantar, a market research firm based in the UK. The company found that trust in ads on X is now “historically low.”</p><p>Unsurprisingly, the company’s reputation has plummeted under the leadership of <a href="https://thenextweb.com/topic/elon-musk-3">Elon Musk</a>.</p><p>When Musk bought the platform in 2022, trust from marketers stood at a worrying 22%. Two years later, it’s down to a dismal 12%.</p><p>Gonca Bubani, Kantar’s global media director, believes a swift turnaround is unlikely.</p><p>“X&nbsp;has changed so much in recent years and can be unpredictable from one day to the next,” she said. “It’s difficult to feel confident about your brand safety in that environment.”</p>'
+      format: basic_html
+      summary: ''
+  field_authors:
+    -
+      entity: bcd19fc8-e8a2-44b9-815d-1be0b2c1fb5f
+  field_category:
+    -
+      entity: a322b976-9037-48c5-9575-09a05ccdf09e
+  field_content_footer:
+    -
+      value: '<p>Enthusiastically deploy visionary mindshare for inexpensive networks. Compellingly provide access to corporate leadership skills without accurate infomediaries. Competently procrastinate client-based e-tailers for front-end collaboration and idea-sharing. Dynamically scale enterprise-wide communities after ubiquitous information.</p>'
+      format: basic_html
+  field_content_header:
+    -
+      value: '<p>Seamlessly disseminate revolutionary expertise via enterprise scenarios. Conveniently formulate ethical ideas vis-a-vis diverse quality vectors. Rapidiously parallel task distributed sources before functionalized relationships. Holisticly reintermediate proactive e-services after interoperable alignments. Efficiently empower cost.</p>'
+      format: basic_html
+  field_image:
+    -
+      entity: e8d5a2dd-fe7f-47ce-84a1-e4e9e8ddb78e
+  field_link:
+    -
+      uri: 'https://thenextweb.com/news/marketers-cut-advertising-on-elon-musk-x'
+      title: thenextweb
+      options: {  }
+  field_teaser:
+    -
+      value: '<p>Trust isn’t their only concern. Only 4% of marketers now think adverts on X provide brand safety.</p>'
+      format: basic_html
+  field_thumbnail:
+    -
+      entity: e8d5a2dd-fe7f-47ce-84a1-e4e9e8ddb78e
+  field_topics:
+    -
+      entity: 4931fb10-fc4f-4e04-8b74-f2e9e63be30e
+    -
+      entity: cdcf8d31-8c10-47b6-a2f4-16c7ef5e6474

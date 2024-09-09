@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: media
+  uuid: ff3a8ec6-ea07-4efd-a351-c0b187cfba17
+  bundle: image
+  default_langcode: en
+  depends:
+    a196fc63-3f72-430e-a01c-9b1af27b4d40: file
+    86b2f46e-73a2-4720-923b-df9d6a9819c6: taxonomy_term
+default:
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  name:
+    -
+      value: human-spaceflight.jpg
+  created:
+    -
+      value: 1725869327
+  revision_translation_affected:
+    -
+      value: true
+  metatag:
+    -
+      tag: meta
+      attributes:
+        name: title
+        content: '| StormCMS'
+    -
+      tag: link
+      attributes:
+        rel: canonical
+        href: 'https://storm.ddev.site/user/login'
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 0
+  field_caption_credit:
+    -
+      value: '<p><strong>Image Credit</strong>: SpaceX, <a href="https://www.spacex.com/updates/">spacex.com/updates</a>.</p>'
+      format: basic_html
+  field_media_image:
+    -
+      entity: a196fc63-3f72-430e-a01c-9b1af27b4d40
+      alt: 'First Spaceflight'
+      title: ''
+      width: 3840
+      height: 2560
+  field_media_tags:
+    -
+      entity: 86b2f46e-73a2-4720-923b-df9d6a9819c6

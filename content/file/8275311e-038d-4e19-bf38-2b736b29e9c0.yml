@@ -1,0 +1,30 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 8275311e-038d-4e19-bf38-2b736b29e9c0
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: independence-day.jpg
+  uri:
+    -
+      value: 'public://2024-09/independence-day_0.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 257856
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1725877970
+  origname:
+    -
+      value: independence-day.jpg

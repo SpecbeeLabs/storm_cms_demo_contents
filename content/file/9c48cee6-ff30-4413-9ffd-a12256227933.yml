@@ -1,0 +1,30 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 9c48cee6-ff30-4413-9ffd-a12256227933
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: samsung-acquisition.jpg
+  uri:
+    -
+      value: 'public://2024-09/samsung-acquisition_0.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 91248
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1725875778
+  origname:
+    -
+      value: samsung-acquisition.jpg

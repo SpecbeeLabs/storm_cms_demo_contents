@@ -1,0 +1,30 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 9a49b06c-2c50-46fc-9ae3-62fa07ff8d15
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: ceo-durov.jpg
+  uri:
+    -
+      value: 'public://2024-09/ceo-durov_0.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 131687
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1725877760
+  origname:
+    -
+      value: ceo-durov.jpg

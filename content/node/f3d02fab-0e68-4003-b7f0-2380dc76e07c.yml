@@ -1,0 +1,100 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: f3d02fab-0e68-4003-b7f0-2380dc76e07c
+  bundle: article
+  default_langcode: en
+  depends:
+    bcd19fc8-e8a2-44b9-815d-1be0b2c1fb5f: node
+    ff200533-5078-412d-9ccb-d192004e5e2f: taxonomy_term
+    25d0b26b-8ff5-4744-989a-62c33b90ec90: media
+    4931fb10-fc4f-4e04-8b74-f2e9e63be30e: taxonomy_term
+    cdcf8d31-8c10-47b6-a2f4-16c7ef5e6474: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: "SpaceX's Approach to Space Sustainability and Safety"
+  created:
+    -
+      value: 1725871798
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  moderation_state:
+    -
+      value: published
+  metatag:
+    -
+      tag: meta
+      attributes:
+        name: title
+        content: "SpaceX's Approach to Space Sustainability and Safety | StormCMS"
+    -
+      tag: meta
+      attributes:
+        name: description
+        content: 'SpaceX was founded to revolutionize space technology towards making life multiplanetary. SpaceX is the world’s leading provider of launch services and is proud to be the first private company to have delivered astronauts to and from the International Space Station (ISS), and the first and only company to complete an all-civilian crewed mission to orbit. As such, SpaceX is deeply committed to maintaining a safe orbital environment, protecting human spaceflight, and ensuring the environment is kept sustainable for future missions to Earth orbit and beyond.'
+    -
+      tag: link
+      attributes:
+        rel: canonical
+        href: 'https://storm.ddev.site/articles/spacexs-approach-space-sustainability-and-safety'
+  path:
+    -
+      alias: /articles/spacexs-approach-space-sustainability-and-safety
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: '<p>SpaceX was founded to revolutionize space technology towards making life multiplanetary. SpaceX is the world’s leading provider of launch services and is proud to be the first private company to have delivered astronauts to and from the International Space Station (ISS), and the first and only company to complete an all-civilian crewed mission to orbit. As such, SpaceX is deeply committed to maintaining a safe orbital environment, protecting human spaceflight, and ensuring the environment is kept sustainable for future missions to Earth orbit and beyond.</p><p>SpaceX has demonstrated this commitment to space safety through action, investing significant resources to ensure that all our launch vehicles, spacecraft, and satellites meet or exceed space safety regulations and best practices, including:</p><ul><li>Designing and building highly reliable, maneuverable satellites that have demonstrated reliability of greater than 99%</li><li>Operating at low altitudes (below 600 km) to ensure no persistent debris, even in the unlikely event a satellite fails on orbit</li><li>Inserting satellites at an especially low altitude to verify health prior to raising into their on-station/operational orbit</li><li>Transparently sharing orbital information with other satellite owners/operators</li><li>Developed an advanced collision avoidance system to take effective action when encounter risks exceed safe thresholds</li></ul><p>With space sustainability in mind, we have pushed the state-of-the-art in key technology areas like flying satellites at challenging low altitudes, the use of sustainable electric propulsion for maneuvering and active de-orbit, and employing inter-satellite optical communications to constantly maintain contact with satellites. SpaceX is striving to be the world’s most open and transparent satellite operator, and we encourage other operators to join us in sharing orbital data and keeping the public and governments updated with detailed information about operations and practices.</p><p>SpaceX continues to innovate to accelerate space technologies, and we are currently providing much-needed internet connectivity to people all over the globe, including underserved and remote parts of the world, with our Starlink constellation. Below are our operating principles demonstrating our commitment to space sustainability and safety.SpaceX was founded to revolutionize space technology towards making life multiplanetary. SpaceX is the world’s leading provider of launch services and is proud to be the first private company to have delivered astronauts to and from the International Space Station (ISS), and the first and only company to complete an all-civilian crewed mission to orbit. As such, SpaceX is deeply committed to maintaining a safe orbital environment, protecting human spaceflight, and ensuring the environment is kept sustainable for future missions to Earth orbit and beyond.</p><p>SpaceX has demonstrated this commitment to space safety through action, investing significant resources to ensure that all our launch vehicles, spacecraft, and satellites meet or exceed space safety regulations and best practices, including:</p><ul><li>Designing and building highly reliable, maneuverable satellites that have demonstrated reliability of greater than 99%</li><li>Operating at low altitudes (below 600 km) to ensure no persistent debris, even in the unlikely event a satellite fails on orbit</li><li>Inserting satellites at an especially low altitude to verify health prior to raising into their on-station/operational orbit</li><li>Transparently sharing orbital information with other satellite owners/operators</li><li>Developed an advanced collision avoidance system to take effective action when encounter risks exceed safe thresholds</li></ul><p>With space sustainability in mind, we have pushed the state-of-the-art in key technology areas like flying satellites at challenging low altitudes, the use of sustainable electric propulsion for maneuvering and active de-orbit, and employing inter-satellite optical communications to constantly maintain contact with satellites. SpaceX is striving to be the world’s most open and transparent satellite operator, and we encourage other operators to join us in sharing orbital data and keeping the public and governments updated with detailed information about operations and practices.</p><p>SpaceX continues to innovate to accelerate space technologies, and we are currently providing much-needed internet connectivity to people all over the globe, including underserved and remote parts of the world, with our Starlink constellation. Below are our operating principles demonstrating our commitment to space sustainability and safety.</p>'
+      format: basic_html
+      summary: ''
+  field_authors:
+    -
+      entity: bcd19fc8-e8a2-44b9-815d-1be0b2c1fb5f
+  field_category:
+    -
+      entity: ff200533-5078-412d-9ccb-d192004e5e2f
+  field_content_footer:
+    -
+      value: "<p>Conveniently leverage other's just in time infrastructures rather than interdependent process improvements. Compellingly repurpose cutting-edge architectures vis-a-vis market-driven channels. Continually supply quality convergence with revolutionary channels. Synergistically empower end-to-end scenarios through plug-and-play paradigms.</p>"
+      format: basic_html
+  field_content_header:
+    -
+      value: '<p>Rapidiously redefine multifunctional convergence after multifunctional benefits. Appropriately benchmark goal-oriented human capital rather than just in time initiatives. Enthusiastically evolve end-to-end applications vis-a-vis open-source meta-services. Completely engineer high standards in services vis-a-vis bricks-and-clicks.</p>'
+      format: basic_html
+  field_image:
+    -
+      entity: 25d0b26b-8ff5-4744-989a-62c33b90ec90
+  field_link:
+    -
+      uri: 'https://www.spacex.com/updates/'
+      title: SpaceX
+      options: {  }
+  field_teaser:
+    -
+      value: '<p>SpaceX continues to innovate to accelerate space technologies, and we are currently providing much-needed internet connectivity to people all over the globe, including underserved and remote parts of the world, with our Starlink constellation. Below are our operating principles demonstrating our commitment to space sustainability and safety.</p>'
+      format: basic_html
+  field_thumbnail:
+    -
+      entity: 25d0b26b-8ff5-4744-989a-62c33b90ec90
+  field_topics:
+    -
+      entity: 4931fb10-fc4f-4e04-8b74-f2e9e63be30e
+    -
+      entity: cdcf8d31-8c10-47b6-a2f4-16c7ef5e6474

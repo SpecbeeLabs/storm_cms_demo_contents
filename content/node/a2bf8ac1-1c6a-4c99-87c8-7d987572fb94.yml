@@ -1,0 +1,103 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: a2bf8ac1-1c6a-4c99-87c8-7d987572fb94
+  bundle: article
+  default_langcode: en
+  depends:
+    bcd19fc8-e8a2-44b9-815d-1be0b2c1fb5f: node
+    0aeaaf4d-fe17-40c0-a855-1e96662ee44f: node
+    a322b976-9037-48c5-9575-09a05ccdf09e: taxonomy_term
+    7aae23d0-a87d-42ca-8811-609d5819045a: media
+    4931fb10-fc4f-4e04-8b74-f2e9e63be30e: taxonomy_term
+    cdcf8d31-8c10-47b6-a2f4-16c7ef5e6474: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Europe has opened a door to a universal wallet. The web’s inventor wants to enter'
+  created:
+    -
+      value: 1725872383
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  moderation_state:
+    -
+      value: published
+  metatag:
+    -
+      tag: meta
+      attributes:
+        name: title
+        content: 'Europe has opened a door to a universal wallet. The web’s inventor wants to enter | StormCMS'
+    -
+      tag: meta
+      attributes:
+        name: description
+        content: 'Imagine you’re moving to the destination of your dreams. A tropical paradise by the sea? An enchanting mountain village? A sun-kissed chateau surrounded by vineyards? Take your pick. All you need to do is pack a smartphone.'
+    -
+      tag: link
+      attributes:
+        rel: canonical
+        href: 'https://storm.ddev.site/articles/europe-has-opened-door-universal-wallet-webs-inventor-wants-enter'
+  path:
+    -
+      alias: /articles/europe-has-opened-door-universal-wallet-webs-inventor-wants-enter
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: '<p>Imagine you’re moving to the destination of your dreams. A tropical paradise by the sea? An enchanting mountain village? A sun-kissed chateau surrounded by vineyards? Take your pick. All you need to do is pack a smartphone.</p><p>You catch a cab to the station, scan a turnstile, and board a train to the airport. On arrival, you stroll through a <a href="https://thenextweb.com/news/eurostar-launches-first-biometric-corridor-trains-facial-recognition">biometric corridor</a> and straight on to your plane. After your flight touches down, you collect a rental car. You flash a digital driver’s licence to unlock the door.&nbsp;</p><p>You drive to your new home. On the way, you stop off at a store and bag up groceries, household essentials, a crate of beer if you’re so inclined. If you’re in the US, perhaps you also grab a gun. All the purchases are invisibly approved. You walk out of the store&nbsp;and back into the car.</p><p>You park outside your beautiful new house. Your face unlocks the front door and you collapse on the couch. With a quick flick through your phone, you open a bank account, schedule bills, and register for services.&nbsp;</p><p>Suddenly, panic strikes: you’ve forgotten your wallet. Your cards, passport, health records, legal documents, and education certificates are all missing. But then you remember: everything is safely stored on your phone.</p><p>Is it a digital dream or a high-tech nightmare? Either way, it’s edging into reality.&nbsp;</p>'
+      format: basic_html
+      summary: ''
+  field_authors:
+    -
+      entity: bcd19fc8-e8a2-44b9-815d-1be0b2c1fb5f
+    -
+      entity: 0aeaaf4d-fe17-40c0-a855-1e96662ee44f
+  field_category:
+    -
+      entity: a322b976-9037-48c5-9575-09a05ccdf09e
+  field_content_footer:
+    -
+      value: '<p>Conveniently benchmark cross-platform leadership skills with cost effective users. Interactively maintain orthogonal innovation via customized initiatives. Authoritatively benchmark intermandated resources via value-added niche markets. Professionally unleash cross-platform vortals through robust bandwidth. Professionally drive.</p>'
+      format: basic_html
+  field_content_header:
+    -
+      value: '<p>Professionally underwhelm sustainable catalysts for change after orthogonal materials. Quickly envisioneer competitive convergence after resource maximizing e-commerce. Efficiently maintain user-centric vortals with holistic catalysts for change. Quickly redefine goal-oriented initiatives through exceptional communities.</p>'
+      format: basic_html
+  field_image:
+    -
+      entity: 7aae23d0-a87d-42ca-8811-609d5819045a
+  field_link:
+    -
+      uri: 'https://thenextweb.com/news/eu-digital-id-supports-universal-digital-wallet'
+      title: thenextweb
+      options: {  }
+  field_teaser:
+    -
+      value: '<p>You catch a cab to the station, scan a turnstile, and board a train to the airport. On arrival, you stroll through a <a href="https://thenextweb.com/news/eurostar-launches-first-biometric-corridor-trains-facial-recognition">biometric corridor</a> and straight on to your plane. After your flight touches down, you collect a rental car. You flash a digital driver’s licence to unlock the door.&nbsp;</p>'
+      format: basic_html
+  field_thumbnail:
+    -
+      entity: 7aae23d0-a87d-42ca-8811-609d5819045a
+  field_topics:
+    -
+      entity: 4931fb10-fc4f-4e04-8b74-f2e9e63be30e
+    -
+      entity: cdcf8d31-8c10-47b6-a2f4-16c7ef5e6474

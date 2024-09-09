@@ -1,0 +1,30 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 9b1f13e1-f7bc-4502-91fe-1fed7992ff1e
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: wind-energy.jpg
+  uri:
+    -
+      value: 'public://2024-09/wind-energy_0.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 128531
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1725873933
+  origname:
+    -
+      value: wind-energy.jpg

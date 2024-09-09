@@ -1,0 +1,100 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 020de879-5339-4081-8f64-9e1d365597b8
+  bundle: article
+  default_langcode: en
+  depends:
+    0aeaaf4d-fe17-40c0-a855-1e96662ee44f: node
+    e87fcf0e-768d-4fe1-b52b-0ff18c022910: taxonomy_term
+    fef12a78-df8b-4f64-a6c2-c2c50bac3a18: media
+    cdcf8d31-8c10-47b6-a2f4-16c7ef5e6474: taxonomy_term
+    4931fb10-fc4f-4e04-8b74-f2e9e63be30e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Sweden’s been stealthily using hydrogen to forge green steel. Now it’s ready to industrialise'
+  created:
+    -
+      value: 1725876787
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  moderation_state:
+    -
+      value: published
+  metatag:
+    -
+      tag: meta
+      attributes:
+        name: title
+        content: 'Sweden’s been stealthily using hydrogen to forge green steel. Now it’s ready to industrialise | StormCMS'
+    -
+      tag: meta
+      attributes:
+        name: description
+        content: "Deep in Sweden’s icy north sits a small factory where the country’s largest industrial players have been steadily validating a new technology that could clean up one of the dirtiest industries on Earth.\_Energy giant Vattenfall, steel-maker SSAB, and mining firm LKAB built the facility — located in the small town of Luleå — in 2020, as part of the HYBRIT project. The initiative aims to prove that steel can be made on an industrial scale using hydrogen and clean electricity.\_"
+    -
+      tag: link
+      attributes:
+        rel: canonical
+        href: 'https://storm.ddev.site/articles/swedens-been-stealthily-using-hydrogen-forge-green-steel-now-its-ready-industrialise'
+  path:
+    -
+      alias: /articles/swedens-been-stealthily-using-hydrogen-forge-green-steel-now-its-ready-industrialise
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: '<p>Deep in Sweden’s icy north sits a small factory where the country’s largest industrial players have been steadily validating a new technology that could clean up one of the dirtiest industries on Earth.&nbsp;</p><p>Energy giant Vattenfall, steel-maker SSAB, and mining firm LKAB built the facility — located in the small town of Luleå — in 2020, as part of the HYBRIT project. The initiative aims to prove that steel can be made on an industrial scale using hydrogen and clean electricity.&nbsp;</p><p>“Using hydrogen to produce steel is still in its very early stages,” an SSAB representative told TNW. “It represents only a tiny fraction of today’s steel production.” But that might be about to change.&nbsp;&nbsp;</p><h2><strong>How do you make steel using hydrogen?&nbsp;&nbsp;</strong></h2><p>Steel is one of the world’s <a href="https://materials.imdea.org/what-is-the-most-used-material-in-the-world-and-the-least-researched/#:~:text=Steel%20is%20the%20second%20most,of%20the%20steel%20consumed%20recycled.">most used</a> materials. And its production is responsible for 11% of global CO2 emissions. Most of these emissions are produced when heating and reducing iron — the core component of steel — in a blast furnace using coal and coke (a refined type of coal, not the soft drink).&nbsp;</p><p>The HYBRIT technology, however, doesn’t use a blast furnace at all. It uses hydrogen instead of coke in a process called direct reduction. This reduces iron oxides to metallic iron without melting it. The hydrogen reacts with the oxygen in iron ore, producing so-called “sponge iron.” The only byproduct is water vapour.</p><p>At the plant in Luleå, SSAB takes this sponge iron and then melts it into steel in an electric arc furnace powered by Vattenfall’s wind farms. The result is good ol’ fashioned steel — but without the emissions.</p><h2><strong>Going mainstream</strong></h2><p>This week, Vattenfall, SSAB, and LKAB presented the results of their six-year trial to the Swedish Energy Agency. The report shows that the iron produced using hydrogen isn’t just carbon neutral, but is also stronger and more durable than iron produced with fossil fuels. The partners have applied for and received several patents based on the results.&nbsp;</p><p>HYBRIT’s pilot plant is the world’s first to prove the “fossil-free value chain” for steel on a semi-industrial scale. The factory has already produced 5,000 tonnes of hydrogen-reduced iron. And companies like Volvo, Epiroc, and Peab have already put the green steel in their cars, machinery, and buildings.&nbsp;</p><p>The industrial giants will now start building a larger factory in Gällivare, three hours North of Luleå, in the heart of Swedish Lapland. The long-term plan is to build more hydrogen iron factories and completely decarbonise steel production in Sweden — slashing 10% of the countries emissions.</p><p>However, significant hurdles lie ahead. Generating sufficient quantities of green hydrogen will require constant supplies of clean energy. Moreover, hydrogen is currently much more expensive than fossil fuels, and the <a href="https://www.hydrogeninsight.com/production/cost-of-green-hydrogen-unlikely-to-fall-dramatically-in-coming-years-admit-developers/2-1-1523281?zephr_sso_ott=Uqyq3U">price isn’t falling as fast</a> as anticipated.&nbsp;</p>'
+      format: basic_html
+      summary: ''
+  field_authors:
+    -
+      entity: 0aeaaf4d-fe17-40c0-a855-1e96662ee44f
+  field_category:
+    -
+      entity: e87fcf0e-768d-4fe1-b52b-0ff18c022910
+  field_content_footer:
+    -
+      value: '<p>Uniquely reconceptualize cooperative sources after exceptional methods of empowerment. Uniquely negotiate distributed infrastructures with principle-centered web-readiness. Assertively simplify covalent alignments after 2.0 content. Monotonectally utilize open-source synergy via corporate best practices. Objectively aggregate.</p>'
+      format: basic_html
+  field_content_header:
+    -
+      value: '<p>Phosfluorescently re-engineer transparent sources whereas client-centered e-markets. Rapidiously maintain front-end imperatives for emerging information. Enthusiastically simplify goal-oriented opportunities for enabled opportunities. Interactively unleash B2C users through vertical meta-services. Authoritatively visualize extensive paradigms rather.</p>'
+      format: basic_html
+  field_image:
+    -
+      entity: fef12a78-df8b-4f64-a6c2-c2c50bac3a18
+  field_link:
+    -
+      uri: 'https://thenextweb.com/news/sweden-hydrogen-green-steel-vattenfall-ssab-lkab-hybrit'
+      title: Mainstream
+      options: {  }
+  field_teaser:
+    -
+      value: '<p>Steel is one of the world’s <a href="https://materials.imdea.org/what-is-the-most-used-material-in-the-world-and-the-least-researched/#:~:text=Steel%20is%20the%20second%20most,of%20the%20steel%20consumed%20recycled.">most used</a> materials. And its production is responsible for 11% of global CO2 emissions. Most of these emissions are produced when heating and reducing iron — the core component of steel — in a blast furnace using coal and coke (a refined type of coal, not the soft drink).&nbsp;</p>'
+      format: basic_html
+  field_thumbnail:
+    -
+      entity: fef12a78-df8b-4f64-a6c2-c2c50bac3a18
+  field_topics:
+    -
+      entity: cdcf8d31-8c10-47b6-a2f4-16c7ef5e6474
+    -
+      entity: 4931fb10-fc4f-4e04-8b74-f2e9e63be30e

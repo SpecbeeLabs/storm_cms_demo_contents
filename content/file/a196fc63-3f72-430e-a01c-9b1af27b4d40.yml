@@ -1,0 +1,30 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: a196fc63-3f72-430e-a01c-9b1af27b4d40
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: human-spaceflight.jpg
+  uri:
+    -
+      value: 'public://2024-09/human-spaceflight_0.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 403238
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1725869327
+  origname:
+    -
+      value: human-spaceflight.jpg

@@ -1,0 +1,30 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: fd66617f-ed07-4652-b8a5-98639f7e0876
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: semiconductor-sector.jpg
+  uri:
+    -
+      value: 'public://2024-09/semiconductor-sector_0.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 176210
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1725875486
+  origname:
+    -
+      value: semiconductor-sector.jpg

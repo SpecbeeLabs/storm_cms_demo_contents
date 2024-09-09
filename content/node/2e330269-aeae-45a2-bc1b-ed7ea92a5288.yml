@@ -1,0 +1,100 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 2e330269-aeae-45a2-bc1b-ed7ea92a5288
+  bundle: article
+  default_langcode: en
+  depends:
+    d2ce9351-9301-4d53-9a38-60791fe2d6ec: node
+    ff200533-5078-412d-9ccb-d192004e5e2f: taxonomy_term
+    c3e41437-b9b4-468f-9578-bcecb64e2fbd: media
+    973ae070-99a3-4546-973e-f720d6f74c27: taxonomy_term
+    69ba7fdd-8bb6-419d-be84-b8ac72cd7070: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Upgrades Ahead Of Starship’s Second Flight Test'
+  created:
+    -
+      value: 1725870973
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  moderation_state:
+    -
+      value: published
+  metatag:
+    -
+      tag: meta
+      attributes:
+        name: title
+        content: 'Upgrades Ahead Of Starship’s Second Flight Test | StormCMS'
+    -
+      tag: meta
+      attributes:
+        name: description
+        content: 'Starship is designed to fundamentally alter humanity’s access to space, ultimately enabling us to make life multiplanetary. The third flight test of Starship and Super Heavy made tremendous strides towards this future and was an important step on the road to rapidly reliable reusable rockets.'
+    -
+      tag: link
+      attributes:
+        rel: canonical
+        href: 'https://storm.ddev.site/articles/upgrades-ahead-starships-second-flight-test'
+  path:
+    -
+      alias: /articles/upgrades-ahead-starships-second-flight-test
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<p>Starship is designed to fundamentally alter humanity’s access to space, ultimately enabling us to make life multiplanetary. The third flight test of Starship and Super Heavy made tremendous strides towards this future and was an important step on the road to rapidly reliable reusable rockets.</p><p>On March 14, 2024, Starship successfully lifted off at 8:25 a.m. CT from Starbase, Texas. All 33 Raptor engines on the Super Heavy Booster started up successfully and completed a full-duration burn during ascent, followed by a successful hot-stage separation. This was the second successful ascent of the Super Heavy booster, the world’s most powerful launch vehicle. At stage separation, Starship's six second stage Raptor engines all started successfully and powered the vehicle to its expected trajectory, becoming the first Starship to complete its full-duration ascent burn.</p><p>Following stage separation, Super Heavy initiated its boostback burn, which sends commands to 13 of the vehicle’s 33 Raptor engines to propel the rocket toward its intended landing location. All 13 engines ran successfully until six engines began shutting down, triggering a benign early boostback shutdown.</p><p>The booster then continued to descend until attempting its landing burn, which commands the same 13 engines used during boostback to perform the planned final slowing for the rocket before a soft touchdown in the water, but the six engines that shut down early in the boostback burn were disabled from attempting the landing burn startup, leaving seven engines commanded to start up with two successfully reaching mainstage ignition. The booster had lower than expected landing burn thrust when contact was lost at approximately 462 meters in altitude over the Gulf of Mexico and just under seven minutes into the mission.</p><p>The most likely root cause for the early boostback burn shutdown was determined to be continued filter blockage where liquid oxygen is supplied to the engines, leading to a loss of inlet pressure in engine oxygen turbopumps. SpaceX implemented hardware changes ahead of Flight 3 to mitigate this issue, which resulted in the booster progressing to its first ever landing burn attempt. Super Heavy boosters for Flight 4 and beyond will get additional hardware inside oxygen tanks to further improve propellant filtration capabilities. And utilizing data gathered from Super Heavy’s first ever landing burn attempt, additional hardware and software changes are being implemented to increase startup reliability of the Raptor engines in landing conditions.</p><p>During Starship’s coast phase, the vehicle accomplished several of the flight test’s additional objectives, including the first ever test of its payload door in space. The vehicle also successfully completed a propellant transfer demonstration, moving liquid oxygen from a header tank into the main tank. This test provided valuable data for eventual ship-to-ship propellant transfers that will enable missions like returning astronauts to the Moon under NASA’s Artemis program.</p><p>Several minutes after Starship began its coast phase, the vehicle began losing the ability to control its attitude. Starship continued flying its nominal trajectory but given the loss of attitude control, the vehicle automatically triggered a pre-planned command to skip its planned on-orbit relight of a single Raptor engine.</p>"
+      format: basic_html
+      summary: ''
+  field_authors:
+    -
+      entity: d2ce9351-9301-4d53-9a38-60791fe2d6ec
+  field_category:
+    -
+      entity: ff200533-5078-412d-9ccb-d192004e5e2f
+  field_content_footer:
+    -
+      value: '<p>Objectively orchestrate adaptive metrics and wireless resources. Phosfluorescently promote effective architectures with web-enabled infrastructures. Collaboratively brand 24/365 paradigms via interdependent scenarios. Interactively synergize superior potentialities for progressive products. Completely visualize progressive scenarios via.</p>'
+      format: basic_html
+  field_content_header:
+    -
+      value: "<p>Continually transform excellent paradigms after stand-alone imperatives. Appropriately synergize intuitive leadership skills and stand-alone metrics. Credibly leverage other's standards compliant information whereas compelling paradigms. Compellingly fashion high standards in services for customer directed.</p>"
+      format: basic_html
+  field_image:
+    -
+      entity: c3e41437-b9b4-468f-9578-bcecb64e2fbd
+  field_link:
+    -
+      uri: 'https://www.spacex.com/updates/'
+      title: SpaceX
+      options: {  }
+  field_teaser:
+    -
+      value: "<p>On March 14, 2024, Starship successfully lifted off at 8:25 a.m. CT from Starbase, Texas. All 33 Raptor engines on the Super Heavy Booster started up successfully and completed a full-duration burn during ascent, followed by a successful hot-stage separation. This was the second successful ascent of the Super Heavy booster, the world’s most powerful launch vehicle. At stage separation, Starship's six second stage Raptor engines all started successfully and powered the vehicle to its expected trajectory, becoming the first Starship to complete its full-duration ascent burn.</p>"
+      format: basic_html
+  field_thumbnail:
+    -
+      entity: c3e41437-b9b4-468f-9578-bcecb64e2fbd
+  field_topics:
+    -
+      entity: 973ae070-99a3-4546-973e-f720d6f74c27
+    -
+      entity: 69ba7fdd-8bb6-419d-be84-b8ac72cd7070

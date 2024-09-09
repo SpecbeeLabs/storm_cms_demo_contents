@@ -1,0 +1,30 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 5b29937c-0fef-4a1e-bec4-b7a3d5f029dc
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: information-security.jpg
+  uri:
+    -
+      value: 'public://2024-09/information-security_0.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 189023
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1725876248
+  origname:
+    -
+      value: information-security.jpg

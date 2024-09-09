@@ -1,0 +1,100 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: c1fa5b26-4305-4e1b-80e4-942deec05735
+  bundle: article
+  default_langcode: en
+  depends:
+    eea688c0-d4e8-40d0-bf1b-878f87ef7d70: node
+    a322b976-9037-48c5-9575-09a05ccdf09e: taxonomy_term
+    4850bb1e-e36d-438f-bcc5-521321fc11a5: media
+    cdcf8d31-8c10-47b6-a2f4-16c7ef5e6474: taxonomy_term
+    4931fb10-fc4f-4e04-8b74-f2e9e63be30e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Spotify’s Daniel Ek has brought his futuristic body scanners to London'
+  created:
+    -
+      value: 1725874575
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  moderation_state:
+    -
+      value: published
+  metatag:
+    -
+      tag: meta
+      attributes:
+        name: title
+        content: 'Spotify’s Daniel Ek has brought his futuristic body scanners to London | StormCMS'
+    -
+      tag: meta
+      attributes:
+        name: description
+        content: 'Spotify boss Daniel Ek has invited the good folk of London to step inside his body scanners.Upon entry, the futuristic machines will analyse their health. As they stand under a cold, white light, dozens of scanners will track millions of anatomical data points.Their blood, heart, and skin will all be examined. Algorithms will then asses the risks of strokes, heart disease, cancer, and diabetes.'
+    -
+      tag: link
+      attributes:
+        rel: canonical
+        href: 'https://storm.ddev.site/articles/spotifys-daniel-ek-has-brought-his-futuristic-body-scanners-london'
+  path:
+    -
+      alias: /articles/spotifys-daniel-ek-has-brought-his-futuristic-body-scanners-london
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: '<p><a href="https://thenextweb.com/topic/spotify">Spotify</a> boss Daniel Ek has invited the good folk of London to step inside his body scanners.</p><p>Upon entry, the futuristic machines will analyse their health. As they stand under a cold, white light, dozens of scanners will track millions of anatomical data points.</p><p>Their blood, heart, and skin will all be examined. <a href="https://thenextweb.com/topic/algorithm">Algorithms</a> will then asses the risks of strokes, heart disease, cancer, and diabetes.</p><p>In an instant, the results will arrive. A doctor will provide a personalised consultation.</p><p>The clinic opened today <a href="https://www.google.com/maps/place/Neko+Health+Centre/@51.5189376,-0.1531383,19.14z/data=!4m6!3m5!1s0x48761b6c67360429:0xdb228e45690fde3e!8m2!3d51.5189455!4d-0.1526328!16s%2Fg%2F11y4tdt1nb?entry=tts&amp;g_ep=EgoyMDI0MDgyOC4wKgBIAVAD">in Marylebone</a>, a chic neighbourhood in London’s Marleybone. At £299 a pop, the appointments don’t come cheap. But the price point has already been effective in Ek’s homeland of Sweden.</p><p>The scanning system emerged from Ek’s fascination with preventative healthcare. After&nbsp;Spotify’s IPO made him a billionaire overnight, the streaming pioneer turned his passion into a business.</p><p>Ek sought assistance from his compatriot Hjalmar Nilsonne, who previously helmed smart energy startup Watty. In 2018, the duo founded body-scanning startup Neko Health.</p>'
+      format: basic_html
+      summary: ''
+  field_authors:
+    -
+      entity: eea688c0-d4e8-40d0-bf1b-878f87ef7d70
+  field_category:
+    -
+      entity: a322b976-9037-48c5-9575-09a05ccdf09e
+  field_content_footer:
+    -
+      value: '<p>Rapidiously scale economically sound information via virtual technology. Globally orchestrate worldwide deliverables without cross-platform infomediaries. Distinctively productivate visionary web services without inexpensive synergy. Efficiently incubate quality quality vectors rather than strategic leadership skills.</p>'
+      format: basic_html
+  field_content_header:
+    -
+      value: '<p>Uniquely unleash principle-centered schemas rather than performance based benefits. Globally iterate team driven data for focused meta-services. Credibly architect value-added sources whereas cross-media methodologies. Continually envisioneer front-end relationships via quality quality vectors. Synergistically.</p>'
+      format: basic_html
+  field_image:
+    -
+      entity: 4850bb1e-e36d-438f-bcc5-521321fc11a5
+  field_link:
+    -
+      uri: 'https://thenextweb.com/news/spotify-ceo-ai-powered-preventive-healthcare-startup-raises-60m'
+      title: 'First Clinic'
+      options: {  }
+  field_teaser:
+    -
+      value: '<p>The clinic opened today <a href="https://www.google.com/maps/place/Neko+Health+Centre/@51.5189376,-0.1531383,19.14z/data=!4m6!3m5!1s0x48761b6c67360429:0xdb228e45690fde3e!8m2!3d51.5189455!4d-0.1526328!16s%2Fg%2F11y4tdt1nb?entry=tts&amp;g_ep=EgoyMDI0MDgyOC4wKgBIAVAD">in Marylebone</a>, a chic neighbourhood in London’s Marleybone. At £299 a pop, the appointments don’t come cheap. But the price point has already been effective in Ek’s homeland of Sweden.</p>'
+      format: basic_html
+  field_thumbnail:
+    -
+      entity: 4850bb1e-e36d-438f-bcc5-521321fc11a5
+  field_topics:
+    -
+      entity: cdcf8d31-8c10-47b6-a2f4-16c7ef5e6474
+    -
+      entity: 4931fb10-fc4f-4e04-8b74-f2e9e63be30e

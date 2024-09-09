@@ -1,0 +1,30 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 0cfb1e5b-9ae2-4b30-a466-dc3767f68e5e
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: spotify-scanners.jpg
+  uri:
+    -
+      value: 'public://2024-09/spotify-scanners_0.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 94913
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1725874659
+  origname:
+    -
+      value: spotify-scanners.jpg

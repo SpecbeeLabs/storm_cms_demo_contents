@@ -1,0 +1,100 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 56244582-7427-44da-a341-0e94bfb1fcd2
+  bundle: article
+  default_langcode: en
+  depends:
+    d2ce9351-9301-4d53-9a38-60791fe2d6ec: node
+    ff200533-5078-412d-9ccb-d192004e5e2f: taxonomy_term
+    6b3b69c3-7c32-4608-b154-4295533a4e2a: media
+    973ae070-99a3-4546-973e-f720d6f74c27: taxonomy_term
+    69ba7fdd-8bb6-419d-be84-b8ac72cd7070: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Space collisions are a growing threat. Europe’s techies want to help'
+  created:
+    -
+      value: 1725878096
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  moderation_state:
+    -
+      value: published
+  metatag:
+    -
+      tag: meta
+      attributes:
+        name: title
+        content: 'Space collisions are a growing threat. Europe’s techies want to help | StormCMS'
+    -
+      tag: meta
+      attributes:
+        name: description
+        content: "Space has become a crowded place. Astronomers estimate\_that over 10,000 active satellites were in orbit last month — four times as many as just five years ago.The surge in launches has ignited excitement about a new space race. But the cosmic traffic may be heading for a catastrophic crash."
+    -
+      tag: link
+      attributes:
+        rel: canonical
+        href: 'https://storm.ddev.site/articles/space-collisions-are-growing-threat-europes-techies-want-help'
+  path:
+    -
+      alias: /articles/space-collisions-are-growing-threat-europes-techies-want-help
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: '<p>Space has become a crowded place. Astronomers <a href="https://www.forbes.com/sites/ericmack/2024/07/19/theres-now-10000-active-satellites-in-orbit-most-belong-to-elon-musk/">estimate</a>&nbsp;that over 10,000 active satellites were in orbit last month — four times as many as just five years ago.</p><p>The surge in launches has ignited excitement about a new space race. But the cosmic traffic may be heading for a catastrophic crash.</p><p>Back on Earth, the UK’s&nbsp;Space Operations Centre is tracking the threats with growing alarm.&nbsp;In July alone, the centre warned British satellite operators of 1,795 collision risks. Across the previous six months, almost 12,000 alerts were sent.</p><p>Yet not every accident can be averted. In 2021, a Chinese military satellite was damaged by a chunk of Russian rocket. In March, a piece of space junk smashed through <a href="https://news.sky.com/story/mystery-object-that-crashed-into-florida-home-last-month-was-discarded-space-junk-nasa-says-13116316">a Florida roof</a>.</p><p>With satellite constellations proliferating, the threat of further accidents is increasing. That’s given spacetech <a href="https://thenextweb.com/topic/startups">startups</a> a new focus: collision avoidance.</p><p>Europe has become fertile ground for their plans.</p><h2>The tech targeting space collisions</h2><p>Several startups have turned their attentions to space junk.</p><p>Over <a href="https://sdup.esoc.esa.int/discosweb/statistics/">130 </a>million lumps&nbsp;of trash are currently hurtling around Earth at speeds of up to 15km per second. If one of them hits a satellite, the impact can be devastating.</p><p>Spacetech offers an array of ways to tidy up the mess.</p><p>Swiss startup ClearSpace wants to use a litter-picking robot. The company&nbsp;has <a href="https://thenextweb.com/news/clearspace1-launch-contract-first-ever-space-debris-removal-mission">signed a contract</a> with French rocket giant Arianespace for the debut mission.</p><p>Norway’s <a href="https://www.solstorm.io/">Solstorm</a> has an entirely different idea: harnessing solar wind energy to deorbit the junk. The startup also offers collision detection.</p><p>Spanish startup IENAI has another propulsion plan. The company harnesses <a href="https://ienai.space/">electrospray thrusters</a> to avoid collisions and de-orbit defunct satellites.</p><p>France has also produced eye-catching solutions.</p><p>One is <a href="https://www.lookupspace.com/">Look Up Space</a>, which builds radars on Earth to track junk in the skies. Another is Dark, which is constructing <a href="https://techcrunch.com/2024/04/17/dark-space-is-building-a-rocket-powered-boxing-glove-to-push-debris-out-of-orbit/">a rocket-powered boxing glove</a> to punch debris away.</p><p>Across the German border, Munich’s <a href="https://www.vyoma.space/">Vyoma</a> concentrates on space traffic management. By combining a sensor network with real-time mapping of space, the company could reduce collision risks.</p><h2>Preparing for launch</h2><p>All these startups still need to prove their concepts work in practice. Space experts hope that happens quickly.</p><p>“The risk of collision in the most crowded orbit — 800km from Earth — is now one in 1,000,” Pascal Lecointe, a space insurance expert, said in January.</p><p>“Just a few decades ago, when there were far fewer satellites and less space debris, the risk of collision was one in 1 million. “</p><p>With satellite launches showing no signs of slowing down, Lecointe expects the threat to grow. “We’re likely to see that risk climb even more to perhaps 1 in 100 over the next decade.”</p>'
+      format: basic_html
+      summary: ''
+  field_authors:
+    -
+      entity: d2ce9351-9301-4d53-9a38-60791fe2d6ec
+  field_category:
+    -
+      entity: ff200533-5078-412d-9ccb-d192004e5e2f
+  field_content_footer:
+    -
+      value: '<p>Globally underwhelm equity invested expertise rather than adaptive schemas. Quickly evisculate clicks-and-mortar human capital through parallel value. Distinctively monetize performance based potentialities after front-end users. Proactively negotiate innovative channels and performance based niches.</p>'
+      format: basic_html
+  field_content_header:
+    -
+      value: '<p>Assertively create scalable imperatives through an expanded array of scenarios. Completely strategize wireless "outside the box" thinking whereas sticky information. Enthusiastically streamline real-time innovation after intuitive paradigms. Intrinsicly evolve parallel action items vis-a-vis.</p>'
+      format: basic_html
+  field_image:
+    -
+      entity: 6b3b69c3-7c32-4608-b154-4295533a4e2a
+  field_link:
+    -
+      uri: 'https://thenextweb.com/news/spacetech-startups-propose-space-debris-avoidance'
+      title: Space
+      options: {  }
+  field_teaser:
+    -
+      value: '<p>Back on Earth, the UK’s&nbsp;Space Operations Centre is tracking the threats with growing alarm.&nbsp;In July alone, the centre warned British satellite operators of 1,795 collision risks. Across the previous six months, almost 12,000 alerts were sent.</p>'
+      format: basic_html
+  field_thumbnail:
+    -
+      entity: 6b3b69c3-7c32-4608-b154-4295533a4e2a
+  field_topics:
+    -
+      entity: 973ae070-99a3-4546-973e-f720d6f74c27
+    -
+      entity: 69ba7fdd-8bb6-419d-be84-b8ac72cd7070

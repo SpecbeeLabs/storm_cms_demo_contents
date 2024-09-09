@@ -1,0 +1,100 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: dd149058-14dc-4ebc-a0f9-a70b77366782
+  bundle: article
+  default_langcode: en
+  depends:
+    d2ce9351-9301-4d53-9a38-60791fe2d6ec: node
+    ff200533-5078-412d-9ccb-d192004e5e2f: taxonomy_term
+    943c019c-3ef1-448e-97f0-fb70171571d4: media
+    4931fb10-fc4f-4e04-8b74-f2e9e63be30e: taxonomy_term
+    973ae070-99a3-4546-973e-f720d6f74c27: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Dragon Recovery To Return To The U.S. West Coast'
+  created:
+    -
+      value: 1725870044
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  moderation_state:
+    -
+      value: published
+  metatag:
+    -
+      tag: meta
+      attributes:
+        name: title
+        content: 'Dragon Recovery To Return To The U.S. West Coast | StormCMS'
+    -
+      tag: meta
+      attributes:
+        name: description
+        content: 'The Dragon spacecraft is comprised of two parts: a pressurized section that safely flies crew and cargo, and an unpressurized expendable section called the trunk, which contains hardware used for spacecraft power and cooling while on-orbit. On cargo missions, the trunk can also deliver or dispose of unpressurized hardware from the International Space Station, depending on mission needs. When Dragon returns to Earth, the trunk is jettisoned prior to the spacecraft safely splashing down.'
+    -
+      tag: link
+      attributes:
+        rel: canonical
+        href: 'https://storm.ddev.site/articles/dragon-recovery-return-us-west-coast'
+  path:
+    -
+      alias: /articles/dragon-recovery-return-us-west-coast
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: '<p>The Dragon spacecraft is comprised of two parts: a pressurized section that safely flies crew and cargo, and an unpressurized expendable section called the trunk, which contains hardware used for spacecraft power and cooling while on-orbit. On cargo missions, the trunk can also deliver or dispose of unpressurized hardware from the International Space Station, depending on mission needs. When Dragon returns to Earth, the trunk is jettisoned prior to the spacecraft safely splashing down.</p><p>During Dragon’s first 21 missions, the trunk remained attached to the vehicle’s pressurized section until after the deorbit burn was completed. Shortly before the spacecraft began reentering the atmosphere, the trunk was jettisoned to ensure it safely splashed down in unpopulated areas in the Pacific Ocean.</p><p>After seven years of successful recovery operations on the U.S. West Coast, Dragon recovery operations moved to the East Coast in 2019, enabling teams to unpack and deliver critical cargo to NASA teams in Florida more efficiently and transport crews more quickly to Kennedy Space Center. Additionally, the proximity of the new splashdown locations to SpaceX’s Dragon processing facility at Cape Canaveral Space Force Station in Florida allowed SpaceX teams to recover and refurbish Dragon spacecraft at a faster rate to support a rapidly growing Dragon manifest after the completion of NASA’s Demo-2 mission in August 2020.</p><p>This shift required SpaceX to develop what has become our current Dragon recovery operations, first implemented during the Demo-1 and CRS-21 missions. Today, Dragon’s trunk is jettisoned prior to the vehicle’s deorbit burn while still in orbit, passively reentering and breaking up in the Earth’s atmosphere in the days to months that follow. As the trunk does not have any maneuvering capabilities of its own after separation, the location and precise timing of the trunk’s reentry cannot be predicted and is dependent upon solar activity.</p><p>When developing Dragon’s current reentry operations, SpaceX and NASA engineering teams used industry-standard models to understand the trunk’s breakup characteristics. These models predicted that the trunk would fully burn up due to the high temperatures created by air resistance during high-speed reentries into Earth’s atmosphere, leaving no debris. The results of these models was a determining factor in our decision to passively deorbit the trunk and enable Dragon splashdowns off the coast of Florida.</p><p>In 2022, however, trunk debris from NASA’s Crew-1 mission to the International Space Station was discovered in Australia, indicating the industry models were not fully accurate with regards to large, composite structures such as Dragon’s trunk. SpaceX and NASA reviewed the data and performed additional materials testing to better understand the trunk’s break-up characteristics and improve the respective modeling.</p><p>To date, the majority of trunk debris has reentered over unpopulated ocean areas. In the last six months, however, SpaceX became aware of three new cases where trunk debris was found on land; SpaceX is unaware of any structure damage or injuries caused by these debris.</p>'
+      format: basic_html
+      summary: ''
+  field_authors:
+    -
+      entity: d2ce9351-9301-4d53-9a38-60791fe2d6ec
+  field_category:
+    -
+      entity: ff200533-5078-412d-9ccb-d192004e5e2f
+  field_content_footer:
+    -
+      value: '<p>Uniquely re-engineer sustainable collaboration and idea-sharing without bleeding-edge metrics. Continually reinvent equity invested users before high-quality results. Interactively develop distinctive best practices for quality applications. Continually deliver sticky vortals and interoperable communities. Dynamically.</p>'
+      format: basic_html
+  field_content_header:
+    -
+      value: '<p>Synergistically expedite multifunctional niche markets rather than standardized outsourcing. Assertively provide access to parallel testing procedures rather than team building collaboration and idea-sharing. Distinctively scale goal-oriented communities without cutting-edge information. Conveniently myocardinate client-centric.</p>'
+      format: basic_html
+  field_image:
+    -
+      entity: 943c019c-3ef1-448e-97f0-fb70171571d4
+  field_link:
+    -
+      uri: 'https://www.spacex.com/updates/'
+      title: SpaceX
+      options: {  }
+  field_teaser:
+    -
+      value: '<p>Dragon’s now 45 missions to orbit have helped ensure the continued operation of the space station – delivering critical supplies, scientific research, and astronauts to the orbiting laboratory – while also creating greater opportunities for humanity to explore Earth’s orbit.</p>'
+      format: basic_html
+  field_thumbnail:
+    -
+      entity: 943c019c-3ef1-448e-97f0-fb70171571d4
+  field_topics:
+    -
+      entity: 4931fb10-fc4f-4e04-8b74-f2e9e63be30e
+    -
+      entity: 973ae070-99a3-4546-973e-f720d6f74c27

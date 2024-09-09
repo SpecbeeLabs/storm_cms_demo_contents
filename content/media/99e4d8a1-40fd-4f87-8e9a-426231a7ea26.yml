@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: media
+  uuid: 99e4d8a1-40fd-4f87-8e9a-426231a7ea26
+  bundle: image
+  default_langcode: en
+  depends:
+    8275311e-038d-4e19-bf38-2b736b29e9c0: file
+    8b5b5902-9021-4aa0-bf9c-181d1d9955e4: taxonomy_term
+default:
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  name:
+    -
+      value: independence-day.jpg
+  created:
+    -
+      value: 1725877970
+  revision_translation_affected:
+    -
+      value: true
+  metatag:
+    -
+      tag: meta
+      attributes:
+        name: title
+        content: '| StormCMS'
+    -
+      tag: link
+      attributes:
+        rel: canonical
+        href: 'https://storm.ddev.site/user/login'
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 0
+  field_caption_credit:
+    -
+      value: '<p>Credit: <a href="https://thenextweb.com/news/independence-day-ukraine-tech-sector-fight-freedom">The Next Web</a></p>'
+      format: basic_html
+  field_media_image:
+    -
+      entity: 8275311e-038d-4e19-bf38-2b736b29e9c0
+      alt: 'Ukraine Independence day'
+      title: ''
+      width: 1280
+      height: 720
+  field_media_tags:
+    -
+      entity: 8b5b5902-9021-4aa0-bf9c-181d1d9955e4

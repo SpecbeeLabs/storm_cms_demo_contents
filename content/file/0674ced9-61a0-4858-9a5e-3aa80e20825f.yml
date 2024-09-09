@@ -1,0 +1,30 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 0674ced9-61a0-4858-9a5e-3aa80e20825f
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: pivots-founder.jpg
+  uri:
+    -
+      value: 'public://2024-09/pivots-founder_0.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 63110
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1725873680
+  origname:
+    -
+      value: pivots-founder.jpg

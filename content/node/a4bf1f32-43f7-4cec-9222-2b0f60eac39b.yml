@@ -1,0 +1,100 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: a4bf1f32-43f7-4cec-9222-2b0f60eac39b
+  bundle: article
+  default_langcode: en
+  depends:
+    d2ce9351-9301-4d53-9a38-60791fe2d6ec: node
+    e87fcf0e-768d-4fe1-b52b-0ff18c022910: taxonomy_term
+    99e4d8a1-40fd-4f87-8e9a-426231a7ea26: media
+    cdcf8d31-8c10-47b6-a2f4-16c7ef5e6474: taxonomy_term
+    4931fb10-fc4f-4e04-8b74-f2e9e63be30e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Independence Day: how Ukraine’s tech sector is fuelling the fight for freedom'
+  created:
+    -
+      value: 1725877905
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  moderation_state:
+    -
+      value: published
+  metatag:
+    -
+      tag: meta
+      attributes:
+        name: title
+        content: 'Independence Day: how Ukraine’s tech sector is fuelling the fight for freedom | StormCMS'
+    -
+      tag: meta
+      attributes:
+        name: description
+        content: 'What’s your work from home situation like these days? For Andriy Klen, co-founder and CFO of smart device startup Petcube, it is not only email notifications popping up on his laptop screen, but also incoming missile alerts.He pauses our conversation to follow the rocket’s calculated trajectory, before being notified that it has disappeared from the radar. We continue our call, he from Kyiv, and I from our office in Amsterdam, where the biggest conflict of the year broke out a couple of weeks ago over a change in catering.'
+    -
+      tag: link
+      attributes:
+        rel: canonical
+        href: 'https://storm.ddev.site/articles/independence-day-how-ukraines-tech-sector-fuelling-fight-freedom'
+  path:
+    -
+      alias: /articles/independence-day-how-ukraines-tech-sector-fuelling-fight-freedom
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: '<p>What’s your work from home situation like these days? For Andriy Klen, co-founder and CFO of smart device <a href="https://thenextweb.com/topic/startups">startup</a> Petcube, it is not only email notifications popping up on his laptop screen, but also incoming missile alerts.</p><p>He pauses our conversation to follow the rocket’s calculated trajectory, before being notified that it has disappeared from the radar. We continue our call, he from Kyiv, and I from our office in Amsterdam, where the biggest conflict of the year broke out a couple of weeks ago over a change in catering.</p><p>Klen’s laughter at the absurdity of it all as he continues to answer my questions is emblematic of the resilience of Ukrainians living under constant threat and still managing to work, volunteer, care for kids — and pets — and come up with novel ways of supporting the defence and economy of their country.</p><h2>Supporting the Ukrainian defence and economy</h2><p>As Ukraine celebrates its Independence Day today, August 24, we spoke to some of the <a href="https://thenextweb.com/topic/tech">tech</a> sector doing their utmost to retain that hard-won freedom.</p><p>Klen is one of the initiators behind <a href="https://www.spendwithukraine.com/">Spend with Ukraine</a>, a non-profit organisation running a web platform with a directory of over 240 Ukrainian-rooted businesses. Acknowledging that people may be hesitant to provide direct aid to military efforts, its originators wanted to find other ways in which to support Ukraine and its economy.</p><p>“This is really important, because we still need this place to be productive and to flourish — to function at the core,” Klen says. “We thought that we could still bring up Ukraine’s name in a positive context, and advertise and promote Ukrainian products and services.”</p><p>One such company is Klen’s own <a href="https://petcube.com/en-nl/">Petcube</a> — a startup that sells interactive pet monitoring devices including a vet chat feature. The company manufactures in China and has an international market, which has allowed it to keep growing despite domestic hardships.</p>'
+      format: basic_html
+      summary: ''
+  field_authors:
+    -
+      entity: d2ce9351-9301-4d53-9a38-60791fe2d6ec
+  field_category:
+    -
+      entity: e87fcf0e-768d-4fe1-b52b-0ff18c022910
+  field_content_footer:
+    -
+      value: '<p>Uniquely mesh team building collaboration and idea-sharing through B2B e-markets. Globally generate leveraged paradigms via team driven data. Appropriately deliver integrated materials through value-added methodologies. Completely incubate exceptional materials via worldwide core competencies.</p>'
+      format: basic_html
+  field_content_header:
+    -
+      value: '<p>Distinctively network business materials rather than quality products. Rapidiously supply process-centric mindshare whereas best-of-breed outsourcing. Compellingly iterate 24/365 infrastructures vis-a-vis ubiquitous niche markets. Enthusiastically syndicate customer directed benefits after installed base core competencies.</p>'
+      format: basic_html
+  field_image:
+    -
+      entity: 99e4d8a1-40fd-4f87-8e9a-426231a7ea26
+  field_link:
+    -
+      uri: 'https://www.respeecher.com/'
+      title: Respeecher
+      options: {  }
+  field_teaser:
+    -
+      value: '<p>Klen’s laughter at the absurdity of it all as he continues to answer my questions is emblematic of the resilience of Ukrainians living under constant threat and still managing to work, volunteer, care for kids — and pets — and come up with novel ways of supporting the defence and economy of their country.</p>'
+      format: basic_html
+  field_thumbnail:
+    -
+      entity: 99e4d8a1-40fd-4f87-8e9a-426231a7ea26
+  field_topics:
+    -
+      entity: cdcf8d31-8c10-47b6-a2f4-16c7ef5e6474
+    -
+      entity: 4931fb10-fc4f-4e04-8b74-f2e9e63be30e

@@ -1,0 +1,30 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: f9553d75-0fc2-4f03-bbb6-98517324d007
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: starship-onboard.jpg
+  uri:
+    -
+      value: 'public://2024-09/starship-onboard_0.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 142604
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1725871223
+  origname:
+    -
+      value: starship-onboard.jpg
