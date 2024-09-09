@@ -1,0 +1,30 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 40240099-657a-4084-981d-4cdfb0e94431
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: cern-ai.jpg
+  uri:
+    -
+      value: 'public://2024-09/cern-ai_0.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 49733
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1725874283
+  origname:
+    -
+      value: cern-ai.jpg

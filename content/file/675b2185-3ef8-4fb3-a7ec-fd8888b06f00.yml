@@ -1,0 +1,30 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 675b2185-3ef8-4fb3-a7ec-fd8888b06f00
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: advertising-cut.jpg
+  uri:
+    -
+      value: 'public://2024-09/advertising-cut_0.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 31097
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1725873324
+  origname:
+    -
+      value: advertising-cut.jpg

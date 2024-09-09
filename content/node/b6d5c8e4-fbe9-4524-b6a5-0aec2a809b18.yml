@@ -1,0 +1,100 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: b6d5c8e4-fbe9-4524-b6a5-0aec2a809b18
+  bundle: article
+  default_langcode: en
+  depends:
+    0dcc0aec-b246-46b7-b69b-656475704105: node
+    e87fcf0e-768d-4fe1-b52b-0ff18c022910: taxonomy_term
+    15fefaad-63bb-4168-a588-89169aafadd6: media
+    cdcf8d31-8c10-47b6-a2f4-16c7ef5e6474: taxonomy_term
+    4931fb10-fc4f-4e04-8b74-f2e9e63be30e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'For Lego, the future is increasingly digital. Pity your inner child'
+  created:
+    -
+      value: 1725876943
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  moderation_state:
+    -
+      value: published
+  metatag:
+    -
+      tag: meta
+      attributes:
+        name: title
+        content: 'For Lego, the future is increasingly digital. Pity your inner child | StormCMS'
+    -
+      tag: meta
+      attributes:
+        name: description
+        content: 'As one of millions of adults who grew up building Lego, the company’s digital adventures distort my childhood memories. Yet my screaming inner infant can’t derail the transition.Our beloved bricks have now been in video games for nearly three decades. Since debuting on Sega Pico in 1995, the Lego games empire has expanded across over 80 titles and 200 million sales.'
+    -
+      tag: link
+      attributes:
+        rel: canonical
+        href: 'https://storm.ddev.site/articles/lego-future-increasingly-digital-pity-your-inner-child'
+  path:
+    -
+      alias: /articles/lego-future-increasingly-digital-pity-your-inner-child
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: '<p>As one of millions of adults who grew up building Lego, the company’s digital adventures distort my childhood memories. Yet my screaming inner infant can’t derail the transition.</p><p>Our beloved bricks have now been in video games for nearly <a href="https://en.wikipedia.org/wiki/List_of_Lego_video_games">three decades</a>. Since debuting on Sega Pico in 1995, the Lego games empire has expanded across over 80 titles and 200 million sales.</p><p>The biggest hits have come from licensing deals. Collaborations with Star Wars, Marvel, and Harry Potter have&nbsp;shifted copious copies — despite their <a href="https://www.watchmojo.com/articles/the-10-worst-lego-video-games">dubious quality</a>.</p><p>Buoyed by the results, the company has started splurging on games studios. In 2022, the Kristiansen family — the fabulously wealthy Danish clan that controls Lego — invested $1bn in Epic Games. A year later, the partners released their first offspring: <em>Lego Fortnite</em>.</p><p>Pitched as a <em>Minecraft</em> rival, the <a href="https://thenextweb.com/topic/gaming">game</a> quickly attracted a large audience. Lego claims that it’s now reached 83 million people.</p><p>Unsurprisingly, the brick-maker is planning more collaborations.</p><p>“We will continue to develop in the digital world,” Niels B. Christiansen <a href="https://www.bloomberg.com/news/articles/2024-08-28/lego-ceo-wants-to-copy-fortnite-success-with-more-game-deals?srnd=phx-technology">told Bloomberg</a>. “It’s not new for the Lego Group to do partnerships and license agreements, and it’s clearly our ambition that we will do more.”</p><h2>Lego is just the start</h2><p>Lego’s rivals have deployed similar strategies.</p><p>Hasbro has unearthed new riches in smartphone apps. A digital <em>Monopoly</em>&nbsp;<a href="https://sensortower.com/blog/scopely-monopoly-go-fastest-ever-3b-gross">recently became</a> the fastest mobile game to gross $3bn in revenues.</p><p>Mattel has also earned big bucks in new&nbsp;markets. In 2023, the company’s <em>Barbie </em>film was the world’s <a href="https://variety.com/2023/film/box-office/barbie-highest-grossing-worldwide-movie-year-1235705510/">highest-grossing</a> movie. A new Barbie phone aims to piggyback the blockbuster’s success.</p><p>TNW’s intrepid reporter, Siôn Geschwindt, <a href="https://thenextweb.com/news/new-barbie-dumbphone-could-cleave-tweens-from-their-screens">has high hopes</a> for the device — and so do his kids. I’m less enthusiastic.</p><p>I worry about the future for the toys of my past. If digital life proves too lucrative, they may one day leave the physical world for good.</p><p>But that doesn’t mean my peers can’t embrace the new era. After all, it’s not just children&nbsp;who want digital versions of toys. The reinventions also attract countless infantile adults.</p>'
+      format: basic_html
+      summary: ''
+  field_authors:
+    -
+      entity: 0dcc0aec-b246-46b7-b69b-656475704105
+  field_category:
+    -
+      entity: e87fcf0e-768d-4fe1-b52b-0ff18c022910
+  field_content_footer:
+    -
+      value: '<p>Collaboratively empower empowered materials without cross-unit channels. Completely incubate granular deliverables for 24/7 e-business. Interactively strategize granular total linkage and covalent portals. Progressively leverage existing wireless information and worldwide benefits. Objectively cultivate synergistic.</p>'
+      format: basic_html
+  field_content_header:
+    -
+      value: '<p>Collaboratively empower empowered materials without cross-unit channels. Completely incubate granular deliverables for 24/7 e-business. Interactively strategize granular total linkage and covalent portals. Progressively leverage existing wireless information and worldwide benefits. Objectively cultivate synergistic.</p>'
+      format: basic_html
+  field_image:
+    -
+      entity: 15fefaad-63bb-4168-a588-89169aafadd6
+  field_link:
+    -
+      uri: 'https://thenextweb.com/news/lego-fortnite-heralds-new-gaming-era-for-toys'
+      title: Gaming
+      options: {  }
+  field_teaser:
+    -
+      value: '<p>Buoyed by the results, the company has started splurging on games studios. In 2022, the Kristiansen family — the fabulously wealthy Danish clan that controls Lego — invested $1bn in Epic Games. A year later, the partners released their first offspring: <em>Lego Fortnite</em>.</p>'
+      format: basic_html
+  field_thumbnail:
+    -
+      entity: 15fefaad-63bb-4168-a588-89169aafadd6
+  field_topics:
+    -
+      entity: cdcf8d31-8c10-47b6-a2f4-16c7ef5e6474
+    -
+      entity: 4931fb10-fc4f-4e04-8b74-f2e9e63be30e

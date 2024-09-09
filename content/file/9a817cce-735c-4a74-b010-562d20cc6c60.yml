@@ -1,0 +1,30 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 9a817cce-735c-4a74-b010-562d20cc6c60
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: lunar-exploration.png
+  uri:
+    -
+      value: 'public://2024-09/lunar-exploration_0.png'
+  filemime:
+    -
+      value: image/png
+  filesize:
+    -
+      value: 574438
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1725871702
+  origname:
+    -
+      value: lunar-exploration.png

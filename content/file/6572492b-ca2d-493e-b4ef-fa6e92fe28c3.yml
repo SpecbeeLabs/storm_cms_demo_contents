@@ -1,0 +1,30 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 6572492b-ca2d-493e-b4ef-fa6e92fe28c3
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: quantum-computing.jpg
+  uri:
+    -
+      value: 'public://2024-09/quantum-computing_0.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 157180
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1725875130
+  origname:
+    -
+      value: quantum-computing.jpg

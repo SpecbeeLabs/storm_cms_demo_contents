@@ -1,0 +1,100 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 0812cfec-cc0c-42e9-989e-20840b24fb14
+  bundle: article
+  default_langcode: en
+  depends:
+    62be5f21-7be5-4199-a43d-5944fd498980: node
+    a322b976-9037-48c5-9575-09a05ccdf09e: taxonomy_term
+    f1272c25-9c28-43cf-af66-2f1f31a97417: media
+    cdcf8d31-8c10-47b6-a2f4-16c7ef5e6474: taxonomy_term
+    4931fb10-fc4f-4e04-8b74-f2e9e63be30e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Uber backs Wayve as it targets level 4 autonomous vehicles'
+  created:
+    -
+      value: 1725875888
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  moderation_state:
+    -
+      value: published
+  metatag:
+    -
+      tag: meta
+      attributes:
+        name: title
+        content: 'Uber backs Wayve as it targets level 4 autonomous vehicles | StormCMS'
+    -
+      tag: meta
+      attributes:
+        name: description
+        content: 'Uber has made an investment in Wayve, as the ride-hailing giant positions itself to profit from the moment when (or if?) autonomous vehicles finally go mainstream.The undisclosed investment is an extension of Wayve’s massive $1bn funding round, announced in May. Under the deal, Uber has taken a minority stake in the London-based self-driving startup.'
+    -
+      tag: link
+      attributes:
+        rel: canonical
+        href: 'https://storm.ddev.site/articles/uber-backs-wayve-it-targets-level-4-autonomous-vehicles'
+  path:
+    -
+      alias: /articles/uber-backs-wayve-it-targets-level-4-autonomous-vehicles
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: '<p><a href="https://thenextweb.com/topic/uber">Uber</a> has made an investment in Wayve, as the ride-hailing giant positions itself to profit from the moment when (or if?) autonomous vehicles finally go mainstream.</p><p>The undisclosed investment is an extension of Wayve’s <a href="https://thenextweb.com/news/startup-wayve-1-billion-europes-largest-ai-funding-round-autonomous-vehicles">massive $1bn funding round</a>, announced in May. Under the deal, Uber has taken a minority stake in the London-based self-driving <a href="https://thenextweb.com/topic/startups">startup</a>.</p><p>“Wayve’s advanced embodied AI approach holds a ton of promise as we work towards a world where modern vehicles are shared, electric, and autonomous,” said Uber’s CEO Dara Khosrowshahi.</p><p>Founded in Cambridge in 2017, Wayve fits a regular car with a range of cameras and sensors that interpret the surrounding environment. This data gets fed to Wayve’s so-called “embodied AI” system.</p><p>Unlike many other self-driving <a href="https://thenextweb.com/topic/artificial-intelligence">AI</a> models, which have to be trained on each possible driving scenario and are confined to geofenced limits, Wayve’s AI is more free to act and learn on its own. The more the AI “drives,” the better it becomes at responding to hazards.</p>'
+      format: basic_html
+      summary: ''
+  field_authors:
+    -
+      entity: 62be5f21-7be5-4199-a43d-5944fd498980
+  field_category:
+    -
+      entity: a322b976-9037-48c5-9575-09a05ccdf09e
+  field_content_footer:
+    -
+      value: '<p>Efficiently transform synergistic core competencies without B2B catalysts for change. Completely redefine virtual technologies through sustainable scenarios. Intrinsicly iterate client-focused resources for best-of-breed results. Intrinsicly seize 24/7 synergy and future-proof testing procedures. Synergistically.</p>'
+      format: basic_html
+  field_content_header:
+    -
+      value: '<p>Efficiently aggregate corporate vortals through corporate e-tailers. Distinctively build mission-critical deliverables rather than enabled imperatives. Continually simplify compelling portals and installed base value. Progressively harness dynamic supply chains after end-to-end manufactured products. Energistically.</p>'
+      format: basic_html
+  field_image:
+    -
+      entity: f1272c25-9c28-43cf-af66-2f1f31a97417
+  field_link:
+    -
+      uri: 'https://www.cbc.ca/news/business/tesla-autopilot-death-settlement-1.7167870'
+      title: Accidents
+      options: {  }
+  field_teaser:
+    -
+      value: '<p>The undisclosed investment is an extension of Wayve’s <a href="https://thenextweb.com/news/startup-wayve-1-billion-europes-largest-ai-funding-round-autonomous-vehicles">massive $1bn funding round</a>, announced in May. Under the deal, Uber has taken a minority stake in the London-based self-driving <a href="https://thenextweb.com/topic/startups">startup</a>.</p>'
+      format: basic_html
+  field_thumbnail:
+    -
+      entity: f1272c25-9c28-43cf-af66-2f1f31a97417
+  field_topics:
+    -
+      entity: cdcf8d31-8c10-47b6-a2f4-16c7ef5e6474
+    -
+      entity: 4931fb10-fc4f-4e04-8b74-f2e9e63be30e

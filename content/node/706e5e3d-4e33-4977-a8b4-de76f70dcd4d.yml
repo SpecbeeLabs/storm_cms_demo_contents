@@ -1,0 +1,100 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 706e5e3d-4e33-4977-a8b4-de76f70dcd4d
+  bundle: article
+  default_langcode: en
+  depends:
+    1705a440-08c3-456f-9e40-fec670c0bb9f: node
+    e87fcf0e-768d-4fe1-b52b-0ff18c022910: taxonomy_term
+    45e289f8-1027-42c4-ba48-686385d23873: media
+    cdcf8d31-8c10-47b6-a2f4-16c7ef5e6474: taxonomy_term
+    4931fb10-fc4f-4e04-8b74-f2e9e63be30e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'The world’s most powerful supercomputers are getting a diamond quantum boost'
+  created:
+    -
+      value: 1725875060
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  moderation_state:
+    -
+      value: published
+  metatag:
+    -
+      tag: meta
+      attributes:
+        name: title
+        content: 'The world’s most powerful supercomputers are getting a diamond quantum boost | StormCMS'
+    -
+      tag: meta
+      attributes:
+        name: description
+        content: 'The Oak Ridge National Laboratory (ORNL) in Tennessee is the stuff of computation legend. From playing a central part in the Manhattan Project and the development of the first nuclear bomb, to housing the world’s first exascale supercomputer, it sits at the very edge of what is possible given the extent of our scientific knowledge to date.'
+    -
+      tag: link
+      attributes:
+        rel: canonical
+        href: 'https://storm.ddev.site/articles/worlds-most-powerful-supercomputers-are-getting-diamond-quantum-boost'
+  path:
+    -
+      alias: /articles/worlds-most-powerful-supercomputers-are-getting-diamond-quantum-boost
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: '<p>The Oak Ridge National Laboratory (ORNL) in Tennessee is the stuff of computation legend. From playing a central part in the Manhattan Project and the development of the first nuclear bomb, to housing the world’s first exascale supercomputer, it sits at the very edge of what is possible given the extent of our scientific knowledge to date.<br><br>Now, ORNL has chosen to partner with Quantum Brilliance for a hybrid quantum-classical project built on the Australian-German <a href="https://thenextweb.com/topic/startups">startup’s</a> room temperature quantum accelerator — made from diamond — to give its supercomputers a <a href="https://thenextweb.com/topic/quantum">quantum</a> boost.&nbsp;</p><p>Before we get into the bling part, it is worth defining a few terms. A quantum accelerator is a specialised hardware unit that speeds up specific quantum algorithms, or tasks. They act as a co-processor to classical processors, such as CPUs or GPUs, taking on specific quantum calculations.&nbsp;&nbsp;</p><p>Essentially, they augment classical computing systems. This is different from quantum processors, which are the core processing units of quantum computers, where qubits are responsible for all computations.&nbsp;</p>'
+      format: basic_html
+      summary: ''
+  field_authors:
+    -
+      entity: 1705a440-08c3-456f-9e40-fec670c0bb9f
+  field_category:
+    -
+      entity: e87fcf0e-768d-4fe1-b52b-0ff18c022910
+  field_content_footer:
+    -
+      value: '<p>Uniquely restore competitive products whereas granular paradigms. Quickly coordinate sustainable paradigms through 24/7 data. Objectively actualize low-risk high-yield results without performance based models. Uniquely initiate front-end architectures without visionary expertise. Rapidiously enhance market.</p>'
+      format: basic_html
+  field_content_header:
+    -
+      value: '<p>Continually myocardinate user friendly leadership skills without progressive initiatives. Credibly plagiarize progressive imperatives with exceptional e-business. Dramatically brand robust systems with reliable potentialities. Monotonectally strategize professional alignments rather than resource-leveling technology. Objectively fashion.</p>'
+      format: basic_html
+  field_image:
+    -
+      entity: 45e289f8-1027-42c4-ba48-686385d23873
+  field_link:
+    -
+      uri: 'https://thenextweb.com/news/ornl-quantum-brilliance-supercomputer-diamond-accelerator-partnership'
+      title: Explore
+      options: {  }
+  field_teaser:
+    -
+      value: '<p>Essentially, they augment classical computing systems. This is different from quantum processors, which are the core processing units of quantum computers, where qubits are responsible for all computations.</p>'
+      format: basic_html
+  field_thumbnail:
+    -
+      entity: 45e289f8-1027-42c4-ba48-686385d23873
+  field_topics:
+    -
+      entity: cdcf8d31-8c10-47b6-a2f4-16c7ef5e6474
+    -
+      entity: 4931fb10-fc4f-4e04-8b74-f2e9e63be30e

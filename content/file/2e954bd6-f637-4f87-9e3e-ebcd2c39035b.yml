@@ -1,0 +1,30 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 2e954bd6-f637-4f87-9e3e-ebcd2c39035b
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: gaming-era.jpg
+  uri:
+    -
+      value: 'public://2024-09/gaming-era_0.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 188106
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1725877006
+  origname:
+    -
+      value: gaming-era.jpg

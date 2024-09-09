@@ -1,0 +1,30 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 6698f6a9-8134-44dc-b5f3-571a4e6d72f3
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: space-debris.jpg
+  uri:
+    -
+      value: 'public://2024-09/space-debris_0.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 158885
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1725878141
+  origname:
+    -
+      value: space-debris.jpg

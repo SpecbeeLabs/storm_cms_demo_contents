@@ -1,0 +1,100 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: bbd966d6-0195-4cd1-8b26-5c2395f79626
+  bundle: article
+  default_langcode: en
+  depends:
+    1705a440-08c3-456f-9e40-fec670c0bb9f: node
+    a322b976-9037-48c5-9575-09a05ccdf09e: taxonomy_term
+    b87c69d5-34bf-4fcb-b028-7375111d5409: media
+    cdcf8d31-8c10-47b6-a2f4-16c7ef5e6474: taxonomy_term
+    4931fb10-fc4f-4e04-8b74-f2e9e63be30e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Telegram’s Pavel Durov arrested: 12 charges France is investigating'
+  created:
+    -
+      value: 1725877699
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  moderation_state:
+    -
+      value: published
+  metatag:
+    -
+      tag: meta
+      attributes:
+        name: title
+        content: 'Telegram’s Pavel Durov arrested: 12 charges France is investigating | StormCMS'
+    -
+      tag: meta
+      attributes:
+        name: description
+        content: "French prosecutors have shed further light on the arrest of Telegram CEO Pavel Durov.Durov was apprehended on Saturday at Le Bourget\_Airport after landing on his private jet. The Russia-born billionaire — a dual citizen of France and the UAE — was\_detained over alleged offences related to Telegram.Durov and his brother Nikolai launched the messaging and social media app in 2013. With almost 1 billion users, the platform has become immensely popular. But it’s also become a magnet for controversy."
+    -
+      tag: link
+      attributes:
+        rel: canonical
+        href: 'https://storm.ddev.site/articles/telegrams-pavel-durov-arrested-12-charges-france-investigating'
+  path:
+    -
+      alias: /articles/telegrams-pavel-durov-arrested-12-charges-france-investigating
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: '<p>French prosecutors have shed further light on the arrest of Telegram CEO Pavel Durov.</p><p>Durov was apprehended on Saturday at Le Bourget&nbsp;Airport after landing on his private jet. The Russia-born billionaire — a dual citizen of France and the UAE — was&nbsp;detained over alleged offences related to Telegram.</p><p>Durov and his brother Nikolai launched the messaging and social media app in 2013. With almost 1 billion users, the platform has become immensely popular. But it’s also become a magnet for controversy.</p><p>Supporters laud the platform as a bastion for free speech. Critics counter that it’s a haven for criminals, extremists, and conspiracy theorists.</p><p>In a statement, Paris prosecutor Laure Beccuau <a href="https://www.tribunal-de-paris.justice.fr/sites/default/files/2024-08/2024-08-26%20-%20CP%20TELEGRAM%20.pdf">announced</a> that Durov was arrested as part of a probe into an unnamed person that opened on July 8.</p><p>Beccuau said the investigation centred on the following 12 charges:</p><ol><li>Complicity — web-mastering an online platform in order to enable an illegal transaction in organised group.</li><li>Refusal to communicate, at the request of competent authorities, information or documents necessary for carrying out and operating interceptions allowed by law.</li><li>Complicity — possessing pornographic images of minors.</li><li>Complicity — distributing, offering or making available pornographic images of minors, in organised group.</li><li>Complicity — acquiring, transporting, possessing, offering or selling narcotic substances.</li><li>Complicity — offering, selling or making available, without legitimate reason, equipment, tools, programs, or data designed for or adapted to get access to and to damage the operation of an automated data processing system.</li><li>Complicity — organised fraud.</li><li>Criminal association with a view to committing a crime or an offence punishable by 5 or more years of imprisonment.</li><li>Laundering of the proceeds derived from organised group’s offences and crimes.</li><li>Providing cryptology services aiming to ensure confidentiality without certified declaration.</li><li>Providing a cryptology tool not solely ensuring authentication or integrity monitoring without prior declaration.</li><li>Importing a cryptology tool ensuring authentication or integrity monitoring without prior declaration.</li></ol><p>Cybercrime and fraud detectives are now investigating the allegations. On Tuesday, Beccuau announced that Durov will remain in police custody for up to 48 hours more. Telegram says that the CEO has “nothing to hide.”</p>'
+      format: basic_html
+      summary: ''
+  field_authors:
+    -
+      entity: 1705a440-08c3-456f-9e40-fec670c0bb9f
+  field_category:
+    -
+      entity: a322b976-9037-48c5-9575-09a05ccdf09e
+  field_content_footer:
+    -
+      value: '<p>Quickly deliver empowered schemas via strategic manufactured products. Dramatically conceptualize sticky e-business through client-centered materials. Dramatically integrate vertical supply chains and dynamic materials. Enthusiastically synergize mission-critical leadership rather than performance based schemas. Enthusiastically.</p>'
+      format: basic_html
+  field_content_header:
+    -
+      value: '<p>Phosfluorescently provide access to front-end e-tailers with dynamic initiatives. Efficiently expedite enterprise-wide value and orthogonal e-commerce. Objectively visualize clicks-and-mortar materials for best-of-breed action items. Dramatically evisculate interdependent models and integrated networks. Competently develop.</p>'
+      format: basic_html
+  field_image:
+    -
+      entity: b87c69d5-34bf-4fcb-b028-7375111d5409
+  field_link:
+    -
+      uri: 'https://thenextweb.com/news/telegram-ceo-pavel-durov-arrest-12-charges'
+      title: Charges
+      options: {  }
+  field_teaser:
+    -
+      value: '<p>Durov and his brother Nikolai launched the messaging and social media app in 2013. With almost 1 billion users, the platform has become immensely popular. But it’s also become a magnet for controversy.</p>'
+      format: basic_html
+  field_thumbnail:
+    -
+      entity: b87c69d5-34bf-4fcb-b028-7375111d5409
+  field_topics:
+    -
+      entity: cdcf8d31-8c10-47b6-a2f4-16c7ef5e6474
+    -
+      entity: 4931fb10-fc4f-4e04-8b74-f2e9e63be30e

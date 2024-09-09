@@ -1,0 +1,100 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 3f216cf8-fd7e-44c9-8c1e-c2b4fe0e4e6f
+  bundle: article
+  default_langcode: en
+  depends:
+    a0436158-051d-4e19-9aed-dc6ee45a4cbb: node
+    e87fcf0e-768d-4fe1-b52b-0ff18c022910: taxonomy_term
+    5803af87-1de3-404e-9b8a-31ce26723a35: media
+    cdcf8d31-8c10-47b6-a2f4-16c7ef5e6474: taxonomy_term
+    4931fb10-fc4f-4e04-8b74-f2e9e63be30e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Quantum computing: the inevitable threat to information security'
+  created:
+    -
+      value: 1725876186
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  moderation_state:
+    -
+      value: published
+  metatag:
+    -
+      tag: meta
+      attributes:
+        name: title
+        content: 'Quantum computing: the inevitable threat to information security | StormCMS'
+    -
+      tag: meta
+      attributes:
+        name: description
+        content: "In an era where technological advancements continually reshape our world, one of the most significant emerging threats is quantum computing.\_This powerful technology, while promising revolutionary benefits, poses a substantial risk to our current cybersecurity infrastructure. As we stand on the brink of this quantum revolution, it is imperative to understand the potential dangers and prepare accordingly."
+    -
+      tag: link
+      attributes:
+        rel: canonical
+        href: 'https://storm.ddev.site/articles/quantum-computing-inevitable-threat-information-security'
+  path:
+    -
+      alias: /articles/quantum-computing-inevitable-threat-information-security
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: '<p>In an era where technological advancements continually reshape our world, one of the most significant emerging threats is <a href="https://thenextweb.com/topic/quantum-computers">quantum computing</a>.&nbsp;</p><p>This powerful technology, while promising revolutionary benefits, poses a substantial risk to our current <a href="https://thenextweb.com/topic/cybersecurity">cybersecurity</a> infrastructure. As we stand on the brink of this quantum revolution, it is imperative to understand the potential dangers and prepare accordingly.</p><h2><strong>The quantum leap</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h2><p>Quantum computing harnesses the principles of quantum mechanics to perform computations at speeds unimaginable with classical computers. In 2019, Google proclaimed to have demonstrated “quantum supremacy” when its Sycamore processor solved a problem in 200 seconds that would take the most advanced classical supercomputers nearly 10,000 years.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p><p>While the specific feat was disputed, there is no denying that quantum computing has made tremendous strides toward computation capabilities that are far beyond today’s fastest HPC systems. More recent progress signals the approaching reality of quantum computers capable of breaking existing encryption methods.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p><p>Current encryption methods, which protect everything from personal <a href="https://thenextweb.com/topic/data">data</a> to national security information, rely on the difficulty of solving mathematical problems that classical computers cannot handle efficiently. Quantum computers, however, can solve these problems exponentially faster, rendering traditional encryption obsolete. The risks include:</p><ul><li><strong>Data Interception and Misuse</strong>: All encrypted data could be at risk of interception and decryption by quantum computers.</li><li><strong>“Harvest Now, Decrypt Later” Attacks</strong>: Malicious actors might collect encrypted data now with the intention of decrypting it once quantum computers become available.</li><li><strong>Compromise of Critical Systems</strong>: Failure to migrate to quantum-safe algorithms could lead to breaches in critical business and functional systems, affecting industries like healthcare, finance, and government.</li></ul>'
+      format: basic_html
+      summary: ''
+  field_authors:
+    -
+      entity: a0436158-051d-4e19-9aed-dc6ee45a4cbb
+  field_category:
+    -
+      entity: e87fcf0e-768d-4fe1-b52b-0ff18c022910
+  field_content_footer:
+    -
+      value: '<p>Collaboratively evolve worldwide potentialities vis-a-vis magnetic e-tailers. Compellingly morph client-centered quality vectors whereas future-proof potentialities. Rapidiously unleash sustainable technology without team building experiences. Seamlessly implement magnetic technologies for professional opportunities. Assertively actualize mission-critical.</p>'
+      format: basic_html
+  field_content_header:
+    -
+      value: '<p>Enthusiastically optimize team driven methodologies for magnetic value. Rapidiously promote user friendly architectures whereas excellent process improvements. Professionally engage intuitive e-markets without impactful architectures. Objectively incubate compelling ideas for revolutionary solutions. Phosfluorescently build.</p>'
+      format: basic_html
+  field_image:
+    -
+      entity: 5803af87-1de3-404e-9b8a-31ce26723a35
+  field_link:
+    -
+      uri: 'https://csrc.nist.gov/projects/post-quantum-cryptography'
+      title: NIST
+      options: {  }
+  field_teaser:
+    -
+      value: '<p>This powerful technology, while promising revolutionary benefits, poses a substantial risk to our current <a href="https://thenextweb.com/topic/cybersecurity">cybersecurity</a> infrastructure. As we stand on the brink of this quantum revolution, it is imperative to understand the potential dangers and prepare accordingly.</p>'
+      format: basic_html
+  field_thumbnail:
+    -
+      entity: 5803af87-1de3-404e-9b8a-31ce26723a35
+  field_topics:
+    -
+      entity: cdcf8d31-8c10-47b6-a2f4-16c7ef5e6474
+    -
+      entity: 4931fb10-fc4f-4e04-8b74-f2e9e63be30e

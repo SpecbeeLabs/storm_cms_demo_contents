@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: media
+  uuid: 25d0b26b-8ff5-4744-989a-62c33b90ec90
+  bundle: image
+  default_langcode: en
+  depends:
+    ed65dcc6-f1f3-4423-8042-97ae3309eb35: file
+    86b2f46e-73a2-4720-923b-df9d6a9819c6: taxonomy_term
+default:
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  name:
+    -
+      value: starlink-nightsky.jpg
+  created:
+    -
+      value: 1725872173
+  revision_translation_affected:
+    -
+      value: true
+  metatag:
+    -
+      tag: meta
+      attributes:
+        name: title
+        content: '| StormCMS'
+    -
+      tag: link
+      attributes:
+        rel: canonical
+        href: 'https://storm.ddev.site/user/login'
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 0
+  field_caption_credit:
+    -
+      value: '<p>SpaceX, <a href="https://www.spacex.com/updates/">spacex.com/updates</a>.</p>'
+      format: basic_html
+  field_media_image:
+    -
+      entity: ed65dcc6-f1f3-4423-8042-97ae3309eb35
+      alt: 'Starlink Nightsky'
+      title: ''
+      width: 3000
+      height: 2000
+  field_media_tags:
+    -
+      entity: 86b2f46e-73a2-4720-923b-df9d6a9819c6

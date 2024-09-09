@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: media
+  uuid: 945adf79-35a1-44c1-82bd-c13fc588902b
+  bundle: image
+  default_langcode: en
+  depends:
+    1cd1575e-1fa6-47c3-bd1c-308423b1fa9a: file
+    8b5b5902-9021-4aa0-bf9c-181d1d9955e4: taxonomy_term
+default:
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  name:
+    -
+      value: funding-series.jpg
+  created:
+    -
+      value: 1725875294
+  revision_translation_affected:
+    -
+      value: true
+  metatag:
+    -
+      tag: meta
+      attributes:
+        name: title
+        content: '| StormCMS'
+    -
+      tag: link
+      attributes:
+        rel: canonical
+        href: 'https://storm.ddev.site/user/login'
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 0
+  field_caption_credit:
+    -
+      value: '<p><strong>Credit</strong>: <a href="https://thenextweb.com/news/iceland-treble-technologies-audio-simulation-startup-funding-series-a">The Next Web</a></p>'
+      format: basic_html
+  field_media_image:
+    -
+      entity: 1cd1575e-1fa6-47c3-bd1c-308423b1fa9a
+      alt: 'Funding series'
+      title: ''
+      width: 1280
+      height: 720
+  field_media_tags:
+    -
+      entity: 8b5b5902-9021-4aa0-bf9c-181d1d9955e4

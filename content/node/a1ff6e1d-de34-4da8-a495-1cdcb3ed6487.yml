@@ -1,0 +1,100 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: a1ff6e1d-de34-4da8-a495-1cdcb3ed6487
+  bundle: article
+  default_langcode: en
+  depends:
+    bcd19fc8-e8a2-44b9-815d-1be0b2c1fb5f: node
+    a322b976-9037-48c5-9575-09a05ccdf09e: taxonomy_term
+    cf8e397f-98df-4cb2-b9fb-d75b137bf046: media
+    cdcf8d31-8c10-47b6-a2f4-16c7ef5e6474: taxonomy_term
+    4931fb10-fc4f-4e04-8b74-f2e9e63be30e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Embracing pivots: insights from a nanotech startup founder'
+  created:
+    -
+      value: 1725873522
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  moderation_state:
+    -
+      value: published
+  metatag:
+    -
+      tag: meta
+      attributes:
+        name: title
+        content: 'Embracing pivots: insights from a nanotech startup founder | StormCMS'
+    -
+      tag: meta
+      attributes:
+        name: description
+        content: 'Every startup is looking to solve a problem. Sometimes, it is not the one you first envisioned when you set up the company, as Mari-Ann Meigo Fonseca, co-founder of Tallinn-based Gelatex can attest.Gelatex manufactures 3D nanofibrous scaffolds for various applications, ranging from cell culture to tissue engineering.“But we started the company with a completely different business idea in mind,” Meigo Fonseca tells TNW.'
+    -
+      tag: link
+      attributes:
+        rel: canonical
+        href: 'https://storm.ddev.site/articles/embracing-pivots-insights-nanotech-startup-founder'
+  path:
+    -
+      alias: /articles/embracing-pivots-insights-nanotech-startup-founder
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: '<p>Every <a href="https://thenextweb.com/topic/startup">startup</a> is looking to solve a problem. Sometimes, it is not the one you first envisioned when you set up the company, as Mari-Ann Meigo Fonseca, co-founder of Tallinn-based Gelatex can attest.</p><p>Gelatex manufactures 3D nanofibrous scaffolds for various applications, ranging from cell culture to tissue engineering.</p><p>“But we started the company with a completely different business idea in mind,” Meigo Fonseca tells TNW.</p><h2>Initial target: the textile industry</h2><p>Building a company is often less about sticking to an initial, rigid plan and more about embracing and adapting to changes along the way.</p><p>With a background in the textile industry and garment technology, Meigo Fonseca was initially seeking to contribute to the sustainability of the fashion sector — a mission that led her to pursue an MBA in Entrepreneurship and Technology Management at the University of Tartu in 2015.</p><p>There she met her co-founder, materials scientist and engineer Märt-Erik Martens.</p><p>In 2016, the duo participated in the <a href="https://climatelaunchpad.org/">ClimateLaunchpad</a> competition and won with their idea of producing leather-like textile using gelatin nanofibres. They founded Gelatex the same year and continued developing the product.</p><p>“One of the first challenges we had was that, even if we could make the material work, we wouldn’t be able to manufacture it at scale with the existing production technologies,” Meigo Fonseca says.</p><p>“It would just be too costly.”</p>'
+      format: basic_html
+      summary: ''
+  field_authors:
+    -
+      entity: bcd19fc8-e8a2-44b9-815d-1be0b2c1fb5f
+  field_category:
+    -
+      entity: a322b976-9037-48c5-9575-09a05ccdf09e
+  field_content_footer:
+    -
+      value: '<p>Professionally seize stand-alone mindshare and intuitive processes. Credibly monetize collaborative e-tailers whereas transparent alignments. Uniquely whiteboard accurate communities through vertical niches. Rapidiously engage plug-and-play intellectual capital vis-a-vis holistic web services. Compellingly administrate focused.</p>'
+      format: basic_html
+  field_content_header:
+    -
+      value: '<p>Completely recaptiualize integrated solutions vis-a-vis timely bandwidth. Globally empower end-to-end internal or "organic" sources and an expanded array of leadership skills. Credibly e-enable distributed services without fully tested ROI. Appropriately leverage other''s pandemic.</p>'
+      format: basic_html
+  field_image:
+    -
+      entity: cf8e397f-98df-4cb2-b9fb-d75b137bf046
+  field_link:
+    -
+      uri: 'https://thenextweb.com/news/embracing-pivots-insights-nanotech-startup-founder'
+      title: thenextweb
+      options: {  }
+  field_teaser:
+    -
+      value: '<p>With a background in the textile industry and garment technology, Meigo Fonseca was initially seeking to contribute to the sustainability of the fashion sector — a mission that led her to pursue an MBA in Entrepreneurship and Technology Management at the University of Tartu in 2015.</p>'
+      format: basic_html
+  field_thumbnail:
+    -
+      entity: cf8e397f-98df-4cb2-b9fb-d75b137bf046
+  field_topics:
+    -
+      entity: cdcf8d31-8c10-47b6-a2f4-16c7ef5e6474
+    -
+      entity: 4931fb10-fc4f-4e04-8b74-f2e9e63be30e

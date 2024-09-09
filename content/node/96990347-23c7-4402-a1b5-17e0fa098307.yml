@@ -1,0 +1,100 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 96990347-23c7-4402-a1b5-17e0fa098307
+  bundle: article
+  default_langcode: en
+  depends:
+    62be5f21-7be5-4199-a43d-5944fd498980: node
+    a322b976-9037-48c5-9575-09a05ccdf09e: taxonomy_term
+    bc42393f-e374-49e9-960c-bdb0a5fc0a27: media
+    cdcf8d31-8c10-47b6-a2f4-16c7ef5e6474: taxonomy_term
+    4931fb10-fc4f-4e04-8b74-f2e9e63be30e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'CERN for AI may be the EU’s ‘last chance’ to gain on foreign competition'
+  created:
+    -
+      value: 1725874205
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  moderation_state:
+    -
+      value: published
+  metatag:
+    -
+      tag: meta
+      attributes:
+        name: title
+        content: 'CERN for AI may be the EU’s ‘last chance’ to gain on foreign competition | StormCMS'
+    -
+      tag: meta
+      attributes:
+        name: description
+        content: "With the EU\_lagging behind\_the US and China on artificial intelligence, the idea of a CERN for AI has been gaining traction — even reaching the high ranks of the European Commission."
+    -
+      tag: link
+      attributes:
+        rel: canonical
+        href: 'https://storm.ddev.site/articles/cern-ai-may-be-eus-last-chance-gain-foreign-competition'
+  path:
+    -
+      alias: /articles/cern-ai-may-be-eus-last-chance-gain-foreign-competition
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: '<p>With the EU&nbsp;<a href="https://www.eca.europa.eu/en/news/news-sr-2024-08">lagging behind</a>&nbsp;the US and China on artificial intelligence, the idea of a CERN for AI has been gaining traction — even reaching the high ranks of the European Commission.</p><p>“I will propose to set up a European AI Research Council where we can pool all of our resources, similar to the approach taken with CERN,” Commission President Ursula von der Leyen <a href="https://commission.europa.eu/document/download/e6cd4328-673c-4e7a-8683-f63ffb2cf648_en?filename=Political%20Guidelines%202024-2029_EN.pdf">said</a> in July.</p><p>The concept still remains at a proposal level and details are scarce. But according to a Belgium-based think tank, the idea presents an opportunity for the EU to finally to join the field’s global leaders.</p><p>In a <a href="https://icfg.eu/cern-for-ai-eu-report/">report</a> published on Wednesday, the International Center for Future Generations (ICFG) highlighted several shortcomings of the bloc’s AI sector. These are a shortage of companies developing foundation models, insufficient computational infrastructure, and a limited talent pool.</p><p>According to the ICFG, a pan-European <a href="https://thenextweb.com/topic/ai">AI</a> effort could address these gaps, increase competitiveness, and establish a beneficial ecosystem for the private and public sector alike.</p><p>“[A CERN for AI] might be the last chance for the EU to catch up on foreign advanced AI developers,” said Bálint Pataki, Senior Advanced AI Researcher at ICFG.</p><p>“The US and China are committing large-scale public and private investments into the sector — without a dedicated effort, these nations will solidify their leads and the EU will once again primarily be consumers rather than producers of this innovative industry.”</p>'
+      format: basic_html
+      summary: ''
+  field_authors:
+    -
+      entity: 62be5f21-7be5-4199-a43d-5944fd498980
+  field_category:
+    -
+      entity: a322b976-9037-48c5-9575-09a05ccdf09e
+  field_content_footer:
+    -
+      value: '<p>Objectively transition worldwide models without technically sound technologies. Distinctively innovate top-line manufactured products after process-centric mindshare. Authoritatively foster fully tested information and next-generation leadership. Synergistically maintain go forward growth strategies vis-a-vis cost effective.</p>'
+      format: basic_html
+  field_content_header:
+    -
+      value: '<p>Compellingly generate high standards in potentialities via worldwide products. Quickly restore interoperable content and tactical networks. Synergistically generate team driven data and quality networks. Completely architect market positioning web services rather than turnkey.</p>'
+      format: basic_html
+  field_image:
+    -
+      entity: bc42393f-e374-49e9-960c-bdb0a5fc0a27
+  field_link:
+    -
+      uri: 'https://icfg.eu/cern-for-ai-eu-report/'
+      title: Report
+      options: {  }
+  field_teaser:
+    -
+      value: '<p>The concept still remains at a proposal level and details are scarce. But according to a Belgium-based think tank, the idea presents an opportunity for the EU to finally to join the field’s global leaders.</p>'
+      format: basic_html
+  field_thumbnail:
+    -
+      entity: bc42393f-e374-49e9-960c-bdb0a5fc0a27
+  field_topics:
+    -
+      entity: cdcf8d31-8c10-47b6-a2f4-16c7ef5e6474
+    -
+      entity: 4931fb10-fc4f-4e04-8b74-f2e9e63be30e

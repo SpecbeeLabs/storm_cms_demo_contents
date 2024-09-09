@@ -1,0 +1,100 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 46f5ef52-e83f-468a-8f45-e6ef7943e373
+  bundle: article
+  default_langcode: en
+  depends:
+    67500ed4-f039-4055-beb4-483805218a5a: node
+    a322b976-9037-48c5-9575-09a05ccdf09e: taxonomy_term
+    c91fe4ce-3a8a-48cb-87e7-cbd9d820a32a: media
+    cdcf8d31-8c10-47b6-a2f4-16c7ef5e6474: taxonomy_term
+    4931fb10-fc4f-4e04-8b74-f2e9e63be30e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'UK ‘moonshot’ agency to splash £81M on warning system for climate catastrophes'
+  created:
+    -
+      value: 1725874404
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  moderation_state:
+    -
+      value: published
+  metatag:
+    -
+      tag: meta
+      attributes:
+        name: title
+        content: 'UK ‘moonshot’ agency to splash £81M on warning system for climate catastrophes | StormCMS'
+    -
+      tag: meta
+      attributes:
+        name: description
+        content: 'The UK’s Advanced Research and Invention Agency (ARIA) is allocating £81mn to a new programme that aims to create early warning systems for climate tipping points.These are thresholds within the Earth’s climate ecosystem, which — if crossed — can trigger devastating and often irreversible changes.As no early warning mechanisms currently exist, ARIA is hoping for a scientific first. It has opened calls for proposals to R&D teams across academia and industry, from universities and private labs to startups and SMEs.'
+    -
+      tag: link
+      attributes:
+        rel: canonical
+        href: 'https://storm.ddev.site/articles/uk-moonshot-agency-splash-ps81m-warning-system-climate-catastrophes'
+  path:
+    -
+      alias: /articles/uk-moonshot-agency-splash-ps81m-warning-system-climate-catastrophes
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: '<p>The UK’s Advanced Research and Invention Agency (ARIA) is allocating £81mn to a new programme that aims to create early warning systems for climate tipping points.</p><p>These are thresholds within the Earth’s climate ecosystem, which — if crossed — can trigger devastating and often irreversible changes.</p><p>As no early warning mechanisms currently exist, ARIA is hoping for a scientific first. It has opened calls for proposals to R&amp;D teams across academia and industry, from universities and private labs to <a href="https://thenextweb.com/topic/startups">startups</a> and SMEs.</p><p>“Finding early warning signals for climate tipping points is like searching for a needle in a haystack,” said Sarah Bohndiek, programme director at ARIA.</p><p>The five-year-long programme, called Forecasting Tipping Points, will focus on two particular tipping points.</p><p>One is the Greenland Ice Sheet, which covers 1.7 million square kilometres in the Arctic. It has been <a href="https://earth.org/greenland-has-lost-1-trillion-tons-more-ice-than-previously-thought-new-study-reveals/">retreating</a> alarmingly over the last four decades, contributing to rising sea levels. If it melts completely, global sea levels would rise by about <a href="https://phys.org/news/2023-03-greenland-ice-sheet.html">7 metres</a>.</p><p>The other is the North Atlantic Subpolar Gyre, an oceanic current that carries relatively warm water along the coast of Norway and helps maintain a moderate climate in northern Europe. The <a href="https://egusphere.copernicus.org/preprints/2023/egusphere-2023-2589/egusphere-2023-2589.pdf">increasing weakening</a> of the gyre could lead to lower temperatures in the region.</p>'
+      format: basic_html
+      summary: ''
+  field_authors:
+    -
+      entity: 67500ed4-f039-4055-beb4-483805218a5a
+  field_category:
+    -
+      entity: a322b976-9037-48c5-9575-09a05ccdf09e
+  field_content_footer:
+    -
+      value: '<p>Uniquely plagiarize multidisciplinary processes with error-free metrics. Credibly engage tactical e-services after backend data. Completely extend distributed value for ethical applications. Quickly revolutionize best-of-breed customer service and goal-oriented methods of empowerment. Enthusiastically initiate.</p>'
+      format: basic_html
+  field_content_header:
+    -
+      value: '<p>Seamlessly brand extensive e-markets before focused methods of empowerment. Seamlessly maintain resource-leveling expertise without impactful deliverables. Collaboratively customize unique solutions via enterprise-wide innovation. Monotonectally pursue seamless customer service whereas tactical methods of empowerment.</p>'
+      format: basic_html
+  field_image:
+    -
+      entity: c91fe4ce-3a8a-48cb-87e7-cbd9d820a32a
+  field_link:
+    -
+      uri: 'https://aria.grantplatform.com/'
+      title: Submit
+      options: {  }
+  field_teaser:
+    -
+      value: '<p>As no early warning mechanisms currently exist, ARIA is hoping for a scientific first. It has opened calls for proposals to R&amp;D teams across academia and industry, from universities and private labs to <a href="https://thenextweb.com/topic/startups">startups</a> and SMEs.</p>'
+      format: basic_html
+  field_thumbnail:
+    -
+      entity: c91fe4ce-3a8a-48cb-87e7-cbd9d820a32a
+  field_topics:
+    -
+      entity: cdcf8d31-8c10-47b6-a2f4-16c7ef5e6474
+    -
+      entity: 4931fb10-fc4f-4e04-8b74-f2e9e63be30e

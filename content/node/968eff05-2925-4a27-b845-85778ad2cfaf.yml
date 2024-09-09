@@ -1,0 +1,100 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 968eff05-2925-4a27-b845-85778ad2cfaf
+  bundle: article
+  default_langcode: en
+  depends:
+    d2ce9351-9301-4d53-9a38-60791fe2d6ec: node
+    ff200533-5078-412d-9ccb-d192004e5e2f: taxonomy_term
+    ff3a8ec6-ea07-4efd-a351-c0b187cfba17: media
+    973ae070-99a3-4546-973e-f720d6f74c27: taxonomy_term
+    69ba7fdd-8bb6-419d-be84-b8ac72cd7070: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'First Human Spaceflight to Fly Over Earth’s Polar Regions'
+  created:
+    -
+      value: 1725869801
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  moderation_state:
+    -
+      value: published
+  metatag:
+    -
+      tag: meta
+      attributes:
+        name: title
+        content: 'First Human Spaceflight to Fly Over Earth’s Polar Regions | StormCMS'
+    -
+      tag: meta
+      attributes:
+        name: description
+        content: 'In the past four years, SpaceX has launched thirteen human spaceflight missions, safely flying 50 crewmembers to and from Earth’s orbit and creating new opportunities for humanity to live, work, and explore what is possible in space. Dragon’s 46 missions overall to orbit have delivered critical supplies, scientific research, and astronauts to the International Space Station, while also opening the door for commercial astronauts to explore Earth’s orbit.'
+    -
+      tag: link
+      attributes:
+        rel: canonical
+        href: 'https://storm.ddev.site/articles/first-human-spaceflight-fly-over-earths-polar-regions'
+  path:
+    -
+      alias: /articles/first-human-spaceflight-fly-over-earths-polar-regions
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: '<p>In the past four years, SpaceX has launched thirteen human spaceflight missions, safely flying 50 crewmembers to and from Earth’s orbit and creating new opportunities for humanity to live, work, and explore what is possible in space. Dragon’s 46 missions overall to orbit have delivered critical supplies, scientific research, and astronauts to the International Space Station, while also opening the door for commercial astronauts to explore Earth’s orbit.</p><p>As early as this year, Falcon 9 will launch Dragon’s sixth commercial astronaut mission, Fram2, which will be the first human spaceflight mission to explore Earth from a polar orbit and fly over the Earth’s polar regions for the first time. Named in honor of the ship that helped explorers first reach Earth’s Arctic and Antarctic regions, Fram2 will be commanded by Chun Wang, an entrepreneur and adventurer from Malta. Wang aims to use the mission to highlight the crew’s explorational spirit, bring a sense of wonder and curiosity to the larger public, and highlight how technology can help push the boundaries of exploration of Earth and through the mission’s research.</p><p>Joining Wang on the mission is a crew of international adventurers: Norway’s Jannicke Mikkelsen, vehicle commander; Australia’s Eric Philips, vehicle pilot; and Germany’s Rabea Rogge, mission specialist. This will be the first spaceflight for each of the crewmembers.</p><p>Throughout the 3-to-5-day mission, the crew plans to observe Earth’s polar regions through Dragon’s cupola at an altitude of 425 – 450 km, leveraging insight from space physicists and citizen scientists to study unusual light emissions resembling auroras. The crew will study green fragments and mauve ribbons of continuous emissions comparable to the phenomenon known as STEVE (Strong Thermal Emission Velocity Enhancement), which has been measured at an altitude of approximately 400 - 500 km above Earth’s atmosphere. The crew will also work with SpaceX to conduct a variety of research to better understand the effects of spaceflight on the human body, which includes capturing the first human x-ray images in space, Just-in-Time training tools, and studying the effects of spaceflight on behavioral health, all of which will help in the development of tools needed to prepare humanity for future long-duration spaceflight.</p><p>Falcon 9 will launch Fram2 to a polar orbit from Florida no earlier than late 2024.</p>'
+      format: basic_html
+      summary: ''
+  field_authors:
+    -
+      entity: d2ce9351-9301-4d53-9a38-60791fe2d6ec
+  field_category:
+    -
+      entity: ff200533-5078-412d-9ccb-d192004e5e2f
+  field_content_footer:
+    -
+      value: '<p>Compellingly deliver technically sound meta-services and granular core competencies. Holisticly drive end-to-end human capital rather than cross-media ideas. Compellingly expedite low-risk high-yield portals through enabled users. Enthusiastically reconceptualize best-of-breed value vis-a-vis cost effective.</p>'
+      format: basic_html
+  field_content_header:
+    -
+      value: '<p>Seamlessly strategize seamless platforms via cross-unit total linkage. Progressively plagiarize customer directed best practices whereas highly efficient niche markets. Continually myocardinate optimal action items rather than functionalized applications. Phosfluorescently synthesize timely processes rather.</p>'
+      format: basic_html
+  field_image:
+    -
+      entity: ff3a8ec6-ea07-4efd-a351-c0b187cfba17
+  field_link:
+    -
+      uri: 'https://www.spacex.com/updates/'
+      title: SpaceX
+      options: {  }
+  field_teaser:
+    -
+      value: '<p>As early as this year, Falcon 9 will launch Dragon’s sixth commercial astronaut mission, Fram2, which will be the first human spaceflight mission to explore Earth from a polar orbit and fly over the Earth’s polar regions for the first time. Named in honor of the ship that helped explorers first reach Earth’s Arctic and Antarctic regions, Fram2 will be commanded by Chun Wang, an entrepreneur and adventurer from Malta. Wang aims to use the mission to highlight the crew’s explorational spirit, bring a sense of wonder and curiosity to the larger public, and highlight how technology can help push the boundaries of exploration of Earth and through the mission’s research.</p>'
+      format: basic_html
+  field_thumbnail:
+    -
+      entity: ff3a8ec6-ea07-4efd-a351-c0b187cfba17
+  field_topics:
+    -
+      entity: 973ae070-99a3-4546-973e-f720d6f74c27
+    -
+      entity: 69ba7fdd-8bb6-419d-be84-b8ac72cd7070

@@ -1,0 +1,100 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: c4348b40-fc70-4bdd-afd6-e487e719463c
+  bundle: article
+  default_langcode: en
+  depends:
+    eea688c0-d4e8-40d0-bf1b-878f87ef7d70: node
+    e87fcf0e-768d-4fe1-b52b-0ff18c022910: taxonomy_term
+    14606aa4-17ac-4d1a-a9ac-1a15fdad6a03: media
+    cdcf8d31-8c10-47b6-a2f4-16c7ef5e6474: taxonomy_term
+    4931fb10-fc4f-4e04-8b74-f2e9e63be30e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Samsung completes €86M takeover of French AI ultrasound startup Sonio'
+  created:
+    -
+      value: 1725875724
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  moderation_state:
+    -
+      value: published
+  metatag:
+    -
+      tag: meta
+      attributes:
+        name: title
+        content: 'Samsung completes €86M takeover of French AI ultrasound startup Sonio | StormCMS'
+    -
+      tag: meta
+      attributes:
+        name: description
+        content: "Samsung Medison, a medical equipment unit of Samsung Electronics, has completed its acquisition of French AI-powered ultrasound startup Sonio in a deal worth 126.5bn Won (€86mn).\_Founded in 2020, Sonio has developed an AI assistant that helps doctors conduct ultrasound exams faster and more accurately. The French startup recently received FDA approval for Sonio Detect, a product that uses deep learning algorithms to improve the image quality of ultrasound scans in real time.\_"
+    -
+      tag: link
+      attributes:
+        rel: canonical
+        href: 'https://storm.ddev.site/articles/samsung-completes-eu86m-takeover-french-ai-ultrasound-startup-sonio'
+  path:
+    -
+      alias: /articles/samsung-completes-eu86m-takeover-french-ai-ultrasound-startup-sonio
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: '<p>Samsung Medison, a medical equipment unit of Samsung Electronics, has completed its acquisition of French AI-powered ultrasound <a href="https://thenextweb.com/topic/startups">startup</a> Sonio in a deal worth 126.5bn Won (€86mn).&nbsp;</p><p>Founded in 2020, Sonio has developed an AI assistant that helps doctors conduct ultrasound exams faster and more accurately. The French startup recently received FDA approval for Sonio Detect, a product that uses deep learning algorithms to improve the image quality of ultrasound scans in real time.&nbsp;</p><p>Sonio Detect’s <a href="https://thenextweb.com/topic/artificial-intelligence">AI</a> model is trained on over a million real ultrasound images. The software is designed to identify prenatal syndromes and abnormalities that doctor’s might’ve missed otherwise.&nbsp;</p><p>Samsung Medison’s CEO, Kyu Tae Yoo, said Sonio’s software will “enhance” its ultrasound tech offerings by “improving exam quality, efficiency, and overall patient care.”&nbsp;</p><p>Samsung Medison has acquired 100% of Sonio’s shares under the deal. However, the Korean tech giant stressed that Sonio will remain an independent company headquartered in France that will “continue its commercial growth independently.” Sonio’s products will also remain compatible with all ultrasound devices, not just Samsung’s.&nbsp;</p>'
+      format: basic_html
+      summary: ''
+  field_authors:
+    -
+      entity: eea688c0-d4e8-40d0-bf1b-878f87ef7d70
+  field_category:
+    -
+      entity: e87fcf0e-768d-4fe1-b52b-0ff18c022910
+  field_content_footer:
+    -
+      value: '<p>Uniquely seize standards compliant models vis-a-vis functionalized architectures. Appropriately initiate cross-platform relationships whereas market positioning intellectual capital. Credibly extend empowered paradigms before impactful experiences. Phosfluorescently underwhelm e-business testing procedures vis-a-vis enabled portals. Holisticly.</p>'
+      format: basic_html
+  field_content_header:
+    -
+      value: '<p>Monotonectally maintain pandemic methodologies without diverse benefits. Credibly initiate backward-compatible initiatives without multimedia based architectures. Efficiently conceptualize enterprise-wide testing procedures and distributed infomediaries. Dramatically pursue low-risk high-yield manufactured products for turnkey technologies. Competently.</p>'
+      format: basic_html
+  field_image:
+    -
+      entity: 14606aa4-17ac-4d1a-a9ac-1a15fdad6a03
+  field_link:
+    -
+      uri: 'https://thenextweb.com/news/samsung-acquisition-french-ai-ultrasound-startup-sonio'
+      title: Startup
+      options: {  }
+  field_teaser:
+    -
+      value: '<p>Founded in 2020, Sonio has developed an AI assistant that helps doctors conduct ultrasound exams faster and more accurately. The French startup recently received FDA approval for Sonio Detect, a product that uses deep learning algorithms to improve the image quality of ultrasound scans in real time.&nbsp;</p>'
+      format: basic_html
+  field_thumbnail:
+    -
+      entity: 14606aa4-17ac-4d1a-a9ac-1a15fdad6a03
+  field_topics:
+    -
+      entity: cdcf8d31-8c10-47b6-a2f4-16c7ef5e6474
+    -
+      entity: 4931fb10-fc4f-4e04-8b74-f2e9e63be30e

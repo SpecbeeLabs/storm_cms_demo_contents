@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: media
+  uuid: ff19db35-129c-47cf-83c3-9be02c05de57
+  bundle: image
+  default_langcode: en
+  depends:
+    7870d729-c755-409a-89f3-0c2b300cff96: file
+    86b2f46e-73a2-4720-923b-df9d6a9819c6: taxonomy_term
+default:
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  name:
+    -
+      value: nhs-drones.jpg
+  created:
+    -
+      value: 1725878324
+  revision_translation_affected:
+    -
+      value: true
+  metatag:
+    -
+      tag: meta
+      attributes:
+        name: title
+        content: '| StormCMS'
+    -
+      tag: link
+      attributes:
+        rel: canonical
+        href: 'https://storm.ddev.site/user/login'
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 0
+  field_caption_credit:
+    -
+      value: '<p>Credit: <a href="https://thenextweb.com/news/nhs-blood-packs-drone-beyond-line-of-sight">The Next Web</a></p>'
+      format: basic_html
+  field_media_image:
+    -
+      entity: 7870d729-c755-409a-89f3-0c2b300cff96
+      alt: 'Blood Packed Drones'
+      title: ''
+      width: 1280
+      height: 720
+  field_media_tags:
+    -
+      entity: 86b2f46e-73a2-4720-923b-df9d6a9819c6

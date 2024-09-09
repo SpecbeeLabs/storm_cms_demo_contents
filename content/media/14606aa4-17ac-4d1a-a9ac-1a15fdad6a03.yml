@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: media
+  uuid: 14606aa4-17ac-4d1a-a9ac-1a15fdad6a03
+  bundle: image
+  default_langcode: en
+  depends:
+    9c48cee6-ff30-4413-9ffd-a12256227933: file
+    8b5b5902-9021-4aa0-bf9c-181d1d9955e4: taxonomy_term
+default:
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  name:
+    -
+      value: samsung-acquisition.jpg
+  created:
+    -
+      value: 1725875778
+  revision_translation_affected:
+    -
+      value: true
+  metatag:
+    -
+      tag: meta
+      attributes:
+        name: title
+        content: '| StormCMS'
+    -
+      tag: link
+      attributes:
+        rel: canonical
+        href: 'https://storm.ddev.site/user/login'
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 0
+  field_caption_credit:
+    -
+      value: '<p>Credit: <a href="https://thenextweb.com/news/samsung-acquisition-french-ai-ultrasound-startup-sonio">The Next Web</a></p>'
+      format: basic_html
+  field_media_image:
+    -
+      entity: 9c48cee6-ff30-4413-9ffd-a12256227933
+      alt: 'Samsung Acquisition'
+      title: ''
+      width: 1167
+      height: 656
+  field_media_tags:
+    -
+      entity: 8b5b5902-9021-4aa0-bf9c-181d1d9955e4

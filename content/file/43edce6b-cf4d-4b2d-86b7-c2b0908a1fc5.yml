@@ -1,0 +1,30 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 43edce6b-cf4d-4b2d-86b7-c2b0908a1fc5
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: starlink.jpg
+  uri:
+    -
+      value: 'public://2024-09/starlink_0.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 80467
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1725870829
+  origname:
+    -
+      value: starlink.jpg

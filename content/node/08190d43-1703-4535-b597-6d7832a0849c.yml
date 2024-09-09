@@ -1,0 +1,100 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 08190d43-1703-4535-b597-6d7832a0849c
+  bundle: article
+  default_langcode: en
+  depends:
+    67500ed4-f039-4055-beb4-483805218a5a: node
+    e87fcf0e-768d-4fe1-b52b-0ff18c022910: taxonomy_term
+    a16d9545-a341-48aa-8a57-c90fbc71dad1: media
+    cdcf8d31-8c10-47b6-a2f4-16c7ef5e6474: taxonomy_term
+    4931fb10-fc4f-4e04-8b74-f2e9e63be30e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'New Barbie dumbphone could cleave tweens from their screens'
+  created:
+    -
+      value: 1725877106
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  moderation_state:
+    -
+      value: published
+  metatag:
+    -
+      tag: meta
+      attributes:
+        name: title
+        content: 'New Barbie dumbphone could cleave tweens from their screens | StormCMS'
+    -
+      tag: meta
+      attributes:
+        name: description
+        content: "Exactly 65 years since the first Barbie doll was released, the Barbie Phone has finally arrived.\_As you might expect, the flip-phone is pink. Very pink. And it comes with all sorts of glittery extras so you can bedazzle it to your heart’s content — and relive some late-90s Barbie nostalgia.\_The phone is also dumb. Very dumb. No social media, no apps — just good ol’ fashioned SMS and calls. But that’s the point.\_\_"
+    -
+      tag: link
+      attributes:
+        rel: canonical
+        href: 'https://storm.ddev.site/articles/new-barbie-dumbphone-could-cleave-tweens-their-screens'
+  path:
+    -
+      alias: /articles/new-barbie-dumbphone-could-cleave-tweens-their-screens
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: '<p>Exactly 65 years since the first Barbie doll was released, the Barbie Phone has finally arrived.&nbsp;</p><p>As you might expect, the flip-phone is pink. Very pink. And it comes with all sorts of glittery extras so you can bedazzle it to your heart’s content — and relive some late-90s Barbie nostalgia.&nbsp;</p><p>The phone is also dumb. Very dumb. No social media, no apps — just good ol’ fashioned SMS and calls. But that’s the point.&nbsp;&nbsp;</p><p>“It is the perfect tool to live your best life and take a vacation from your smartphone,” said its creators, Finnish company Human Mobile Devices (HMD), which built the phone in partnership with the maker of Barbie dolls, Mattel.&nbsp;</p><p>While the Barbie phone is a brick phone at heart — albeit in fancy-dress — that doesn’t mean it’s useless. It comes fitted with a 0.3-megapixel camera, which is perfect for that early old-school digital camera look. The phone runs on the S30+ operating system and comes with 128MB of internal storage — ouch. But you have the option to add a 32GB SD card if you want.&nbsp;</p><h2>Digital detox</h2><p>The launch of the Barbie phone comes amid <a href="https://www.theguardian.com/technology/article/2024/aug/25/ee-warns-parents-against-giving-children-under-11-a-smartphone">growing calls</a> from parents, schools, and businesses to limit the time children spend on smartphones.&nbsp;</p><p>Some 90% of children in the UK <a href="https://commonslibrary.parliament.uk/research-briefings/cdp-2024-0103/">own a smartphone</a> by the time they turn 11. The majority of these kids also use social media.&nbsp;</p><p>Studies have <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9407706/">linked</a> excessive use of apps like <a href="https://thenextweb.com/topic/facebook">Facebook</a>, Instagram, and TikTok to an increase in cases of depression, anxiety, and diet-related issues among youth.&nbsp;</p><p>These problems aren’t just isolated to young people. Most of us would probably benefit from spending less time staring at our phones and more time connecting with the world around us.&nbsp;</p><p>The humble dumbphone can be your ticket to this digital detox. A pink Barbie dumbphone bedazzled with sequins and glitter? Even better — perhaps.</p>'
+      format: basic_html
+      summary: ''
+  field_authors:
+    -
+      entity: 67500ed4-f039-4055-beb4-483805218a5a
+  field_category:
+    -
+      entity: e87fcf0e-768d-4fe1-b52b-0ff18c022910
+  field_content_footer:
+    -
+      value: '<p>Professionally leverage existing progressive total linkage before alternative sources. Dynamically simplify stand-alone models before world-class mindshare. Interactively customize scalable value before premium information. Phosfluorescently maximize world-class technology before progressive customer service. Energistically maintain.</p>'
+      format: basic_html
+  field_content_header:
+    -
+      value: '<p>Professionally innovate long-term high-impact customer service rather than holistic web-readiness. Continually strategize optimal leadership whereas sustainable results. Seamlessly administrate plug-and-play strategic theme areas through client-focused e-business. Synergistically optimize resource maximizing testing procedures rather.</p>'
+      format: basic_html
+  field_image:
+    -
+      entity: a16d9545-a341-48aa-8a57-c90fbc71dad1
+  field_link:
+    -
+      uri: 'https://www.theguardian.com/society/2024/apr/27/the-boring-phone-stressed-out-gen-z-ditch-smartphones-for-dumbphones'
+      title: Popular
+      options: {  }
+  field_teaser:
+    -
+      value: '<p>As you might expect, the flip-phone is pink. Very pink. And it comes with all sorts of glittery extras so you can bedazzle it to your heart’s content — and relive some late-90s Barbie nostalgia.&nbsp;</p>'
+      format: basic_html
+  field_thumbnail:
+    -
+      entity: a16d9545-a341-48aa-8a57-c90fbc71dad1
+  field_topics:
+    -
+      entity: cdcf8d31-8c10-47b6-a2f4-16c7ef5e6474
+    -
+      entity: 4931fb10-fc4f-4e04-8b74-f2e9e63be30e

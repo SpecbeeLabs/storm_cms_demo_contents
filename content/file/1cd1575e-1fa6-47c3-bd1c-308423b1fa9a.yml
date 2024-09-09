@@ -1,0 +1,30 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 1cd1575e-1fa6-47c3-bd1c-308423b1fa9a
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: funding-series.jpg
+  uri:
+    -
+      value: 'public://2024-09/funding-series_0.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 192692
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1725875294
+  origname:
+    -
+      value: funding-series.jpg

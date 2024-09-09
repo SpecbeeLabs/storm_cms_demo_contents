@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: media
+  uuid: 41a083ee-0abb-488c-838a-c9175634c890
+  bundle: image
+  default_langcode: en
+  depends:
+    71349af4-abaf-4043-a93b-a6f0eb641416: file
+    8b5b5902-9021-4aa0-bf9c-181d1d9955e4: taxonomy_term
+default:
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  name:
+    -
+      value: boutique-maker.jpg
+  created:
+    -
+      value: 1725874100
+  revision_translation_affected:
+    -
+      value: true
+  metatag:
+    -
+      tag: meta
+      attributes:
+        name: title
+        content: '| StormCMS'
+    -
+      tag: link
+      attributes:
+        rel: canonical
+        href: 'https://storm.ddev.site/user/login'
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 0
+  field_caption_credit:
+    -
+      value: '<p>Credit: <a href="https://thenextweb.com/news/ebike-maker-cowboy-profitability-funding-round-vanmoof">The Next Web</a></p>'
+      format: basic_html
+  field_media_image:
+    -
+      entity: 71349af4-abaf-4043-a93b-a6f0eb641416
+      alt: 'Boutique Maker'
+      title: ''
+      width: 1280
+      height: 720
+  field_media_tags:
+    -
+      entity: 8b5b5902-9021-4aa0-bf9c-181d1d9955e4

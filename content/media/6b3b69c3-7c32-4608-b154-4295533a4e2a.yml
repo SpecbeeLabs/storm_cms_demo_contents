@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: media
+  uuid: 6b3b69c3-7c32-4608-b154-4295533a4e2a
+  bundle: image
+  default_langcode: en
+  depends:
+    6698f6a9-8134-44dc-b5f3-571a4e6d72f3: file
+    8b5b5902-9021-4aa0-bf9c-181d1d9955e4: taxonomy_term
+default:
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  name:
+    -
+      value: space-debris.jpg
+  created:
+    -
+      value: 1725878141
+  revision_translation_affected:
+    -
+      value: true
+  metatag:
+    -
+      tag: meta
+      attributes:
+        name: title
+        content: '| StormCMS'
+    -
+      tag: link
+      attributes:
+        rel: canonical
+        href: 'https://storm.ddev.site/user/login'
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 0
+  field_caption_credit:
+    -
+      value: '<p>Credit: <a href="https://thenextweb.com/news/spacetech-startups-propose-space-debris-avoidance">The Next Web</a></p>'
+      format: basic_html
+  field_media_image:
+    -
+      entity: 6698f6a9-8134-44dc-b5f3-571a4e6d72f3
+      alt: 'Space Debris'
+      title: ''
+      width: 741
+      height: 417
+  field_media_tags:
+    -
+      entity: 8b5b5902-9021-4aa0-bf9c-181d1d9955e4

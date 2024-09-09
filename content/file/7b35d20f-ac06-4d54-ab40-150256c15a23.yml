@@ -1,0 +1,30 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 7b35d20f-ac06-4d54-ab40-150256c15a23
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: universal-wallet.jpg
+  uri:
+    -
+      value: 'public://2024-09/universal-wallet_1.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 56296
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1725872654
+  origname:
+    -
+      value: universal-wallet.jpg

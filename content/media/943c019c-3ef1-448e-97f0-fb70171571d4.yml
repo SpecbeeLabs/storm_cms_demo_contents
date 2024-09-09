@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: media
+  uuid: 943c019c-3ef1-448e-97f0-fb70171571d4
+  bundle: image
+  default_langcode: en
+  depends:
+    46848b96-bc6f-4334-814f-c29590031de3: file
+    86b2f46e-73a2-4720-923b-df9d6a9819c6: taxonomy_term
+default:
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  name:
+    -
+      value: dragon-west-coast-recovery.jpg
+  created:
+    -
+      value: 1725870360
+  revision_translation_affected:
+    -
+      value: true
+  metatag:
+    -
+      tag: meta
+      attributes:
+        name: title
+        content: '| StormCMS'
+    -
+      tag: link
+      attributes:
+        rel: canonical
+        href: 'https://storm.ddev.site/user/login'
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 0
+  field_caption_credit:
+    -
+      value: '<p><strong>Credit</strong>: SpaceX, <a href="https://www.spacex.com/updates/">spacex.com/updates</a>.</p>'
+      format: basic_html
+  field_media_image:
+    -
+      entity: 46848b96-bc6f-4334-814f-c29590031de3
+      alt: 'DRAGON RECOVERY'
+      title: ''
+      width: 5568
+      height: 3712
+  field_media_tags:
+    -
+      entity: 86b2f46e-73a2-4720-923b-df9d6a9819c6

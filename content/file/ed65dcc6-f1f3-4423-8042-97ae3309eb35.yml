@@ -1,0 +1,30 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: ed65dcc6-f1f3-4423-8042-97ae3309eb35
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: starlink-nightsky.jpg
+  uri:
+    -
+      value: 'public://2024-09/starlink-nightsky_0.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 781851
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1725872173
+  origname:
+    -
+      value: starlink-nightsky.jpg

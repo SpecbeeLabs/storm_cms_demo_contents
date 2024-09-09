@@ -1,0 +1,30 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 46848b96-bc6f-4334-814f-c29590031de3
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: dragon-west-coast-recovery.jpg
+  uri:
+    -
+      value: 'public://2024-09/dragon-west-coast-recovery_0.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 478598
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1725870360
+  origname:
+    -
+      value: dragon-west-coast-recovery.jpg

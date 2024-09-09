@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: media
+  uuid: 3e9e09a9-94b1-416f-b0d4-b560a5989afa
+  bundle: image
+  default_langcode: en
+  depends:
+    9a817cce-735c-4a74-b010-562d20cc6c60: file
+    86b2f46e-73a2-4720-923b-df9d6a9819c6: taxonomy_term
+default:
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  name:
+    -
+      value: lunar-exploration.png
+  created:
+    -
+      value: 1725871702
+  revision_translation_affected:
+    -
+      value: true
+  metatag:
+    -
+      tag: meta
+      attributes:
+        name: title
+        content: '| StormCMS'
+    -
+      tag: link
+      attributes:
+        rel: canonical
+        href: 'https://storm.ddev.site/user/login'
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 0
+  field_caption_credit:
+    -
+      value: '<p>SpaceX, <a href="https://www.spacex.com/updates/">spacex.com/updates</a>.</p>'
+      format: basic_html
+  field_media_image:
+    -
+      entity: 9a817cce-735c-4a74-b010-562d20cc6c60
+      alt: 'Lunar Exploration'
+      title: ''
+      width: 2600
+      height: 1200
+  field_media_tags:
+    -
+      entity: 86b2f46e-73a2-4720-923b-df9d6a9819c6

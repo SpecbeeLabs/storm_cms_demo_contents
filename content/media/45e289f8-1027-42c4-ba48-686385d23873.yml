@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: media
+  uuid: 45e289f8-1027-42c4-ba48-686385d23873
+  bundle: image
+  default_langcode: en
+  depends:
+    6572492b-ca2d-493e-b4ef-fa6e92fe28c3: file
+    8b5b5902-9021-4aa0-bf9c-181d1d9955e4: taxonomy_term
+default:
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  name:
+    -
+      value: quantum-computing.jpg
+  created:
+    -
+      value: 1725875130
+  revision_translation_affected:
+    -
+      value: true
+  metatag:
+    -
+      tag: meta
+      attributes:
+        name: title
+        content: '| StormCMS'
+    -
+      tag: link
+      attributes:
+        rel: canonical
+        href: 'https://storm.ddev.site/user/login'
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 0
+  field_caption_credit:
+    -
+      value: '<p>Credit: <a href="https://thenextweb.com/news/ornl-quantum-brilliance-supercomputer-diamond-accelerator-partnership">The Next Web</a></p>'
+      format: basic_html
+  field_media_image:
+    -
+      entity: 6572492b-ca2d-493e-b4ef-fa6e92fe28c3
+      alt: 'Quantum Computing'
+      title: ''
+      width: 1280
+      height: 720
+  field_media_tags:
+    -
+      entity: 8b5b5902-9021-4aa0-bf9c-181d1d9955e4

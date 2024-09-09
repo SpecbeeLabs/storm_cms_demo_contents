@@ -1,0 +1,100 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: b8b90d47-70cd-4b82-9fcc-0447d2d7de68
+  bundle: article
+  default_langcode: en
+  depends:
+    d2ce9351-9301-4d53-9a38-60791fe2d6ec: node
+    ff200533-5078-412d-9ccb-d192004e5e2f: taxonomy_term
+    4648f898-176f-40fc-879c-a83017a884d5: media
+    973ae070-99a3-4546-973e-f720d6f74c27: taxonomy_term
+    69ba7fdd-8bb6-419d-be84-b8ac72cd7070: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Falcon 9 Returns to Flight'
+  created:
+    -
+      value: 1725870694
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  moderation_state:
+    -
+      value: published
+  metatag:
+    -
+      tag: meta
+      attributes:
+        name: title
+        content: 'Falcon 9 Returns to Flight | StormCMS'
+    -
+      tag: meta
+      attributes:
+        name: description
+        content: 'SpaceX submitted its mishap report to the Federal Aviation Administration (FAA) regarding Falcon 9’s launch anomaly on July 11, 2024. SpaceX’s investigation team, with oversight from the FAA, was able to identify the most probable cause of the mishap and associated corrective actions to ensure the success of future missions.'
+    -
+      tag: link
+      attributes:
+        rel: canonical
+        href: 'https://storm.ddev.site/articles/falcon-9-returns-flight'
+  path:
+    -
+      alias: /articles/falcon-9-returns-flight
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: '<p>SpaceX submitted its mishap report to the Federal Aviation Administration (FAA) regarding <a href="https://www.spacex.com/launches/mission/?missionId=sl-9-3"><strong>Falcon 9’s launch anomaly on July 11, 2024</strong></a>. SpaceX’s investigation team, with oversight from the FAA, was able to identify the most probable cause of the mishap and associated corrective actions to ensure the success of future missions.</p><p>Post-flight data reviews confirmed Falcon 9’s first stage booster performed nominally through ascent, stage separation, and a successful droneship landing. During the first burn of Falcon 9’s second stage engine, a liquid oxygen leak developed within the insulation around the upper stage engine. The cause of the leak was identified as a crack in a sense line for a pressure sensor attached to the vehicle’s oxygen system. This line cracked due to fatigue caused by high loading from engine vibration and looseness in the clamp that normally constrains the line. Despite the leak, the second stage engine continued to operate through the duration of its first burn, and completed its engine shutdown, where it entered the coast phase of the mission in the intended elliptical parking orbit.</p><p>A second burn of the upper stage engine was planned to circularize the orbit ahead of satellite deployment. However, the liquid oxygen leak on the upper stage led to the excessive cooling of engine components, most importantly those associated with delivery of ignition fluid to the engine. As a result, the engine experienced a hard start rather than a controlled burn, which damaged the engine hardware and caused the upper stage to subsequently lose attitude control. Even so, the second stage continued to operate as designed, deploying the Starlink satellites and successfully completing stage passivation, a process of venting down stored energy on the stage, which occurs at the conclusion of every Falcon mission.</p><p>Following deployment, the Starlink team made contact with 10 of the satellites to send early burn commands in an attempt to raise their altitude. Unfortunately, the satellites were in an enormously high-drag environment with a very low perigee of only 135 km above the Earth. As a result, all 20 Starlink satellites from this launch re-entered the Earth’s atmosphere. By design, Starlink satellites fully demise upon reentry, posing no threat to public safety. To-date, no debris has been reported after the successful deorbit of Starlink satellites.</p><p>SpaceX engineering teams have performed a comprehensive and thorough review of all SpaceX vehicles and ground systems to ensure we are putting our best foot forward as we return to flight. For near term Falcon launches, the failed sense line and sensor on the second stage engine will be removed. The sensor is not used by the flight safety system and can be covered by alternate sensors already present on the engine. The design change has been tested at SpaceX’s rocket development facility in McGregor, Texas, with enhanced qualification analysis and oversight by the FAA and involvement from the SpaceX investigation team. An additional qualification review, inspection, and scrub of all sense lines and clamps on the active booster fleet led to a proactive replacement in select locations.</p><p>Safety and reliability are at the core of SpaceX’s operations. It would not have been possible to achieve our current cadence without this focus, and thanks to the pace we’ve been able to launch, we’re able to gather unprecedented levels of flight data and are poised to rapidly return to flight, safely and with increased reliability. Our missions are of critical importance – safely carrying astronauts, customer payloads, and thousands of Starlink satellites to orbit – and they rely on the Falcon family of rockets being one of the most reliable in the world. We thank the FAA and our customers for their ongoing work and support.</p>'
+      format: basic_html
+      summary: ''
+  field_authors:
+    -
+      entity: d2ce9351-9301-4d53-9a38-60791fe2d6ec
+  field_category:
+    -
+      entity: ff200533-5078-412d-9ccb-d192004e5e2f
+  field_content_footer:
+    -
+      value: "<p>Globally leverage existing B2B human capital before vertical alignments. Enthusiastically leverage other's one-to-one ideas through enterprise-wide networks. Quickly monetize cross-platform ideas rather than goal-oriented intellectual capital. Quickly transform tactical supply chains whereas functionalized.</p>"
+      format: basic_html
+  field_content_header:
+    -
+      value: '<p>Synergistically revolutionize premier mindshare through dynamic niches. Holisticly strategize 24/365 channels through value-added relationships. Globally drive backend web services with sticky e-markets. Holisticly underwhelm wireless action items with resource sucking sources. Seamlessly enhance.</p>'
+      format: basic_html
+  field_image:
+    -
+      entity: 4648f898-176f-40fc-879c-a83017a884d5
+  field_link:
+    -
+      uri: 'https://www.spacex.com/updates/'
+      title: SpaceX
+      options: {  }
+  field_teaser:
+    -
+      value: '<p>SpaceX submitted its mishap report to the Federal Aviation Administration (FAA) regarding <a href="https://www.spacex.com/launches/mission/?missionId=sl-9-3"><strong>Falcon 9’s launch anomaly on July 11, 2024</strong></a>. SpaceX’s investigation team, with oversight from the FAA, was able to identify the most probable cause of the mishap and associated corrective actions to ensure the success of future missions.</p>'
+      format: basic_html
+  field_thumbnail:
+    -
+      entity: 4648f898-176f-40fc-879c-a83017a884d5
+  field_topics:
+    -
+      entity: 973ae070-99a3-4546-973e-f720d6f74c27
+    -
+      entity: 69ba7fdd-8bb6-419d-be84-b8ac72cd7070

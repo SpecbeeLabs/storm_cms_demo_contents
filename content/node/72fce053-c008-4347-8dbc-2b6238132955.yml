@@ -1,0 +1,100 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 72fce053-c008-4347-8dbc-2b6238132955
+  bundle: article
+  default_langcode: en
+  depends:
+    a0436158-051d-4e19-9aed-dc6ee45a4cbb: node
+    e87fcf0e-768d-4fe1-b52b-0ff18c022910: taxonomy_term
+    2a93a403-e09d-486d-85cc-1f8b2f60810a: media
+    cdcf8d31-8c10-47b6-a2f4-16c7ef5e6474: taxonomy_term
+    4931fb10-fc4f-4e04-8b74-f2e9e63be30e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Volkswagen will soon offer in-car gaming in Europe via AirConsole'
+  created:
+    -
+      value: 1725877513
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  moderation_state:
+    -
+      value: published
+  metatag:
+    -
+      tag: meta
+      attributes:
+        name: title
+        content: 'Volkswagen will soon offer in-car gaming in Europe via AirConsole | StormCMS'
+    -
+      tag: meta
+      attributes:
+        name: description
+        content: 'Volkswagen has teamed up with gaming platform AirConsole to make multiplayer games part of the in-car experience for European drivers and passengers.AirConsole offers a large number of casual games, ranging from racing and sports to puzzles and quizzes.The German carmaker expects to launch the feature in the first European countries in September. It will add more countries by the end of the year.'
+    -
+      tag: link
+      attributes:
+        rel: canonical
+        href: 'https://storm.ddev.site/articles/volkswagen-will-soon-offer-car-gaming-europe-airconsole'
+  path:
+    -
+      alias: /articles/volkswagen-will-soon-offer-car-gaming-europe-airconsole
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: '<p>Volkswagen has teamed up with gaming platform AirConsole to make multiplayer games part of the in-car experience for European drivers and passengers.</p><p>AirConsole offers a large number of casual games, ranging from racing and sports to puzzles and quizzes.</p><p>The German carmaker expects to launch the feature in the first European countries in September. It will add more countries by the end of the year.</p><p>The vehicle lineup includes several <a href="https://thenextweb.com/topic/evs">EVs</a> (ID.7, ID.5, ID.4, and ID.3) as well as the new Passat, Tiguan, Golf, and Golf Estate — which come as hybrids.</p><p>For safety reasons, the games will only be available while the car is parked, with Volkswagen aiming to provide entertainment during stops or charging.</p><p>AirConsole will be available on the vehicles’ infotainment displays, which will work as gaming consoles. Users can use their smartphone as a controller.</p><p>To connect their phone with the in-car AirConsole app, drivers or passengers can scan a QR on the display screen. The platform supports multiple players at the same time, but it’s also possible for users to play alone.</p><p>Behind AirConsole is Zurich-based startup N-Dream, founded in 2015 by Andrin von Rechenberg, a computer scientist and Google alumnus.</p><p>The gaming platform has over 130 games and is also available on a desktop browser as well as Google TV, Android TV, and Amazon Fire TV.</p>'
+      format: basic_html
+      summary: ''
+  field_authors:
+    -
+      entity: a0436158-051d-4e19-9aed-dc6ee45a4cbb
+  field_category:
+    -
+      entity: e87fcf0e-768d-4fe1-b52b-0ff18c022910
+  field_content_footer:
+    -
+      value: '<p>Proactively deliver integrated data through inexpensive partnerships. Seamlessly restore cooperative opportunities vis-a-vis an expanded array of web-readiness. Dramatically benchmark interdependent internal or "organic" sources via maintainable services. Monotonectally transition compelling bandwidth with transparent.</p>'
+      format: basic_html
+  field_content_header:
+    -
+      value: '<p>Uniquely enhance goal-oriented human capital whereas extensible action items. Distinctively cultivate prospective e-business before strategic imperatives. Completely fashion distinctive e-markets through superior architectures. Quickly iterate global vortals and multidisciplinary results. Enthusiastically customize client-focused.</p>'
+      format: basic_html
+  field_image:
+    -
+      entity: 2a93a403-e09d-486d-85cc-1f8b2f60810a
+  field_link:
+    -
+      uri: 'https://thenextweb.com/news/volkswagen-europe-in-car-gaming-airconsole'
+      title: EVS
+      options: {  }
+  field_teaser:
+    -
+      value: '<p>AirConsole offers a large number of casual games, ranging from racing and sports to puzzles and quizzes.</p><p>The German carmaker expects to launch the feature in the first European countries in September. It will add more countries by the end of the year.</p>'
+      format: basic_html
+  field_thumbnail:
+    -
+      entity: 2a93a403-e09d-486d-85cc-1f8b2f60810a
+  field_topics:
+    -
+      entity: cdcf8d31-8c10-47b6-a2f4-16c7ef5e6474
+    -
+      entity: 4931fb10-fc4f-4e04-8b74-f2e9e63be30e

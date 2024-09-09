@@ -1,0 +1,100 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 2ae1be6f-e5e6-453c-ae98-c0ff687e2725
+  bundle: article
+  default_langcode: en
+  depends:
+    0aeaaf4d-fe17-40c0-a855-1e96662ee44f: node
+    e87fcf0e-768d-4fe1-b52b-0ff18c022910: taxonomy_term
+    c2763a92-94a2-413e-8449-653cf7b8fab1: media
+    cdcf8d31-8c10-47b6-a2f4-16c7ef5e6474: taxonomy_term
+    4931fb10-fc4f-4e04-8b74-f2e9e63be30e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: '2 very common mistakes founders make that can kill your startup'
+  created:
+    -
+      value: 1725875571
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  moderation_state:
+    -
+      value: published
+  metatag:
+    -
+      tag: meta
+      attributes:
+        name: title
+        content: '2 very common mistakes founders make that can kill your startup | StormCMS'
+    -
+      tag: meta
+      attributes:
+        name: description
+        content: 'It takes a special kind of person to decide to found a startup. The long hours require energy, devotion, and continuous motivation. In the beginning, you need to be a jack of all trades, able to understand and jump on parts of the business you may not be familiar with, until you have the capital to hire people who are better at those tasks.'
+    -
+      tag: link
+      attributes:
+        rel: canonical
+        href: 'https://storm.ddev.site/articles/2-very-common-mistakes-founders-make-can-kill-your-startup'
+  path:
+    -
+      alias: /articles/2-very-common-mistakes-founders-make-can-kill-your-startup
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: '<p>It takes a special kind of person to decide to found a <a href="https://thenextweb.com/topic/startup">startup</a>. The long hours require energy, devotion, and continuous motivation. In the beginning, you need to be a jack of all trades, able to understand and jump on parts of the business you may not be familiar with, until you have the capital to hire people who are better at those tasks.</p><p>But <a href="https://thenextweb.com/entrepreneur">founders</a> are human just like the rest of us. Although they may seem superhuman at times, weaving through discussions on product development, marketing, and taking sales calls late into the night, at the end of the day, they’re subject to the same human tendencies.</p><p>According to a joint study by researchers at Harvard, Stanford, and the University of Chicago, <a href="https://www.nber.org/papers/w22587">55% of startups fail due to people problems</a>. These range from poor decision-making and conflicts between co-founders to hiring and keeping the right people. (And, to be honest, I’m surprised the statistics aren’t higher.)</p><p>As we all know, out of the many startups that are founded every year, only a small portion will actually survive and thrive. Founders who can recognise and be in control of these common statistics will be much more likely to succeed.</p><p>As the former Head of Startup Developer Ecosystems at Google, Jason Scott was part of a research team that sought to answer the seemingly impossible: what traits make an effective founder?</p><p>The study assessed the leadership capabilities of more than 900 startup founders, CEOs, and CTOs across more than 40 countries. In the end, their findings were condensed into seven common traits shared amongst the most effective founders. But can we really whittle success down to just seven traits?</p><p>Since his time at Google, Jason Scott went on to start his own VC firm <a href="https://www.525.vc/">Five Two Five</a> to “invest in the best founders — regardless of postal code.” His aim is to remove the proximity bias Silicon Valley VCs so often have and, instead, identify the best startups to invest in across the globe. Less than a year later, the firm already has a passport book full of startups from across North America, Africa, Asia, and Europe.</p><p>As we get ready to welcome Scott as a speaker at <a href="https://vds.tech/">VDS2024</a>, we caught up with him to find out how he’s brought his learnings from Google into the world of VC investing and if he believes these traits still stand through all the founders and businesses he’s encountered across the globe.</p>'
+      format: basic_html
+      summary: ''
+  field_authors:
+    -
+      entity: 0aeaaf4d-fe17-40c0-a855-1e96662ee44f
+  field_category:
+    -
+      entity: e87fcf0e-768d-4fe1-b52b-0ff18c022910
+  field_content_footer:
+    -
+      value: '<p>Progressively leverage existing top-line systems after maintainable outsourcing. Intrinsicly exploit enabled partnerships via standardized technologies. Assertively disintermediate long-term high-impact communities before cutting-edge portals. Proactively underwhelm excellent action items without maintainable strategic theme areas.</p>'
+      format: basic_html
+  field_content_header:
+    -
+      value: '<p>Compellingly transform resource-leveling growth strategies whereas premium architectures. Energistically synthesize wireless ROI without high-quality products. Enthusiastically revolutionize go forward convergence without scalable relationships. Competently incubate real-time catalysts for change vis-a-vis value-added products. Monotonectally.</p>'
+      format: basic_html
+  field_image:
+    -
+      entity: c2763a92-94a2-413e-8449-653cf7b8fab1
+  field_link:
+    -
+      uri: 'https://thenextweb.com/news/2-common-mistakes-founders-startup'
+      title: 'Common Mistakes'
+      options: {  }
+  field_teaser:
+    -
+      value: '<p>It takes a special kind of person to decide to found a <a href="https://thenextweb.com/topic/startup">startup</a>. The long hours require energy, devotion, and continuous motivation. In the beginning, you need to be a jack of all trades, able to understand and jump on parts of the business you may not be familiar with, until you have the capital to hire people who are better at those tasks.</p>'
+      format: basic_html
+  field_thumbnail:
+    -
+      entity: c2763a92-94a2-413e-8449-653cf7b8fab1
+  field_topics:
+    -
+      entity: cdcf8d31-8c10-47b6-a2f4-16c7ef5e6474
+    -
+      entity: 4931fb10-fc4f-4e04-8b74-f2e9e63be30e

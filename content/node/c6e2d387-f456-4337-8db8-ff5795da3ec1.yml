@@ -1,0 +1,100 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: c6e2d387-f456-4337-8db8-ff5795da3ec1
+  bundle: article
+  default_langcode: en
+  depends:
+    bcd19fc8-e8a2-44b9-815d-1be0b2c1fb5f: node
+    a322b976-9037-48c5-9575-09a05ccdf09e: taxonomy_term
+    ee227fa0-6b26-4b84-9473-b3b060d5fc01: media
+    cdcf8d31-8c10-47b6-a2f4-16c7ef5e6474: taxonomy_term
+    4931fb10-fc4f-4e04-8b74-f2e9e63be30e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'BMW installs ‘motionless’ wind energy device at Mini factory'
+  created:
+    -
+      value: 1725873860
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  moderation_state:
+    -
+      value: published
+  metatag:
+    -
+      tag: meta
+      attributes:
+        name: title
+        content: 'BMW installs ‘motionless’ wind energy device at Mini factory | StormCMS'
+    -
+      tag: meta
+      attributes:
+        name: description
+        content: "US startup Aeromine has installed the UK’s first “motionless” wind turbine atop BMW’s Mini factory in Oxford.The 3-metre-tall, box-shaped device captures wind flowing up and over the building. Specially designed wing-like airfoils create a vacuum behind the unit which forces air up through a chamber where it turns a fan inside, generating power.\_Aeromine’s device has no visible moving parts. The bladeless design minimises noise and vibrations, and the risks to wildlife like birds or bats."
+    -
+      tag: link
+      attributes:
+        rel: canonical
+        href: 'https://storm.ddev.site/articles/bmw-installs-motionless-wind-energy-device-mini-factory'
+  path:
+    -
+      alias: /articles/bmw-installs-motionless-wind-energy-device-mini-factory
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: '<p>US startup Aeromine has installed the UK’s first “motionless” wind turbine atop BMW’s Mini factory in Oxford.</p><p>The 3-metre-tall, box-shaped device captures wind flowing up and over the building. Specially designed wing-like airfoils create a vacuum behind the unit which forces air up through a chamber where it turns a fan inside, generating power.&nbsp;</p><p>Aeromine’s device has no visible moving parts. The bladeless design minimises noise and vibrations, and the risks to wildlife like birds or bats.</p><p>By amplifying wind speed, Aeromine’s system can harness energy more efficiently. Each unit has a power rating of 5kW — equivalent to about 16 solar panels, but covering a much smaller area.&nbsp;&nbsp;</p><p>Danish wind energy expert Carsten Westergaard patented the technology in 2015. After a number of years of R&amp;D, in 2022, he teamed up with American entrepreneurs Martin Manniche and David Asarnow to found Aeromine.&nbsp;</p><p>The startup, based in Houston, Texas, recently closed a $9mn funding round as it looks to bring its mini wind turbines to rooftops across the world. Central to that mission is securing big customers with big buildings.</p><h2>Solar power’s new best bud?</h2><p>BMW’s Oxford plant has one of the largest roof-mounted solar farms in the UK, with more than 11,000 panels covering an area the size of five football pitches.&nbsp;</p><p>“However, the solar panels are less effective during winter and evening hours when wind conditions are often strongest — presenting an opportunity for Aeromine’s wind energy unit to step in and continue generating renewable energy,” said the company in a <a href="https://www.press.bmwgroup.com/united-kingdom/article/detail/T0444782EN_GB/bmw-group-trials-wind-energy-innovation-in-uk-first?language=en_GB">statement</a>.&nbsp;</p><p>BMW will trial the wind energy device with an eye to potentially roll it out globally. The test falls under the automotive giant’s Startup Garage, a business unit dedicated to supporting early-stage companies.&nbsp;</p><p>Aeromine says its systems typically consist of 20-40 units installed on the edge of a building facing the predominant wind direction.&nbsp;</p><p>Co-founder David Asarnow previously told YouTube channel <a href="https://www.youtube.com/watch?v=VnSZ0MHIcvs">Just Have a Think</a> that once the company archives economies of scale it expects the device to produce more electricity at a cheaper cost than equivalent solar panels.</p>'
+      format: basic_html
+      summary: ''
+  field_authors:
+    -
+      entity: bcd19fc8-e8a2-44b9-815d-1be0b2c1fb5f
+  field_category:
+    -
+      entity: a322b976-9037-48c5-9575-09a05ccdf09e
+  field_content_footer:
+    -
+      value: '<p>Completely repurpose professional ideas and top-line opportunities. Monotonectally pursue high-quality users via interoperable solutions. Enthusiastically incubate state of the art vortals without top-line growth strategies. Enthusiastically deliver distributed web services with goal-oriented markets.</p>'
+      format: basic_html
+  field_content_header:
+    -
+      value: '<p>Uniquely pursue multifunctional relationships rather than performance based value. Quickly plagiarize 2.0 ROI after collaborative relationships. Interactively evisculate extensible supply chains without covalent channels. Assertively scale synergistic deliverables via pandemic best practices. Interactively.</p>'
+      format: basic_html
+  field_image:
+    -
+      entity: ee227fa0-6b26-4b84-9473-b3b060d5fc01
+  field_link:
+    -
+      uri: 'https://thenextweb.com/news/bmw-installs-motionless-wind-energy-device-at-mini-factory'
+      title: thenextweb
+      options: {  }
+  field_teaser:
+    -
+      value: '<p>Aeromine’s device has no visible moving parts. The bladeless design minimises noise and vibrations, and the risks to wildlife like birds or bats.</p>'
+      format: basic_html
+  field_thumbnail:
+    -
+      entity: ee227fa0-6b26-4b84-9473-b3b060d5fc01
+  field_topics:
+    -
+      entity: cdcf8d31-8c10-47b6-a2f4-16c7ef5e6474
+    -
+      entity: 4931fb10-fc4f-4e04-8b74-f2e9e63be30e

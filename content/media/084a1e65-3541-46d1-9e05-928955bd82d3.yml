@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: media
+  uuid: 084a1e65-3541-46d1-9e05-928955bd82d3
+  bundle: image
+  default_langcode: en
+  depends:
+    fd66617f-ed07-4652-b8a5-98639f7e0876: file
+    8b5b5902-9021-4aa0-bf9c-181d1d9955e4: taxonomy_term
+default:
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  name:
+    -
+      value: semiconductor-sector.jpg
+  created:
+    -
+      value: 1725875486
+  revision_translation_affected:
+    -
+      value: true
+  metatag:
+    -
+      tag: meta
+      attributes:
+        name: title
+        content: '| StormCMS'
+    -
+      tag: link
+      attributes:
+        rel: canonical
+        href: 'https://storm.ddev.site/user/login'
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 0
+  field_caption_credit:
+    -
+      value: '<p>Credit: <a href="https://thenextweb.com/news/europe-semiconductor-sector-calls-chips-act-2-0">The Next Web</a></p>'
+      format: basic_html
+  field_media_image:
+    -
+      entity: fd66617f-ed07-4652-b8a5-98639f7e0876
+      alt: Semiconductor
+      title: ''
+      width: 1280
+      height: 720
+  field_media_tags:
+    -
+      entity: 8b5b5902-9021-4aa0-bf9c-181d1d9955e4

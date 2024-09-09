@@ -1,0 +1,30 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 2119a3a4-6a04-481c-824c-46c3663e54c3
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: barbie-phone.jpg
+  uri:
+    -
+      value: 'public://2024-09/barbie-phone_0.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 164692
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1725877161
+  origname:
+    -
+      value: barbie-phone.jpg

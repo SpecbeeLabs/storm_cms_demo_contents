@@ -1,0 +1,30 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 5b22c5d2-d6fa-4a9c-a948-0b8d5764cf62
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: autonomous-vehicle.jpg
+  uri:
+    -
+      value: 'public://2024-09/autonomous-vehicle_0.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 203559
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1725875964
+  origname:
+    -
+      value: autonomous-vehicle.jpg

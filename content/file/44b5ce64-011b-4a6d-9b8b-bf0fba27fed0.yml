@@ -1,0 +1,30 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 44b5ce64-011b-4a6d-9b8b-bf0fba27fed0
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: common-mistakes.jpg
+  uri:
+    -
+      value: 'public://2024-09/common-mistakes_0.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 181823
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1725875621
+  origname:
+    -
+      value: common-mistakes.jpg

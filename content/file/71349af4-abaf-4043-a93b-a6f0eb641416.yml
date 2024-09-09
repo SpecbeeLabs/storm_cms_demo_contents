@@ -1,0 +1,30 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 71349af4-abaf-4043-a93b-a6f0eb641416
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: boutique-maker.jpg
+  uri:
+    -
+      value: 'public://2024-09/boutique-maker_0.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 88275
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1725874100
+  origname:
+    -
+      value: boutique-maker.jpg

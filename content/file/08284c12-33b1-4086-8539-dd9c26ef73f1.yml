@@ -1,0 +1,30 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 08284c12-33b1-4086-8539-dd9c26ef73f1
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: neurodivergent-people.jpg
+  uri:
+    -
+      value: 'public://2024-09/neurodivergent-people_0.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 205454
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1725877343
+  origname:
+    -
+      value: neurodivergent-people.jpg

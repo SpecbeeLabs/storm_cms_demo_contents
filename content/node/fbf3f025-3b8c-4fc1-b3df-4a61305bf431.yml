@@ -1,0 +1,100 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: fbf3f025-3b8c-4fc1-b3df-4a61305bf431
+  bundle: article
+  default_langcode: en
+  depends:
+    1705a440-08c3-456f-9e40-fec670c0bb9f: node
+    a322b976-9037-48c5-9575-09a05ccdf09e: taxonomy_term
+    dbfa34a8-6234-46cb-9e41-3b189978500a: media
+    cdcf8d31-8c10-47b6-a2f4-16c7ef5e6474: taxonomy_term
+    4931fb10-fc4f-4e04-8b74-f2e9e63be30e: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'This app makes it easier for neurodivergent people to navigate daily tasks'
+  created:
+    -
+      value: 1725877290
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  moderation_state:
+    -
+      value: published
+  metatag:
+    -
+      tag: meta
+      attributes:
+        name: title
+        content: 'This app makes it easier for neurodivergent people to navigate daily tasks | StormCMS'
+    -
+      tag: meta
+      attributes:
+        name: description
+        content: 'Copenhagen-based Tiimo has raised an additional $1.6mn in funding to expand its app supporting neurodivergent individuals in their daily life.'
+    -
+      tag: link
+      attributes:
+        rel: canonical
+        href: 'https://storm.ddev.site/articles/app-makes-it-easier-neurodivergent-people-navigate-daily-tasks'
+  path:
+    -
+      alias: /articles/app-makes-it-easier-neurodivergent-people-navigate-daily-tasks
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: '<p>Copenhagen-based Tiimo has raised an additional $1.6mn in <a href="https://thenextweb.com/topic/funding">funding</a> to expand its app supporting neurodivergent individuals in their daily life.</p><p>Neurodivergent individuals — those with autism, ADHD, dyslexia, and other cognitive differences — make up about <a href="https://dceg.cancer.gov/about/diversity-inclusion/inclusivity-minute/2022/neurodiversity#:~:text=Neurodiversity%20describes%20the%20variation%20in,exhibits%20some%20form%20of%20neurodivergence.">15% to 20%</a> the population. However, tailored tools to boost productivity and daily life management for people who think differently are still insufficient.</p><p>Tiimo is on a mission to change this. Behind the <a href="https://thenextweb.com/topic/startup">startup</a> are Helene Lassen Nørlem and Melissa Würtz Azari, who herself has ADHD. The female duo founded the company in 2015 with the aim of developing a neurodivergent tool kit.</p><p>Tiimo is a visual planning app that addresses <a href="https://www.sciencedirect.com/science/article/pii/S0010945224000078">executive function challenges</a> common among neurodivergent individuals. These include difficulties with focus, time management, and goal-setting.</p><p>To address this, the app offers a series of features, ranging from visual timers, reminders, and widget and calendar integration to AI checklists and routine builders.</p>'
+      format: basic_html
+      summary: ''
+  field_authors:
+    -
+      entity: 1705a440-08c3-456f-9e40-fec670c0bb9f
+  field_category:
+    -
+      entity: a322b976-9037-48c5-9575-09a05ccdf09e
+  field_content_footer:
+    -
+      value: '<p>Synergistically embrace adaptive technology after maintainable best practices. Credibly aggregate bricks-and-clicks experiences via pandemic scenarios. Collaboratively whiteboard customized core competencies rather than error-free customer service. Intrinsicly coordinate reliable materials with revolutionary infrastructures. Uniquely.</p>'
+      format: basic_html
+  field_content_header:
+    -
+      value: '<p>Collaboratively target next-generation niches through client-centric schemas. Enthusiastically administrate performance based synergy vis-a-vis intermandated process improvements. Distinctively pursue intermandated innovation via one-to-one value. Synergistically disintermediate progressive results before market positioning platforms. Assertively re-engineer.</p>'
+      format: basic_html
+  field_image:
+    -
+      entity: dbfa34a8-6234-46cb-9e41-3b189978500a
+  field_link:
+    -
+      uri: 'https://thenextweb.com/topic/startup'
+      title: Startup
+      options: {  }
+  field_teaser:
+    -
+      value: '<p>Neurodivergent individuals — those with autism, ADHD, dyslexia, and other cognitive differences — make up about <a href="https://dceg.cancer.gov/about/diversity-inclusion/inclusivity-minute/2022/neurodiversity#:~:text=Neurodiversity%20describes%20the%20variation%20in,exhibits%20some%20form%20of%20neurodivergence.">15% to 20%</a> the population. However, tailored tools to boost productivity and daily life management for people who think differently are still insufficient.</p>'
+      format: basic_html
+  field_thumbnail:
+    -
+      entity: dbfa34a8-6234-46cb-9e41-3b189978500a
+  field_topics:
+    -
+      entity: cdcf8d31-8c10-47b6-a2f4-16c7ef5e6474
+    -
+      entity: 4931fb10-fc4f-4e04-8b74-f2e9e63be30e
