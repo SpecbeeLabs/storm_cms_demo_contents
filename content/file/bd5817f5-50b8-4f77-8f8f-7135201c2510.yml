@@ -12,7 +12,7 @@ default:
       value: moonshot.jpg
   uri:
     -
-      value: 'public://2024-09/moonshot_0.jpg'
+      value: 'public://2024-09/moonshot.jpg'
   filemime:
     -
       value: image/jpeg

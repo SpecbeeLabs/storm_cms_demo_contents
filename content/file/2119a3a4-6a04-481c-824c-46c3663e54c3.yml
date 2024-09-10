@@ -12,7 +12,7 @@ default:
       value: barbie-phone.jpg
   uri:
     -
-      value: 'public://2024-09/barbie-phone_0.jpg'
+      value: 'public://2024-09/barbie-phone.jpg'
   filemime:
     -
       value: image/jpeg

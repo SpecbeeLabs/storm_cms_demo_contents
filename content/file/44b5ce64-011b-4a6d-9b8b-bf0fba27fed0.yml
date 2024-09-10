@@ -12,7 +12,7 @@ default:
       value: common-mistakes.jpg
   uri:
     -
-      value: 'public://2024-09/common-mistakes_0.jpg'
+      value: 'public://2024-09/common-mistakes.jpg'
   filemime:
     -
       value: image/jpeg

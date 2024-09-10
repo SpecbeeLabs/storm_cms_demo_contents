@@ -12,7 +12,7 @@ default:
       value: human-spaceflight.jpg
   uri:
     -
-      value: 'public://2024-09/human-spaceflight_0.jpg'
+      value: 'public://2024-09/human-spaceflight.jpg'
   filemime:
     -
       value: image/jpeg

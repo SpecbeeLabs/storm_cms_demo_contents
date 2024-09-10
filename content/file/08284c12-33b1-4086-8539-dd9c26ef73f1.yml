@@ -12,7 +12,7 @@ default:
       value: neurodivergent-people.jpg
   uri:
     -
-      value: 'public://2024-09/neurodivergent-people_0.jpg'
+      value: 'public://2024-09/neurodivergent-people.jpg'
   filemime:
     -
       value: image/jpeg
