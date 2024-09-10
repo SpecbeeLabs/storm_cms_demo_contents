@@ -12,7 +12,7 @@ default:
       value: volkswagen-car.jpg
   uri:
     -
-      value: 'public://2024-09/volkswagen-car_0.jpg'
+      value: 'public://2024-09/volkswagen-car.jpg'
   filemime:
     -
       value: image/jpeg

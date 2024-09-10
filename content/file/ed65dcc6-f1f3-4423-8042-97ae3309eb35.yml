@@ -12,7 +12,7 @@ default:
       value: starlink-nightsky.jpg
   uri:
     -
-      value: 'public://2024-09/starlink-nightsky_0.jpg'
+      value: 'public://2024-09/starlink-nightsky.jpg'
   filemime:
     -
       value: image/jpeg

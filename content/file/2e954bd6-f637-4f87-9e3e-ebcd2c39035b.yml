@@ -12,7 +12,7 @@ default:
       value: gaming-era.jpg
   uri:
     -
-      value: 'public://2024-09/gaming-era_0.jpg'
+      value: 'public://2024-09/gaming-era.jpg'
   filemime:
     -
       value: image/jpeg

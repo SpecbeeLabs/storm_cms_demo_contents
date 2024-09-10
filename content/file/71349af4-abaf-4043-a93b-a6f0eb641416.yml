@@ -12,7 +12,7 @@ default:
       value: boutique-maker.jpg
   uri:
     -
-      value: 'public://2024-09/boutique-maker_0.jpg'
+      value: 'public://2024-09/boutique-maker.jpg'
   filemime:
     -
       value: image/jpeg

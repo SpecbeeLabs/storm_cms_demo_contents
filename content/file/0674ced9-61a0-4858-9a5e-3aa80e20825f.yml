@@ -12,7 +12,7 @@ default:
       value: pivots-founder.jpg
   uri:
     -
-      value: 'public://2024-09/pivots-founder_0.jpg'
+      value: 'public://2024-09/pivots-founder.jpg'
   filemime:
     -
       value: image/jpeg

@@ -12,7 +12,7 @@ default:
       value: nhs-drones.jpg
   uri:
     -
-      value: 'public://2024-09/nhs-drones_0.jpg'
+      value: 'public://2024-09/nhs-drones.jpg'
   filemime:
     -
       value: image/jpeg

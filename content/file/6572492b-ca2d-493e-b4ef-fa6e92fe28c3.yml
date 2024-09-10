@@ -12,7 +12,7 @@ default:
       value: quantum-computing.jpg
   uri:
     -
-      value: 'public://2024-09/quantum-computing_0.jpg'
+      value: 'public://2024-09/quantum-computing.jpg'
   filemime:
     -
       value: image/jpeg

@@ -12,7 +12,7 @@ default:
       value: starship-onboard.jpg
   uri:
     -
-      value: 'public://2024-09/starship-onboard_0.jpg'
+      value: 'public://2024-09/starship-onboard.jpg'
   filemime:
     -
       value: image/jpeg

@@ -12,7 +12,7 @@ default:
       value: samsung-acquisition.jpg
   uri:
     -
-      value: 'public://2024-09/samsung-acquisition_0.jpg'
+      value: 'public://2024-09/samsung-acquisition.jpg'
   filemime:
     -
       value: image/jpeg
