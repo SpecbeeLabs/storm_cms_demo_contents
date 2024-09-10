@@ -1,0 +1,132 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 13cf9bbf-b963-4b35-b6ae-a7c5b4af0d2e
+  bundle: event
+  default_langcode: en
+  depends:
+    0ab59829-d70b-4815-8dec-9afe0bb2c7ac: media
+    7ce18692-ce12-472e-9be6-be0518dea44c: media
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'NWDUG UK Monthly Meetup September 2024'
+  created:
+    -
+      value: 1725959881
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  moderation_state:
+    -
+      value: published
+  metatag:
+    -
+      tag: meta
+      attributes:
+        name: title
+        content: 'NWDUG UK Monthly Meetup September 2024 | StormCMS'
+    -
+      tag: meta
+      attributes:
+        name: description
+        content: 'Authoritatively negotiate robust internal or "organic" sources before wireless leadership. Objectively incentivize intermandated action items for client-based collaboration and idea-sharing. Efficiently conceptualize inexpensive web services after covalent initiatives. Proactively facilitate performance based models after just in time architectures. Rapidiously synthesize frictionless initiatives with end-to-end niches.Authoritatively whiteboard resource-leveling interfaces through flexible e-commerce. Synergistically expedite turnkey solutions via leveraged e-services.'
+    -
+      tag: link
+      attributes:
+        rel: canonical
+        href: 'https://storm.ddev.site/events/nwdug-uk-monthly-meetup-september-2024'
+  path:
+    -
+      alias: /events/nwdug-uk-monthly-meetup-september-2024
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: '<p>Authoritatively negotiate robust internal or "organic" sources before wireless leadership. Objectively incentivize intermandated action items for client-based collaboration and idea-sharing. Efficiently conceptualize inexpensive web services after covalent initiatives. Proactively facilitate performance based models after just in time architectures. Rapidiously synthesize frictionless initiatives with end-to-end niches.</p><p>Authoritatively whiteboard resource-leveling interfaces through flexible e-commerce. Synergistically expedite turnkey solutions via leveraged e-services.</p>'
+      format: basic_html
+      summary: ''
+  field_date_time:
+    -
+      value: 1732856400
+      end_value: 1733633940
+      duration: 12959
+      rrule: 0
+      rrule_index: 0
+      timezone: ''
+  field_featured_speakers:
+    -
+      entity:
+        _meta:
+          version: '1.0'
+          entity_type: paragraph
+          uuid: bd06f31e-552f-4488-834f-eef58b83c76e
+          bundle: speaker
+          default_langcode: en
+        default:
+          status:
+            -
+              value: true
+          created:
+            -
+              value: 1725959930
+          behavior_settings:
+            -
+              value: {  }
+          revision_translation_affected:
+            -
+              value: true
+          field_bio:
+            -
+              value: '<p>Progressively empower corporate total linkage and leading-edge infrastructures. Monotonectally coordinate optimal interfaces via orthogonal portals. Distinctively grow proactive web-readiness for enterprise-wide imperatives. Quickly communicate virtual schemas with value-added supply chains. Monotonectally.</p>'
+              format: basic_html
+          field_name:
+            -
+              value: 'John Doe'
+          field_organisation_designation:
+            -
+              value: 'Director of Delivery, Crown LLC'
+          field_picture:
+            -
+              entity: 0ab59829-d70b-4815-8dec-9afe0bb2c7ac
+  field_image:
+    -
+      entity: 7ce18692-ce12-472e-9be6-be0518dea44c
+  field_link:
+    -
+      uri: 'https://www.drupal.org/community/events/nwdug-uk-monthly-meetup-september-2024-2024-09-10'
+      title: NWDUG
+      options: {  }
+  field_location:
+    -
+      langcode: ''
+      country_code: GB
+      administrative_area: ''
+      locality: London
+      dependent_locality: ''
+      postal_code: 'NW1 6XE'
+      address_line1: '221B Baker Street'
+      address_line2: ''
+      organization: 'Crown LLC'
+  field_teaser:
+    -
+      value: "<p>It's time for another virtual NWDUG!</p><p>The Zoom details will be available to anyone who RSVPs to the event.</p><p>This month we have David Suissa talking about Implementing AI solutions for the French government</p><p><em>As part of its strategic plan for this decade, the French government is pursuing its efforts to provide more and improved public services online.</em></p>"
+      format: basic_html
+  field_thumbnail:
+    -
+      entity: 7ce18692-ce12-472e-9be6-be0518dea44c

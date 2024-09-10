@@ -1,0 +1,30 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 20c77a9a-e4ed-4d78-ba65-abe11d9661ee
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: drupalcon-singapore.jpg
+  uri:
+    -
+      value: 'public://2024-09/drupalcon-singapore.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 278669
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1725954698
+  origname:
+    -
+      value: drupalcon-singapore.jpg

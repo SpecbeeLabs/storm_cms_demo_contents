@@ -1,0 +1,30 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 2913da2c-e8d4-416b-ad31-e051f133e09b
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: drupalcon-atlanta.png
+  uri:
+    -
+      value: 'public://2024-09/drupalcon-atlanta.png'
+  filemime:
+    -
+      value: image/png
+  filesize:
+    -
+      value: 1354102
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1725954611
+  origname:
+    -
+      value: drupalcon-atlanta.png

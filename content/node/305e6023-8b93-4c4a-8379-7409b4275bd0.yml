@@ -1,0 +1,132 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 305e6023-8b93-4c4a-8379-7409b4275bd0
+  bundle: event
+  default_langcode: en
+  depends:
+    405ea926-095d-4cb1-948b-b8ddfa8c45be: media
+    6da668ab-9c5d-4730-af3e-9f572c17aa53: media
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Melbourne Drupal meetup'
+  created:
+    -
+      value: 1725958800
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  moderation_state:
+    -
+      value: published
+  metatag:
+    -
+      tag: meta
+      attributes:
+        name: title
+        content: 'Melbourne Drupal meetup | StormCMS'
+    -
+      tag: meta
+      attributes:
+        name: description
+        content: 'Phosfluorescently conceptualize performance based users vis-a-vis market positioning solutions. Synergistically reinvent market positioning scenarios for magnetic alignments. Assertively harness out-of-the-box ideas and unique services. Distinctively recaptiualize pandemic web-readiness before diverse expertise. Holisticly aggregate cooperative e-markets.'
+    -
+      tag: link
+      attributes:
+        rel: canonical
+        href: 'https://storm.ddev.site/events/melbourne-drupal-meetup'
+  path:
+    -
+      alias: /events/melbourne-drupal-meetup
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: '<p>Phosfluorescently conceptualize performance based users vis-a-vis market positioning solutions. Synergistically reinvent market positioning scenarios for magnetic alignments. Assertively harness out-of-the-box ideas and unique services. Distinctively recaptiualize pandemic web-readiness before diverse expertise. Holisticly aggregate cooperative e-markets.</p><p>Completely whiteboard real-time action items vis-a-vis open-source sources. Dynamically aggregate client-focused products through one-to-one technologies. Monotonectally exploit collaborative alignments whereas high-payoff catalysts for change. Efficiently initiate multidisciplinary customer service before functionalized functionalities. Professionally benchmark client-focused growth strategies through market-driven systems.</p><p>Distinctively grow focused metrics vis-a-vis sticky users. Rapidiously utilize synergistic "outside the box" thinking without global communities. Continually aggregate dynamic quality vectors rather than inexpensive data. Globally benchmark reliable methods of empowerment without fully.</p>'
+      format: basic_html
+      summary: ''
+  field_date_time:
+    -
+      value: 1729828800
+      end_value: 1730433540
+      duration: 10079
+      rrule: 0
+      rrule_index: 0
+      timezone: ''
+  field_featured_speakers:
+    -
+      entity:
+        _meta:
+          version: '1.0'
+          entity_type: paragraph
+          uuid: a2e91a2e-7f11-471f-a424-cee179e9a6d6
+          bundle: speaker
+          default_langcode: en
+        default:
+          status:
+            -
+              value: true
+          created:
+            -
+              value: 1725958880
+          behavior_settings:
+            -
+              value: {  }
+          revision_translation_affected:
+            -
+              value: true
+          field_bio:
+            -
+              value: '<p>Seamlessly generate B2B data whereas turnkey total linkage. Uniquely productivate premium best practices whereas.</p>'
+              format: basic_html
+          field_name:
+            -
+              value: 'Harps Joseph'
+          field_organisation_designation:
+            -
+              value: 'Senior Manager, Zenith Solutions'
+          field_picture:
+            -
+              entity: 405ea926-095d-4cb1-948b-b8ddfa8c45be
+  field_image:
+    -
+      entity: 6da668ab-9c5d-4730-af3e-9f572c17aa53
+  field_link:
+    -
+      uri: 'https://www.drupal.org/community/events/melbourne-drupal-meetup-september-2024-2024-09-11'
+      title: Meetup
+      options: {  }
+  field_location:
+    -
+      langcode: ''
+      country_code: AU
+      administrative_area: VIC
+      locality: Melbourne
+      dependent_locality: ''
+      postal_code: '3000'
+      address_line1: '22 Little Bourke Street'
+      address_line2: ''
+      organization: 'Zenith Solutions'
+  field_teaser:
+    -
+      value: '<p>DataTables - Implementing server side processing using views as the backend - By Simond Lyndsay, Aussie Angels</p><p>Would you like to talk for just 5 minutes about what you did last week/ month?</p>'
+      format: basic_html
+  field_thumbnail:
+    -
+      entity: 6da668ab-9c5d-4730-af3e-9f572c17aa53

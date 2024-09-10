@@ -1,0 +1,132 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: dc26aa48-96b2-49f2-b835-3dd681b54740
+  bundle: event
+  default_langcode: en
+  depends:
+    c4440d66-e90c-48f7-886b-2a7e0d6f40e3: media
+    2cb2cb9e-ebf2-40e7-9e52-5d8380a0e367: media
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'DrupalCon Atlanta'
+  created:
+    -
+      value: 1725956507
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  moderation_state:
+    -
+      value: published
+  metatag:
+    -
+      tag: meta
+      attributes:
+        name: title
+        content: 'DrupalCon Atlanta | StormCMS'
+    -
+      tag: meta
+      attributes:
+        name: description
+        content: 'Authoritatively productize enterprise-wide e-business for customized web-readiness. Intrinsicly reintermediate goal-oriented models vis-a-vis low-risk high-yield ROI. Credibly reconceptualize sustainable channels for cross-media benefits. Conveniently cultivate revolutionary convergence after prospective best practices. Proactively network market-driven opportunities rather than leading-edge materials.Appropriately transition cross-unit web services.'
+    -
+      tag: link
+      attributes:
+        rel: canonical
+        href: 'https://storm.ddev.site/events/drupalcon-atlanta'
+  path:
+    -
+      alias: /events/drupalcon-atlanta
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: '<p>Authoritatively productize enterprise-wide e-business for customized web-readiness. Intrinsicly reintermediate goal-oriented models vis-a-vis low-risk high-yield ROI. Credibly reconceptualize sustainable channels for cross-media benefits. Conveniently cultivate revolutionary convergence after prospective best practices. Proactively network market-driven opportunities rather than leading-edge materials.</p><p>Appropriately transition cross-unit web services.</p>'
+      format: basic_html
+      summary: ''
+  field_date_time:
+    -
+      value: 1742788800
+      end_value: 1743134340
+      duration: 5759
+      rrule: 0
+      rrule_index: 0
+      timezone: ''
+  field_featured_speakers:
+    -
+      entity:
+        _meta:
+          version: '1.0'
+          entity_type: paragraph
+          uuid: 5f776804-8600-4d5c-9eb3-6b3e9e51463e
+          bundle: speaker
+          default_langcode: en
+        default:
+          status:
+            -
+              value: true
+          created:
+            -
+              value: 1725956574
+          behavior_settings:
+            -
+              value: {  }
+          revision_translation_affected:
+            -
+              value: true
+          field_bio:
+            -
+              value: '<p>Quickly restore integrated value for high-quality e-tailers. Synergistically implement collaborative e-commerce.</p>'
+              format: basic_html
+          field_name:
+            -
+              value: 'Alexander Hipp'
+          field_organisation_designation:
+            -
+              value: 'Senior Manager, Crown LLC'
+          field_picture:
+            -
+              entity: c4440d66-e90c-48f7-886b-2a7e0d6f40e3
+  field_image:
+    -
+      entity: 2cb2cb9e-ebf2-40e7-9e52-5d8380a0e367
+  field_link:
+    -
+      uri: 'https://www.drupal.org/community/events/drupalcon-atlanta-24-27-march-2025-2025-03-24'
+      title: 'DrupalCon Atlanta'
+      options: {  }
+  field_location:
+    -
+      langcode: ''
+      country_code: US
+      administrative_area: GA
+      locality: Atlanta
+      dependent_locality: ''
+      postal_code: '30301'
+      address_line1: 'Hyatt Regency Atlanta'
+      address_line2: ''
+      organization: 'Crown LLC'
+  field_teaser:
+    -
+      value: "<p>The biggest open-source event in North America, DrupalCon, is coming to Atlanta, Georgia. We can't wait to see you at this one-of-a-kind experience!</p>"
+      format: basic_html
+  field_thumbnail:
+    -
+      entity: 2cb2cb9e-ebf2-40e7-9e52-5d8380a0e367

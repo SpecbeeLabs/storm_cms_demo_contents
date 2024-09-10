@@ -1,0 +1,132 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: a0953bfd-fa15-4f61-bd97-cb4e5a0ad049
+  bundle: event
+  default_langcode: en
+  depends:
+    5e1945d3-99b9-4c35-92fd-f54f7f2edf8e: media
+    2cb2cb9e-ebf2-40e7-9e52-5d8380a0e367: media
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Drupal-Austria Meetup'
+  created:
+    -
+      value: 1725958291
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  moderation_state:
+    -
+      value: published
+  metatag:
+    -
+      tag: meta
+      attributes:
+        name: title
+        content: 'Drupal-Austria Meetup | StormCMS'
+    -
+      tag: meta
+      attributes:
+        name: description
+        content: 'Monotonectally enable process-centric best practices through intuitive processes. Holisticly simplify mission-critical interfaces after B2C e-services. Dramatically morph just in time expertise with prospective systems. Seamlessly actualize enabled collaboration and idea-sharing vis-a-vis compelling architectures. Proactively develop out-of-the-box action items through enabled portals.Continually envisioneer standards compliant.'
+    -
+      tag: link
+      attributes:
+        rel: canonical
+        href: 'https://storm.ddev.site/events/drupal-austria-meetup'
+  path:
+    -
+      alias: /events/drupal-austria-meetup
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: '<p>Monotonectally enable process-centric best practices through intuitive processes. Holisticly simplify mission-critical interfaces after B2C e-services. Dramatically morph just in time expertise with prospective systems. Seamlessly actualize enabled collaboration and idea-sharing vis-a-vis compelling architectures. Proactively develop out-of-the-box action items through enabled portals.</p><p>Continually envisioneer standards compliant.</p>'
+      format: basic_html
+      summary: ''
+  field_date_time:
+    -
+      value: 1747454400
+      end_value: 1747886340
+      duration: 7199
+      rrule: 0
+      rrule_index: 0
+      timezone: ''
+  field_featured_speakers:
+    -
+      entity:
+        _meta:
+          version: '1.0'
+          entity_type: paragraph
+          uuid: 8cf9d599-80bd-45cb-b654-025c7e163351
+          bundle: speaker
+          default_langcode: en
+        default:
+          status:
+            -
+              value: true
+          created:
+            -
+              value: 1725958362
+          behavior_settings:
+            -
+              value: {  }
+          revision_translation_affected:
+            -
+              value: true
+          field_bio:
+            -
+              value: '<p>Objectively pontificate resource-leveling infomediaries without worldwide quality vectors. Dramatically target standards compliant collaboration and idea-sharing and empowered core competencies. Holisticly evolve synergistic e-services vis-a-vis sustainable methodologies. Conveniently scale excellent solutions for excellent information. Conveniently actualize cross functional channels through interactive relationships.</p><p>Assertively scale high standards in total linkage without customer directed paradigms. Holisticly parallel task bleeding-edge e-tailers without collaborative vortals. Compellingly enable goal-oriented platforms.</p>'
+              format: basic_html
+          field_name:
+            -
+              value: 'Haydn Golden'
+          field_organisation_designation:
+            -
+              value: 'Development Practice Head, Crown LLC'
+          field_picture:
+            -
+              entity: 5e1945d3-99b9-4c35-92fd-f54f7f2edf8e
+  field_image:
+    -
+      entity: 2cb2cb9e-ebf2-40e7-9e52-5d8380a0e367
+  field_link:
+    -
+      uri: 'https://www.drupal.org/community/events/drupal-austria-meetup-september-2024-09-11'
+      title: 'Drupal Austria'
+      options: {  }
+  field_location:
+    -
+      langcode: ''
+      country_code: AT
+      administrative_area: ''
+      locality: Vienna
+      dependent_locality: ''
+      postal_code: '1050'
+      address_line1: 'Bräuhausgasse 6/2/6'
+      address_line2: 'doloops accessible web technologies GmbH'
+      organization: 'Crown LLC'
+  field_teaser:
+    -
+      value: "<p>The Drupal Austria community is meeting again shortly before DrupalCon! This meetup is open for everyone: web developers, designers, Drupal users, but also curious people that don't know Drupal yet.</p>"
+      format: basic_html
+  field_thumbnail:
+    -
+      entity: 2cb2cb9e-ebf2-40e7-9e52-5d8380a0e367

@@ -1,0 +1,132 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 4802ad5e-aca7-4c27-95b5-0bd5c5cbc043
+  bundle: event
+  default_langcode: en
+  depends:
+    0ab59829-d70b-4815-8dec-9afe0bb2c7ac: media
+    2cb2cb9e-ebf2-40e7-9e52-5d8380a0e367: media
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Pacific Northwest Drupal Summit 2024'
+  created:
+    -
+      value: 1725959678
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  moderation_state:
+    -
+      value: published
+  metatag:
+    -
+      tag: meta
+      attributes:
+        name: title
+        content: 'Pacific Northwest Drupal Summit 2024 | StormCMS'
+    -
+      tag: meta
+      attributes:
+        name: description
+        content: 'Credibly provide access to client-focused core competencies vis-a-vis synergistic web-readiness. Credibly network global mindshare via focused outsourcing. Appropriately expedite next-generation deliverables after unique processes. Phosfluorescently promote economically sound opportunities with web-enabled channels. Rapidiously drive integrated mindshare through ubiquitous infrastructures.'
+    -
+      tag: link
+      attributes:
+        rel: canonical
+        href: 'https://storm.ddev.site/events/pacific-northwest-drupal-summit-2024'
+  path:
+    -
+      alias: /events/pacific-northwest-drupal-summit-2024
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<p>Credibly provide access to client-focused core competencies vis-a-vis synergistic web-readiness. Credibly network global mindshare via focused outsourcing. Appropriately expedite next-generation deliverables after unique processes. Phosfluorescently promote economically sound opportunities with web-enabled channels. Rapidiously drive integrated mindshare through ubiquitous infrastructures.</p><p>Progressively iterate seamless systems for B2B ideas. Interactively evolve diverse synergy whereas cutting-edge schemas. Authoritatively disintermediate 2.0 functionalities via proactive platforms. Intrinsicly plagiarize enabled mindshare through open-source strategic theme areas. Synergistically morph user friendly core competencies through bricks-and-clicks imperatives.</p><p>Intrinsicly leverage other's robust best practices without functional quality vectors. Energistically enable cutting-edge.</p>"
+      format: basic_html
+      summary: ''
+  field_date_time:
+    -
+      value: 1734152400
+      end_value: 1735275540
+      duration: 18719
+      rrule: 0
+      rrule_index: 0
+      timezone: ''
+  field_featured_speakers:
+    -
+      entity:
+        _meta:
+          version: '1.0'
+          entity_type: paragraph
+          uuid: abe39bf8-72c4-49fd-ba24-c9f7899bca89
+          bundle: speaker
+          default_langcode: en
+        default:
+          status:
+            -
+              value: true
+          created:
+            -
+              value: 1725959741
+          behavior_settings:
+            -
+              value: {  }
+          revision_translation_affected:
+            -
+              value: true
+          field_bio:
+            -
+              value: '<p>Distinctively e-enable cross-unit intellectual capital rather than goal-oriented core competencies. Quickly architect enabled initiatives without distributed partnerships. Continually recaptiualize superior metrics through customized.</p>'
+              format: basic_html
+          field_name:
+            -
+              value: 'John Doe'
+          field_organisation_designation:
+            -
+              value: 'Director of Delivery, Crown LLC'
+          field_picture:
+            -
+              entity: 0ab59829-d70b-4815-8dec-9afe0bb2c7ac
+  field_image:
+    -
+      entity: 2cb2cb9e-ebf2-40e7-9e52-5d8380a0e367
+  field_link:
+    -
+      uri: 'https://www.drupal.org/community/events/pacific-northwest-drupal-summit-2024-2024-10-11'
+      title: Website
+      options: {  }
+  field_location:
+    -
+      langcode: ''
+      country_code: US
+      administrative_area: WA
+      locality: Seattle
+      dependent_locality: ''
+      postal_code: '98105'
+      address_line1: '1851 NE Grant Ln'
+      address_line2: ''
+      organization: 'Crown LLC'
+  field_teaser:
+    -
+      value: '<p>After a five year hiatus we will be back! 10th Pacific Northwest Drupal Summit will be hosted on the University of Washington Seattle campus in October 2024, with one day of trainings and contribution, two days of sessions, and a party at HUB Games. Visit our website for more details.</p>'
+      format: basic_html
+  field_thumbnail:
+    -
+      entity: 2cb2cb9e-ebf2-40e7-9e52-5d8380a0e367

@@ -1,0 +1,132 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 708ba1fd-fa72-4de6-8377-ae2f16ec24d4
+  bundle: event
+  default_langcode: en
+  depends:
+    42a2ef50-e44f-43e9-9efe-3ce90f323ab2: media
+    2cb2cb9e-ebf2-40e7-9e52-5d8380a0e367: media
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Droptica Webinar'
+  created:
+    -
+      value: 1725957268
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  moderation_state:
+    -
+      value: published
+  metatag:
+    -
+      tag: meta
+      attributes:
+        name: title
+        content: 'Droptica Webinar | StormCMS'
+    -
+      tag: meta
+      attributes:
+        name: description
+        content: 'Energistically foster equity invested e-services through open-source platforms. Phosfluorescently implement prospective initiatives rather than leveraged web services. Compellingly negotiate distributed mindshare vis-a-vis multidisciplinary synergy. Quickly streamline worldwide process improvements rather than synergistic functionalities. Collaboratively pursue sustainable infomediaries for one-to-one e-markets.'
+    -
+      tag: link
+      attributes:
+        rel: canonical
+        href: 'https://storm.ddev.site/events/droptica-webinar'
+  path:
+    -
+      alias: /events/droptica-webinar
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: '<p>Energistically foster equity invested e-services through open-source platforms. Phosfluorescently implement prospective initiatives rather than leveraged web services. Compellingly negotiate distributed mindshare vis-a-vis multidisciplinary synergy. Quickly streamline worldwide process improvements rather than synergistic functionalities. Collaboratively pursue sustainable infomediaries for one-to-one e-markets.</p><p>Completely syndicate next-generation bandwidth rather than state of the art convergence. Interactively recaptiualize principle-centered synergy whereas error-free intellectual capital. Completely.</p>'
+      format: basic_html
+      summary: ''
+  field_date_time:
+    -
+      value: 1758686400
+      end_value: 1759982340
+      duration: 21599
+      rrule: 0
+      rrule_index: 0
+      timezone: ''
+  field_featured_speakers:
+    -
+      entity:
+        _meta:
+          version: '1.0'
+          entity_type: paragraph
+          uuid: 339544a6-99c9-4c9d-982c-b929724cc515
+          bundle: speaker
+          default_langcode: en
+        default:
+          status:
+            -
+              value: true
+          created:
+            -
+              value: 1725957327
+          behavior_settings:
+            -
+              value: {  }
+          revision_translation_affected:
+            -
+              value: true
+          field_bio:
+            -
+              value: '<p>Rapidiously reconceptualize best-of-breed niche markets through virtual internal or "organic" sources. Compellingly optimize e-business imperatives through.</p>'
+              format: basic_html
+          field_name:
+            -
+              value: 'Greg Edwards'
+          field_organisation_designation:
+            -
+              value: 'Director of Delivery, Acme Industries'
+          field_picture:
+            -
+              entity: 42a2ef50-e44f-43e9-9efe-3ce90f323ab2
+  field_image:
+    -
+      entity: 2cb2cb9e-ebf2-40e7-9e52-5d8380a0e367
+  field_link:
+    -
+      uri: 'https://www.drupal.org/community/events/droptica-webinar-2708-the-future-after-drupal-7-exploring-alternatives-and-new-opportunities-2024-09-27'
+      title: Join
+      options: {  }
+  field_location:
+    -
+      langcode: ''
+      country_code: RU
+      administrative_area: MOW
+      locality: Moscow
+      dependent_locality: ''
+      postal_code: '109012'
+      address_line1: '1 Red Square'
+      address_line2: ''
+      organization: 'Acme Industries'
+  field_teaser:
+    -
+      value: "<p>Maciej Łukiański - CEO and co-founder of Droptica - will demonstrate how to manage a Drupal 7 website after the system's support ends.</p>"
+      format: basic_html
+  field_thumbnail:
+    -
+      entity: 2cb2cb9e-ebf2-40e7-9e52-5d8380a0e367

@@ -1,0 +1,30 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 86020b5a-69a1-43f0-aa5c-1bb6eb9944a4
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: banner-triangles.jpg
+  uri:
+    -
+      value: 'public://2024-09/banner-triangles.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 1229715
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1725954473
+  origname:
+    -
+      value: banner-triangles.jpg

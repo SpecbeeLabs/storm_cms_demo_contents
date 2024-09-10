@@ -1,0 +1,132 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 40172ee4-a449-4977-a878-5ecd0f8872c8
+  bundle: event
+  default_langcode: en
+  depends:
+    76c0e253-a64b-4967-a16b-d944e1ee3b9f: media
+    6da668ab-9c5d-4730-af3e-9f572c17aa53: media
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'MidCamp 2025'
+  created:
+    -
+      value: 1725956822
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  moderation_state:
+    -
+      value: published
+  metatag:
+    -
+      tag: meta
+      attributes:
+        name: title
+        content: 'MidCamp 2025 | StormCMS'
+    -
+      tag: meta
+      attributes:
+        name: description
+        content: 'Professionally predominate covalent solutions and backward-compatible web services. Conveniently maximize just in time benefits without 2.0 process improvements. Appropriately productivate alternative e-tailers through multifunctional information. Dramatically pursue cost effective mindshare whereas granular manufactured products. Energistically.'
+    -
+      tag: link
+      attributes:
+        rel: canonical
+        href: 'https://storm.ddev.site/events/midcamp-2025'
+  path:
+    -
+      alias: /events/midcamp-2025
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<p>Professionally predominate covalent solutions and backward-compatible web services. Conveniently maximize just in time benefits without 2.0 process improvements. Appropriately productivate alternative e-tailers through multifunctional information. Dramatically pursue cost effective mindshare whereas granular manufactured products. Energistically.</p><p>Completely architect interactive networks via standards compliant niche markets. Objectively reinvent holistic information vis-a-vis magnetic ROI. Uniquely leverage other's client-based data after accurate imperatives. Progressively productivate integrated mindshare without just in time value. Distinctively re-engineer customized information with interoperable convergence.</p><p>Energistically streamline multimedia based imperatives before leading-edge e-markets. Progressively streamline enterprise-wide strategic theme areas for goal-oriented technology. Conveniently productivate premier.</p>"
+      format: basic_html
+      summary: ''
+  field_date_time:
+    -
+      value: 1757995200
+      end_value: 1758254340
+      duration: 4319
+      rrule: 0
+      rrule_index: 0
+      timezone: ''
+  field_featured_speakers:
+    -
+      entity:
+        _meta:
+          version: '1.0'
+          entity_type: paragraph
+          uuid: d095ae0a-4d0c-49b3-ab0c-5cc3c828219f
+          bundle: speaker
+          default_langcode: en
+        default:
+          status:
+            -
+              value: true
+          created:
+            -
+              value: 1725956994
+          behavior_settings:
+            -
+              value: {  }
+          revision_translation_affected:
+            -
+              value: true
+          field_bio:
+            -
+              value: '<p>Intrinsicly supply adaptive methodologies rather than interactive expertise. Quickly orchestrate holistic channels whereas accurate manufactured.</p>'
+              format: basic_html
+          field_name:
+            -
+              value: 'Joe Fernandes'
+          field_organisation_designation:
+            -
+              value: 'Development Practice Head, Zenith Solutions'
+          field_picture:
+            -
+              entity: 76c0e253-a64b-4967-a16b-d944e1ee3b9f
+  field_image:
+    -
+      entity: 6da668ab-9c5d-4730-af3e-9f572c17aa53
+  field_link:
+    -
+      uri: 'https://www.drupal.org/community/events/midcamp-2025-2025-05-20'
+      title: MidCamp
+      options: {  }
+  field_location:
+    -
+      langcode: ''
+      country_code: US
+      administrative_area: IL
+      locality: Chicago
+      dependent_locality: ''
+      postal_code: '60611'
+      address_line1: '875 N Michigan Avenue'
+      address_line2: ''
+      organization: 'Zenith Solutions'
+  field_teaser:
+    -
+      value: '<p>Whether you’re an existing Drupal user, developer, designer, site builder, or are maybe just a little Drupal-curious, you won’t want to miss out on this unique event. MidCamp offers attendees the opportunity to increase their Drupal knowledge through networking, contribution sprints, training, and more.</p>'
+      format: basic_html
+  field_thumbnail:
+    -
+      entity: 6da668ab-9c5d-4730-af3e-9f572c17aa53

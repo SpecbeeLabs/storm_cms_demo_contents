@@ -1,0 +1,132 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 5bab8920-7646-4eae-a501-90210796c258
+  bundle: event
+  default_langcode: en
+  depends:
+    38f1fa8e-820f-4e5a-9dee-abb7ebec0125: media
+    7ce18692-ce12-472e-9be6-be0518dea44c: media
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Drupal Day Portugal 2024 - Aveiro'
+  created:
+    -
+      value: 1725960598
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  moderation_state:
+    -
+      value: published
+  metatag:
+    -
+      tag: meta
+      attributes:
+        name: title
+        content: 'Drupal Day Portugal 2024 - Aveiro | StormCMS'
+    -
+      tag: meta
+      attributes:
+        name: description
+        content: 'Enthusiastically syndicate resource maximizing supply chains without bleeding-edge deliverables. Distinctively transition distinctive initiatives vis-a-vis enabled niches. Compellingly expedite goal-oriented process improvements with distributed growth strategies. Enthusiastically facilitate professional architectures via bricks-and-clicks opportunities. Phosfluorescently brand compelling imperatives without innovative users.'
+    -
+      tag: link
+      attributes:
+        rel: canonical
+        href: 'https://storm.ddev.site/events/drupal-day-portugal-2024-aveiro'
+  path:
+    -
+      alias: /events/drupal-day-portugal-2024-aveiro
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: '<p>Enthusiastically syndicate resource maximizing supply chains without bleeding-edge deliverables. Distinctively transition distinctive initiatives vis-a-vis enabled niches. Compellingly expedite goal-oriented process improvements with distributed growth strategies. Enthusiastically facilitate professional architectures via bricks-and-clicks opportunities. Phosfluorescently brand compelling imperatives without innovative users.</p><p>Phosfluorescently conceptualize sustainable customer service before cross-media intellectual capital. Enthusiastically deliver stand-alone benefits via customized mindshare. Intrinsicly predominate market-driven information.</p>'
+      format: basic_html
+      summary: ''
+  field_date_time:
+    -
+      value: 1730520000
+      end_value: 1730606340
+      duration: 1439
+      rrule: 0
+      rrule_index: 0
+      timezone: ''
+  field_featured_speakers:
+    -
+      entity:
+        _meta:
+          version: '1.0'
+          entity_type: paragraph
+          uuid: fe0db494-bc8a-4644-b635-2d34b89bb0a7
+          bundle: speaker
+          default_langcode: en
+        default:
+          status:
+            -
+              value: true
+          created:
+            -
+              value: 1725960645
+          behavior_settings:
+            -
+              value: {  }
+          revision_translation_affected:
+            -
+              value: true
+          field_bio:
+            -
+              value: '<p>Dramatically empower one-to-one methodologies for resource sucking experiences. Appropriately monetize bricks-and-clicks scenarios whereas backend opportunities. Uniquely evolve timely e-business whereas economically.</p>'
+              format: basic_html
+          field_name:
+            -
+              value: 'Jim Beam'
+          field_organisation_designation:
+            -
+              value: 'Vice President - Sales, Zenith Solutions'
+          field_picture:
+            -
+              entity: 38f1fa8e-820f-4e5a-9dee-abb7ebec0125
+  field_image:
+    -
+      entity: 7ce18692-ce12-472e-9be6-be0518dea44c
+  field_link:
+    -
+      uri: 'https://www.drupal.org/community/events/drupal-day-portugal-2024-aveiro-2024-10-11'
+      title: 'Drupal Meetup'
+      options: {  }
+  field_location:
+    -
+      langcode: ''
+      country_code: PT
+      administrative_area: ''
+      locality: Lisbon
+      dependent_locality: ''
+      postal_code: 1250-145
+      address_line1: 'Avenida da Liberdade, 245'
+      address_line2: ''
+      organization: 'Zenith Solutions'
+  field_teaser:
+    -
+      value: '<p>Organised by the Drupal Portugal Association, Drupal Day 2024 is the biggest event of the year for the Drupal community in Portugal.<br>The goal of the event is to share experiences and make known one of the most amazing open-source content management tools, used by institutions and programmers around the world.<br>We have prepared sessions and workshops with some of the most experienced members of the Portuguese Drupal community for all those who are willing and curious to understand and work with this tool.</p>'
+      format: basic_html
+  field_thumbnail:
+    -
+      entity: 7ce18692-ce12-472e-9be6-be0518dea44c
