@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: media
+  uuid: 6da668ab-9c5d-4730-af3e-9f572c17aa53
+  bundle: image
+  default_langcode: en
+  depends:
+    86020b5a-69a1-43f0-aa5c-1bb6eb9944a4: file
+    077e05ef-d4bf-4b99-83d0-74922573b848: taxonomy_term
+default:
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  name:
+    -
+      value: banner-triangles.jpg
+  created:
+    -
+      value: 1725954465
+  revision_translation_affected:
+    -
+      value: true
+  metatag:
+    -
+      tag: meta
+      attributes:
+        name: title
+        content: '| StormCMS'
+    -
+      tag: link
+      attributes:
+        rel: canonical
+        href: 'https://storm.ddev.site/user/login'
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 0
+  field_caption_credit:
+    -
+      value: '<p><a href="https://events.drupal.org/files/media/image/Banner-Triangles.jpg">events.drupal.org</a></p>'
+      format: basic_html
+  field_media_image:
+    -
+      entity: 86020b5a-69a1-43f0-aa5c-1bb6eb9944a4
+      alt: Banner
+      title: ''
+      width: 3600
+      height: 1295
+  field_media_tags:
+    -
+      entity: 077e05ef-d4bf-4b99-83d0-74922573b848

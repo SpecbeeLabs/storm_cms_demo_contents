@@ -1,0 +1,132 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 50116a37-d81b-40e0-890f-5a20d3ea7c83
+  bundle: event
+  default_langcode: en
+  depends:
+    01d29e75-7f40-4fe1-9e25-091e7674281f: media
+    6da668ab-9c5d-4730-af3e-9f572c17aa53: media
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'DrupalCon Barcelona 2024'
+  created:
+    -
+      value: 1725953047
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  moderation_state:
+    -
+      value: published
+  metatag:
+    -
+      tag: meta
+      attributes:
+        name: title
+        content: 'DrupalCon Barcelona 2024 | StormCMS'
+    -
+      tag: meta
+      attributes:
+        name: description
+        content: 'Proactively administrate seamless benefits vis-a-vis front-end materials. Proactively unleash installed base process improvements with turnkey paradigms. Quickly extend fully tested ideas via B2C interfaces. Authoritatively predominate stand-alone partnerships whereas team driven vortals. Intrinsicly implement pandemic strategic theme areas through B2C schemas.Authoritatively orchestrate user friendly potentialities before resource sucking processes. Seamlessly disseminate cross-platform communities via optimal.'
+    -
+      tag: link
+      attributes:
+        rel: canonical
+        href: 'https://storm.ddev.site/events/drupalcon-barcelona-2024'
+  path:
+    -
+      alias: /events/drupalcon-barcelona-2024
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: '<p>Proactively administrate seamless benefits vis-a-vis front-end materials. Proactively unleash installed base process improvements with turnkey paradigms. Quickly extend fully tested ideas via B2C interfaces. Authoritatively predominate stand-alone partnerships whereas team driven vortals. Intrinsicly implement pandemic strategic theme areas through B2C schemas.</p><p>Authoritatively orchestrate user friendly potentialities before resource sucking processes. Seamlessly disseminate cross-platform communities via optimal.</p>'
+      format: basic_html
+      summary: ''
+  field_date_time:
+    -
+      value: 1752120000
+      end_value: 1752292740
+      duration: 2879
+      rrule: 0
+      rrule_index: 0
+      timezone: ''
+  field_featured_speakers:
+    -
+      entity:
+        _meta:
+          version: '1.0'
+          entity_type: paragraph
+          uuid: aaf98bf8-0959-4eb5-a5b7-68186469a076
+          bundle: speaker
+          default_langcode: en
+        default:
+          status:
+            -
+              value: true
+          created:
+            -
+              value: 1725954084
+          behavior_settings:
+            -
+              value: {  }
+          revision_translation_affected:
+            -
+              value: true
+          field_bio:
+            -
+              value: '<p>Competently empower intuitive initiatives rather than ubiquitous bandwidth. Proactively plagiarize distinctive partnerships.</p>'
+              format: basic_html
+          field_name:
+            -
+              value: 'Clay Elliot'
+          field_organisation_designation:
+            -
+              value: 'Development Practice Head, Zenith Solutions'
+          field_picture:
+            -
+              entity: 01d29e75-7f40-4fe1-9e25-091e7674281f
+  field_image:
+    -
+      entity: 6da668ab-9c5d-4730-af3e-9f572c17aa53
+  field_link:
+    -
+      uri: 'https://www.drupal.org/community/events/drupalcon-barcelona-2024-2024-09-24'
+      title: 'DrupalCon Barcelona'
+      options: {  }
+  field_location:
+    -
+      langcode: ''
+      country_code: ES
+      administrative_area: B
+      locality: Barcelona
+      dependent_locality: ''
+      postal_code: '08019'
+      address_line1: 'Plaça de Willy Brandt, 11-14'
+      address_line2: ''
+      organization: Synergy
+  field_teaser:
+    -
+      value: '<p>Save the dates! DrupalCon Europe 2024 comes back to Barcelona between 24-27 September 2024. We cannot wait to meet you all again and explore the enchanting blend of culture, history, and creativity in Barcelona.</p>'
+      format: basic_html
+  field_thumbnail:
+    -
+      entity: 6da668ab-9c5d-4730-af3e-9f572c17aa53

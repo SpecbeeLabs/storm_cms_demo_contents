@@ -1,0 +1,117 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 2fc6f392-88d9-4acf-b76d-23c926a50442
+  bundle: event
+  default_langcode: en
+  depends:
+    83ea080c-5f40-407e-a9d7-a993fbe5ea41: media
+    6da668ab-9c5d-4730-af3e-9f572c17aa53: media
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'DrupalCamp Pune 2024'
+  created:
+    -
+      value: 1725960807
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  moderation_state:
+    -
+      value: published
+  metatag:
+    -
+      tag: meta
+      attributes:
+        name: title
+        content: 'DrupalCamp Pune 2024 | StormCMS'
+    -
+      tag: link
+      attributes:
+        rel: canonical
+        href: 'https://storm.ddev.site/events/drupalcamp-pune-2024'
+  path:
+    -
+      alias: /events/drupalcamp-pune-2024
+      langcode: en
+      pathauto: 1
+  field_date_time:
+    -
+      value: 1732856400
+      end_value: 1732942740
+      duration: 1439
+      rrule: 0
+      rrule_index: 0
+      timezone: ''
+  field_featured_speakers:
+    -
+      entity:
+        _meta:
+          version: '1.0'
+          entity_type: paragraph
+          uuid: 3cc20a22-ec2f-408f-8ab5-bb9d0a4fd1c5
+          bundle: speaker
+          default_langcode: en
+        default:
+          status:
+            -
+              value: true
+          created:
+            -
+              value: 1725960918
+          behavior_settings:
+            -
+              value: {  }
+          revision_translation_affected:
+            -
+              value: true
+          field_bio:
+            -
+              value: '<p>Uniquely coordinate backward-compatible intellectual capital with global e-markets. Efficiently plagiarize leveraged strategic theme areas without functional materials. Appropriately actualize bleeding-edge catalysts.</p>'
+              format: basic_html
+          field_name:
+            -
+              value: 'Joseph Gonzalez'
+          field_organisation_designation:
+            -
+              value: 'Vice President, Zenith Solutions'
+          field_picture:
+            -
+              entity: 83ea080c-5f40-407e-a9d7-a993fbe5ea41
+  field_image:
+    -
+      entity: 6da668ab-9c5d-4730-af3e-9f572c17aa53
+  field_location:
+    -
+      langcode: ''
+      country_code: IN
+      administrative_area: MH
+      locality: Pune
+      dependent_locality: ''
+      postal_code: '411007'
+      address_line1: 'Yashwantrao Chavan Academy of Development Administration'
+      address_line2: ''
+      organization: 'Acme Industries'
+  field_teaser:
+    -
+      value: "<p>Don't miss out on this opportunity to connect with fellow members of the Drupal community. Mark your calendars and join us for the meetup!</p>"
+      format: basic_html
+  field_thumbnail:
+    -
+      entity: 6da668ab-9c5d-4730-af3e-9f572c17aa53

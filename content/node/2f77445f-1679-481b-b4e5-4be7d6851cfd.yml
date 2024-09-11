@@ -1,0 +1,131 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 2f77445f-1679-481b-b4e5-4be7d6851cfd
+  bundle: event
+  default_langcode: en
+  depends:
+    7ce18692-ce12-472e-9be6-be0518dea44c: media
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'DrupalCon Singapore 2024'
+  created:
+    -
+      value: 1725956179
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  moderation_state:
+    -
+      value: published
+  metatag:
+    -
+      tag: meta
+      attributes:
+        name: title
+        content: 'DrupalCon Singapore 2024 | StormCMS'
+    -
+      tag: meta
+      attributes:
+        name: description
+        content: 'Professionally target innovative manufactured products vis-a-vis quality human capital. Synergistically grow next-generation growth strategies without cooperative web services. Competently fashion efficient potentialities without global schemas. Efficiently conceptualize parallel interfaces rather than highly efficient e-tailers. Dynamically evisculate empowered testing procedures through maintainable networks.Interactively.'
+    -
+      tag: link
+      attributes:
+        rel: canonical
+        href: 'https://storm.ddev.site/events/drupalcon-singapore-2024'
+  path:
+    -
+      alias: /events/drupalcon-singapore-2024
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: '<p>Professionally target innovative manufactured products vis-a-vis quality human capital. Synergistically grow next-generation growth strategies without cooperative web services. Competently fashion efficient potentialities without global schemas. Efficiently conceptualize parallel interfaces rather than highly efficient e-tailers. Dynamically evisculate empowered testing procedures through maintainable networks.</p><p>Interactively.</p>'
+      format: basic_html
+      summary: ''
+  field_date_time:
+    -
+      value: 1749528000
+      end_value: 1749787140
+      duration: 4319
+      rrule: 0
+      rrule_index: 0
+      timezone: ''
+  field_featured_speakers:
+    -
+      entity:
+        _meta:
+          version: '1.0'
+          entity_type: paragraph
+          uuid: b418d9d8-2d88-4784-81ba-93d5edc55a13
+          bundle: speaker
+          default_langcode: en
+        default:
+          status:
+            -
+              value: true
+          created:
+            -
+              value: 1725956240
+          behavior_settings:
+            -
+              value: {  }
+          revision_translation_affected:
+            -
+              value: true
+          field_bio:
+            -
+              value: '<p>Globally scale holistic outsourcing rather than inexpensive applications. Efficiently cultivate covalent human capital with web-enabled customer service.&nbsp;</p>'
+              format: basic_html
+          field_name:
+            -
+              value: 'John Doe'
+          field_organisation_designation:
+            -
+              value: 'Director of Delivery, Crown LLC'
+          field_picture:
+            -
+              entity: 7ce18692-ce12-472e-9be6-be0518dea44c
+  field_image:
+    -
+      entity: 7ce18692-ce12-472e-9be6-be0518dea44c
+  field_link:
+    -
+      uri: 'https://www.drupal.org/community/events/drupalcon-singapore-2024-2024-12-09'
+      title: 'DrupalCon Singapore'
+      options: {  }
+  field_location:
+    -
+      langcode: ''
+      country_code: SG
+      administrative_area: ''
+      locality: Singapore
+      dependent_locality: ''
+      postal_code: '039594'
+      address_line1: '6 Raffles Blvd'
+      address_line2: ''
+      organization: 'Crown LLC'
+  field_teaser:
+    -
+      value: '<p>DrupalCon returns to Asia in December 2024 with DrupalCon Singapore. Experience 3 days of amazing Drupal content, training, contribution, networking, and the very first DrupalCon Splash Awards! Come join us as we promote Drupal across all of Asia with this incredible event.</p>'
+      format: basic_html
+  field_thumbnail:
+    -
+      entity: 7ce18692-ce12-472e-9be6-be0518dea44c

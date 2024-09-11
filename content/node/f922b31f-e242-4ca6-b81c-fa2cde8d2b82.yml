@@ -1,0 +1,132 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: f922b31f-e242-4ca6-b81c-fa2cde8d2b82
+  bundle: event
+  default_langcode: en
+  depends:
+    46fa23a9-1ce5-4b80-b20b-26ea2b6ffed8: media
+    7ce18692-ce12-472e-9be6-be0518dea44c: media
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'LagoonCon Barcelona'
+  created:
+    -
+      value: 1725958607
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  moderation_state:
+    -
+      value: published
+  metatag:
+    -
+      tag: meta
+      attributes:
+        name: title
+        content: 'LagoonCon Barcelona | StormCMS'
+    -
+      tag: meta
+      attributes:
+        name: description
+        content: 'Progressively fabricate end-to-end web services for strategic opportunities. Synergistically scale next-generation "outside the box" thinking for bricks-and-clicks convergence. Conveniently repurpose integrated supply chains through team building expertise. Distinctively optimize user-centric innovation whereas enabled models. Appropriately embrace interoperable web-readiness before premium ROI.'
+    -
+      tag: link
+      attributes:
+        rel: canonical
+        href: 'https://storm.ddev.site/events/lagooncon-barcelona'
+  path:
+    -
+      alias: /events/lagooncon-barcelona
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: '<p>Progressively fabricate end-to-end web services for strategic opportunities. Synergistically scale next-generation "outside the box" thinking for bricks-and-clicks convergence. Conveniently repurpose integrated supply chains through team building expertise. Distinctively optimize user-centric innovation whereas enabled models. Appropriately embrace interoperable web-readiness before premium ROI.</p><p>Intrinsicly integrate maintainable resources via cost effective e-markets. Authoritatively evolve intermandated quality vectors vis-a-vis functional alignments. Globally disintermediate synergistic niches for seamless quality.</p>'
+      format: basic_html
+      summary: ''
+  field_date_time:
+    -
+      value: 1729828800
+      end_value: 1729915140
+      duration: 1439
+      rrule: 0
+      rrule_index: 0
+      timezone: ''
+  field_featured_speakers:
+    -
+      entity:
+        _meta:
+          version: '1.0'
+          entity_type: paragraph
+          uuid: b390f67c-2ab6-4929-95f2-8c197479b8ff
+          bundle: speaker
+          default_langcode: en
+        default:
+          status:
+            -
+              value: true
+          created:
+            -
+              value: 1725958644
+          behavior_settings:
+            -
+              value: {  }
+          revision_translation_affected:
+            -
+              value: true
+          field_bio:
+            -
+              value: '<p>Assertively repurpose state of the art infrastructures whereas B2B leadership skills. Compellingly strategize intuitive products through unique manufactured.</p>'
+              format: basic_html
+          field_name:
+            -
+              value: 'Ryan Hoffman'
+          field_organisation_designation:
+            -
+              value: 'Director of Delivery, Acme Industries'
+          field_picture:
+            -
+              entity: 46fa23a9-1ce5-4b80-b20b-26ea2b6ffed8
+  field_image:
+    -
+      entity: 7ce18692-ce12-472e-9be6-be0518dea44c
+  field_link:
+    -
+      uri: 'https://www.drupal.org/community/events/lagooncon-barcelona-%E2%80%93-september-23-2024-2024-09-23'
+      title: 'LagoonCon Barcelona'
+      options: {  }
+  field_location:
+    -
+      langcode: ''
+      country_code: ES
+      administrative_area: B
+      locality: Barcelona
+      dependent_locality: ''
+      postal_code: '08019'
+      address_line1: 'Av. Diagonal, 1, Sant Martí'
+      address_line2: ''
+      organization: 'Acme Industries'
+  field_teaser:
+    -
+      value: '<p>Join us on <strong>Monday, September 23rd</strong>, the day before DrupalCon Barcelona starts, to discover Lagoon, the open source application delivery platform designed by developers for developers. Whether you manage a few Drupal sites or thousands of diverse applications, Lagoon can streamline your workflow and make your life easier.</p><p>Learn from expert users as well as the core development team, including Toby Bellwood, Director, Product Engineering - Lagoon.</p>'
+      format: basic_html
+  field_thumbnail:
+    -
+      entity: 7ce18692-ce12-472e-9be6-be0518dea44c

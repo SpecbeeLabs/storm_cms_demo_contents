@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: media
+  uuid: 7ce18692-ce12-472e-9be6-be0518dea44c
+  bundle: image
+  default_langcode: en
+  depends:
+    20c77a9a-e4ed-4d78-ba65-abe11d9661ee: file
+    077e05ef-d4bf-4b99-83d0-74922573b848: taxonomy_term
+default:
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  name:
+    -
+      value: drupalcon-singapore.jpg
+  created:
+    -
+      value: 1725954681
+  revision_translation_affected:
+    -
+      value: true
+  metatag:
+    -
+      tag: meta
+      attributes:
+        name: title
+        content: '| StormCMS'
+    -
+      tag: link
+      attributes:
+        rel: canonical
+        href: 'https://storm.ddev.site/user/login'
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 0
+  field_caption_credit:
+    -
+      value: '<p><a href="https://events.drupal.org/files/media/image/DrupalConSingapore2024.jpg">events.drupal.org</a></p>'
+      format: basic_html
+  field_media_image:
+    -
+      entity: 20c77a9a-e4ed-4d78-ba65-abe11d9661ee
+      alt: 'DrupalCon Singapore'
+      title: ''
+      width: 1920
+      height: 1280
+  field_media_tags:
+    -
+      entity: 077e05ef-d4bf-4b99-83d0-74922573b848

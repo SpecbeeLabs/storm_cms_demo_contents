@@ -1,0 +1,132 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: ae835be5-994b-423a-8aa3-18f83d29a6c4
+  bundle: event
+  default_langcode: en
+  depends:
+    405ea926-095d-4cb1-948b-b8ddfa8c45be: media
+    7ce18692-ce12-472e-9be6-be0518dea44c: media
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'EvolveDrupal NYC Digital Summit & Drupal Training'
+  created:
+    -
+      value: 1725959423
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  moderation_state:
+    -
+      value: published
+  metatag:
+    -
+      tag: meta
+      attributes:
+        name: title
+        content: 'EvolveDrupal NYC Digital Summit & Drupal Training | StormCMS'
+    -
+      tag: meta
+      attributes:
+        name: description
+        content: 'Authoritatively brand progressive leadership skills with error-free partnerships. Conveniently incentivize just in time architectures vis-a-vis impactful methods of empowerment. Collaboratively develop vertical supply chains via innovative bandwidth. Monotonectally underwhelm standardized networks rather than best-of-breed information. Globally transform client-based functionalities whereas intermandated supply chains.'
+    -
+      tag: link
+      attributes:
+        rel: canonical
+        href: 'https://storm.ddev.site/events/evolvedrupal-nyc-digital-summit-drupal-training'
+  path:
+    -
+      alias: /events/evolvedrupal-nyc-digital-summit-drupal-training
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: '<p>Authoritatively brand progressive leadership skills with error-free partnerships. Conveniently incentivize just in time architectures vis-a-vis impactful methods of empowerment. Collaboratively develop vertical supply chains via innovative bandwidth. Monotonectally underwhelm standardized networks rather than best-of-breed information. Globally transform client-based functionalities whereas intermandated supply chains.</p><p>Progressively architect sticky web-readiness through bleeding-edge results. Collaboratively re-engineer backward-compatible ideas after world-class e-tailers. Distinctively reintermediate maintainable resources through standards compliant action items. Uniquely target accurate collaboration and idea-sharing for proactive.</p>'
+      format: basic_html
+      summary: ''
+  field_date_time:
+    -
+      value: 1737694800
+      end_value: 1738385940
+      duration: 11519
+      rrule: 0
+      rrule_index: 0
+      timezone: ''
+  field_featured_speakers:
+    -
+      entity:
+        _meta:
+          version: '1.0'
+          entity_type: paragraph
+          uuid: 119c9ac2-9fce-4092-9819-871e57338cac
+          bundle: speaker
+          default_langcode: en
+        default:
+          status:
+            -
+              value: true
+          created:
+            -
+              value: 1725959479
+          behavior_settings:
+            -
+              value: {  }
+          revision_translation_affected:
+            -
+              value: true
+          field_bio:
+            -
+              value: '<p>Professionally embrace stand-alone bandwidth via market positioning metrics. Appropriately transition principle-centered technologies after technically sound technologies. Assertively develop reliable human capital without plug-and-play communities. Synergistically facilitate.</p>'
+              format: basic_html
+          field_name:
+            -
+              value: 'Harps Joseph'
+          field_organisation_designation:
+            -
+              value: 'Senior Manager, Zenith Solutions'
+          field_picture:
+            -
+              entity: 405ea926-095d-4cb1-948b-b8ddfa8c45be
+  field_image:
+    -
+      entity: 7ce18692-ce12-472e-9be6-be0518dea44c
+  field_link:
+    -
+      uri: 'https://www.drupal.org/community/events/evolvedrupal-nyc-digital-summit-drupal-training-2024-09-20'
+      title: EvolveDrupal
+      options: {  }
+  field_location:
+    -
+      langcode: ''
+      country_code: US
+      administrative_area: NY
+      locality: 'New York'
+      dependent_locality: ''
+      postal_code: '10005'
+      address_line1: '32 Old Slip'
+      address_line2: ''
+      organization: 'Zenith Solutions'
+  field_teaser:
+    -
+      value: '<p>Join us for the sixth EvolveDrupal one-day summit — coming to New York City on September 20!</p><p>Immerse yourself in dozens of sessions covering a wide array of topics, from web development and site-building to AI, digital strategy, UX design, and content creation.</p>'
+      format: basic_html
+  field_thumbnail:
+    -
+      entity: 7ce18692-ce12-472e-9be6-be0518dea44c

@@ -1,0 +1,132 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 6c2d8501-59ea-4bc8-a4dc-59616bfa5935
+  bundle: event
+  default_langcode: en
+  depends:
+    38f1fa8e-820f-4e5a-9dee-abb7ebec0125: media
+    2cb2cb9e-ebf2-40e7-9e52-5d8380a0e367: media
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Drupal 11 Brisbane release party: 17 Sep 2024'
+  created:
+    -
+      value: 1725960391
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  moderation_state:
+    -
+      value: published
+  metatag:
+    -
+      tag: meta
+      attributes:
+        name: title
+        content: 'Drupal 11 Brisbane release party: 17 Sep 2024 | StormCMS'
+    -
+      tag: meta
+      attributes:
+        name: description
+        content: 'Dramatically maximize intermandated meta-services with resource-leveling initiatives. Monotonectally incentivize cutting-edge networks before equity invested schemas. Collaboratively coordinate next-generation e-commerce through interoperable initiatives. Energistically engage corporate paradigms and technically sound information. Objectively drive go forward web-readiness and worldwide users.'
+    -
+      tag: link
+      attributes:
+        rel: canonical
+        href: 'https://storm.ddev.site/events/drupal-11-brisbane-release-party-17-sep-2024'
+  path:
+    -
+      alias: /events/drupal-11-brisbane-release-party-17-sep-2024
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<p>Dramatically maximize intermandated meta-services with resource-leveling initiatives. Monotonectally incentivize cutting-edge networks before equity invested schemas. Collaboratively coordinate next-generation e-commerce through interoperable initiatives. Energistically engage corporate paradigms and technically sound information. Objectively drive go forward web-readiness and worldwide users.</p><p>Enthusiastically empower innovative applications through functionalized scenarios. Progressively integrate top-line e-commerce for quality networks. Compellingly leverage other's worldwide leadership for high-payoff initiatives. Continually mesh ethical customer service before customer directed opportunities. Competently matrix inexpensive e-services.</p>"
+      format: basic_html
+      summary: ''
+  field_date_time:
+    -
+      value: 1726545600
+      end_value: 1726631940
+      duration: 1439
+      rrule: 0
+      rrule_index: 0
+      timezone: ''
+  field_featured_speakers:
+    -
+      entity:
+        _meta:
+          version: '1.0'
+          entity_type: paragraph
+          uuid: f823c29d-626f-4547-bc79-24f35ddaa479
+          bundle: speaker
+          default_langcode: en
+        default:
+          status:
+            -
+              value: true
+          created:
+            -
+              value: 1725960431
+          behavior_settings:
+            -
+              value: {  }
+          revision_translation_affected:
+            -
+              value: true
+          field_bio:
+            -
+              value: '<p>Progressively strategize empowered functionalities rather than high standards in e-commerce. Efficiently maintain process-centric relationships before standardized process improvements. Seamlessly synthesize global.</p>'
+              format: basic_html
+          field_name:
+            -
+              value: 'Jim Beam'
+          field_organisation_designation:
+            -
+              value: 'Vice President - Sales, Zenith Solutions'
+          field_picture:
+            -
+              entity: 38f1fa8e-820f-4e5a-9dee-abb7ebec0125
+  field_image:
+    -
+      entity: 2cb2cb9e-ebf2-40e7-9e52-5d8380a0e367
+  field_link:
+    -
+      uri: 'https://www.drupal.org/community/events/drupal-11-brisbane-release-party-17-sep-2024-2024-09-17'
+      title: Meetup
+      options: {  }
+  field_location:
+    -
+      langcode: ''
+      country_code: AT
+      administrative_area: ''
+      locality: Queensland
+      dependent_locality: ''
+      postal_code: '4000'
+      address_line1: '400 George Street'
+      address_line2: ''
+      organization: 'Zenith Solutions'
+  field_teaser:
+    -
+      value: '<p>Drupal Brisbane meetup is back as a contribution event. Come to socialise face to face (or online) and discuss all things Drupal.</p>'
+      format: basic_html
+  field_thumbnail:
+    -
+      entity: 2cb2cb9e-ebf2-40e7-9e52-5d8380a0e367
