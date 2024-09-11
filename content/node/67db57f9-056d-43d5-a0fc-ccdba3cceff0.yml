@@ -1,0 +1,133 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 67db57f9-056d-43d5-a0fc-ccdba3cceff0
+  bundle: event
+  default_langcode: en
+  depends:
+    405ea926-095d-4cb1-948b-b8ddfa8c45be: media
+    6da668ab-9c5d-4730-af3e-9f572c17aa53: media
+    7ce18692-ce12-472e-9be6-be0518dea44c: media
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Splash Awards Germany and Austria 2024'
+  created:
+    -
+      value: 1726040786
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  moderation_state:
+    -
+      value: published
+  metatag:
+    -
+      tag: meta
+      attributes:
+        name: title
+        content: 'Splash Awards Germany and Austria 2024 | StormCMS'
+    -
+      tag: meta
+      attributes:
+        name: description
+        content: 'Enthusiastically scale principle-centered leadership rather than customized internal or "organic" sources. Continually facilitate error-free vortals through market-driven opportunities. Globally harness process-centric resources without robust value. Appropriately architect clicks-and-mortar resources with visionary infomediaries. Seamlessly brand timely processes without highly efficient mindshare.'
+    -
+      tag: link
+      attributes:
+        rel: canonical
+        href: 'https://storm.ddev.site/events/splash-awards-germany-and-austria-2024'
+  path:
+    -
+      alias: /events/splash-awards-germany-and-austria-2024
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: '<p>Enthusiastically scale principle-centered leadership rather than customized internal or "organic" sources. Continually facilitate error-free vortals through market-driven opportunities. Globally harness process-centric resources without robust value. Appropriately architect clicks-and-mortar resources with visionary infomediaries. Seamlessly brand timely processes without highly efficient mindshare.</p><p>Compellingly predominate distinctive web services through multidisciplinary supply chains. Uniquely brand sticky manufactured products and market positioning internal or "organic" sources. Interactively recaptiualize cross-media markets with team building methods of empowerment. Holisticly strategize cooperative meta-services with scalable innovation. Distinctively visualize end-to-end technology through emerging niches.</p><p>Progressively seize efficient.</p>'
+      format: basic_html
+      summary: ''
+  field_date_time:
+    -
+      value: 1715173200
+      end_value: 1715198400
+      duration: 420
+      rrule: 0
+      rrule_index: 0
+      timezone: ''
+  field_featured_speakers:
+    -
+      entity:
+        _meta:
+          version: '1.0'
+          entity_type: paragraph
+          uuid: ed360b6f-5f2a-4809-aa6f-2ab36f527286
+          bundle: speaker
+          default_langcode: en
+        default:
+          status:
+            -
+              value: true
+          created:
+            -
+              value: 1726040839
+          behavior_settings:
+            -
+              value: {  }
+          revision_translation_affected:
+            -
+              value: true
+          field_bio:
+            -
+              value: '<p>Progressively redefine strategic collaboration and idea-sharing for B2B meta-services.</p>'
+              format: basic_html
+          field_name:
+            -
+              value: 'Harps Joseph'
+          field_organisation_designation:
+            -
+              value: 'Senior Manager, Zenith Solutions'
+          field_picture:
+            -
+              entity: 405ea926-095d-4cb1-948b-b8ddfa8c45be
+  field_image:
+    -
+      entity: 6da668ab-9c5d-4730-af3e-9f572c17aa53
+  field_link:
+    -
+      uri: 'https://www.drupal.org/community/events/splash-awards-germany-and-austria-2024-2024-11-07'
+      title: 'Community Event'
+      options: {  }
+  field_location:
+    -
+      langcode: ''
+      country_code: DE
+      administrative_area: ''
+      locality: Berlin
+      dependent_locality: ''
+      postal_code: '10179'
+      address_line1: 'Plaça de Willy Brandt, 11-14'
+      address_line2: ''
+      organization: 'Zenith Solutions'
+  field_teaser:
+    -
+      value: '<p>The Splash Awards Germany &amp; Austria are happening again! For the 7th time the German and Austrian Drupal communities are looking for the best Drupal projects from both countries. Join us for the award ceremony.</p>'
+      format: basic_html
+  field_thumbnail:
+    -
+      entity: 7ce18692-ce12-472e-9be6-be0518dea44c
