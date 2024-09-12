@@ -1,0 +1,132 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: e4fed2b9-e07f-4cd4-a188-5045f43e14ba
+  bundle: event
+  default_langcode: en
+  depends:
+    da87874b-6b82-49fc-b549-3996e27427f3: media
+    2cb2cb9e-ebf2-40e7-9e52-5d8380a0e367: media
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'DrupalCamp Berlin 2024'
+  created:
+    -
+      value: 1726040589
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  moderation_state:
+    -
+      value: published
+  metatag:
+    -
+      tag: meta
+      attributes:
+        name: title
+        content: 'DrupalCamp Berlin 2024 | StormCMS'
+    -
+      tag: meta
+      attributes:
+        name: description
+        content: 'Appropriately facilitate principle-centered alignments without compelling metrics. Interactively incubate ubiquitous internal or "organic" sources vis-a-vis global core competencies. Synergistically deliver multimedia based data through stand-alone best practices. Globally engineer professional functionalities without top-line innovation. Dramatically syndicate integrated functionalities through frictionless catalysts for change.'
+    -
+      tag: link
+      attributes:
+        rel: canonical
+        href: 'https://storm.ddev.site/events/drupalcamp-berlin-2024'
+  path:
+    -
+      alias: /events/drupalcamp-berlin-2024
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: '<p>Appropriately facilitate principle-centered alignments without compelling metrics. Interactively incubate ubiquitous internal or "organic" sources vis-a-vis global core competencies. Synergistically deliver multimedia based data through stand-alone best practices. Globally engineer professional functionalities without top-line innovation. Dramatically syndicate integrated functionalities through frictionless catalysts for change.</p><p>Uniquely empower empowered technologies after top-line resources. Authoritatively extend team driven platforms through market positioning initiatives. Appropriately grow viral alignments and just in time "outside the box" thinking. Proactively facilitate standards compliant total linkage through leveraged niches. Completely visualize impactful infomediaries with process-centric potentialities.</p><p>Distinctively.</p>'
+      format: basic_html
+      summary: ''
+  field_date_time:
+    -
+      value: 1710388800
+      end_value: 1710561540
+      duration: 2879
+      rrule: 0
+      rrule_index: 0
+      timezone: ''
+  field_featured_speakers:
+    -
+      entity:
+        _meta:
+          version: '1.0'
+          entity_type: paragraph
+          uuid: 4a8a1252-cfb2-470c-bd94-96e6eda9f9d6
+          bundle: speaker
+          default_langcode: en
+        default:
+          status:
+            -
+              value: true
+          created:
+            -
+              value: 1726040638
+          behavior_settings:
+            -
+              value: {  }
+          revision_translation_affected:
+            -
+              value: true
+          field_bio:
+            -
+              value: '<p>Authoritatively plagiarize magnetic strategic theme areas vis-a-vis superior products. Uniquely maintain plug-and-play total linkage through global testing procedures. Progressively evisculate bricks-and-clicks solutions via web-enabled ROI. Progressively promote enterprise information for global growth strategies. Rapidiously innovate process-centric applications without frictionless communities.</p><p>Distinctively restore premier outsourcing via market positioning bandwidth. Compellingly fashion go forward outsourcing with plug-and-play benefits. Uniquely visualize holistic expertise and collaborative web-readiness. Synergistically extend magnetic e-business before adaptive architectures. Intrinsicly matrix customized technologies via principle-centered sources.</p><p>Phosfluorescently formulate next-generation niches through cutting-edge content. Dynamically conceptualize turnkey resources.</p>'
+              format: basic_html
+          field_name:
+            -
+              value: 'Darshan Patel'
+          field_organisation_designation:
+            -
+              value: 'Senior Developer, Acme Productions'
+          field_picture:
+            -
+              entity: da87874b-6b82-49fc-b549-3996e27427f3
+  field_image:
+    -
+      entity: 2cb2cb9e-ebf2-40e7-9e52-5d8380a0e367
+  field_link:
+    -
+      uri: 'https://www.drupal.org/community/events/drupalcamp-berlin-2024-2024-11-08'
+      title: Details
+      options: {  }
+  field_location:
+    -
+      langcode: ''
+      country_code: DE
+      administrative_area: ''
+      locality: Berlin
+      dependent_locality: ''
+      postal_code: '10179'
+      address_line1: 'Molkenmarkt 2'
+      address_line2: ''
+      organization: 'Acme Productions'
+  field_teaser:
+    -
+      value: '<p>Drupal is back in the capital! After 10 years since <a href="https://drupalcity.de/">DrupalCity</a> we are having the next DrupalCamp in Berlin.</p>'
+      format: basic_html
+  field_thumbnail:
+    -
+      entity: 2cb2cb9e-ebf2-40e7-9e52-5d8380a0e367

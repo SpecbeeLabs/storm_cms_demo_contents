@@ -1,0 +1,132 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 29dc871c-255b-4a22-8183-5bc4728ae8fa
+  bundle: event
+  default_langcode: en
+  depends:
+    76c0e253-a64b-4967-a16b-d944e1ee3b9f: media
+    7ce18692-ce12-472e-9be6-be0518dea44c: media
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Drupal Camp Chattanooga 2024'
+  created:
+    -
+      value: 1726040351
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  moderation_state:
+    -
+      value: published
+  metatag:
+    -
+      tag: meta
+      attributes:
+        name: title
+        content: 'Drupal Camp Chattanooga 2024 | StormCMS'
+    -
+      tag: meta
+      attributes:
+        name: description
+        content: 'Collaboratively negotiate corporate solutions whereas pandemic synergy. Globally monetize bleeding-edge infrastructures for ethical scenarios. Compellingly synergize strategic deliverables rather than next-generation meta-services. Objectively brand end-to-end services without end-to-end information. Uniquely network error-free e-services and performance based manufactured products.'
+    -
+      tag: link
+      attributes:
+        rel: canonical
+        href: 'https://storm.ddev.site/events/drupal-camp-chattanooga-2024'
+  path:
+    -
+      alias: /events/drupal-camp-chattanooga-2024
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: '<p>Collaboratively negotiate corporate solutions whereas pandemic synergy. Globally monetize bleeding-edge infrastructures for ethical scenarios. Compellingly synergize strategic deliverables rather than next-generation meta-services. Objectively brand end-to-end services without end-to-end information. Uniquely network error-free e-services and performance based manufactured products.</p><p>Synergistically disseminate standardized core competencies rather than corporate relationships. Monotonectally enhance effective initiatives via excellent growth strategies. Distinctively integrate team building data after excellent e-markets. Monotonectally morph ethical materials after 2.0 e-commerce. Rapidiously engage focused architectures whereas standardized metrics.</p><p>Competently expedite ubiquitous technology through corporate alignments. Monotonectally fabricate technically sound.</p>'
+      format: basic_html
+      summary: ''
+  field_date_time:
+    -
+      value: 1706763600
+      end_value: 1707022740
+      duration: 4319
+      rrule: 0
+      rrule_index: 0
+      timezone: ''
+  field_featured_speakers:
+    -
+      entity:
+        _meta:
+          version: '1.0'
+          entity_type: paragraph
+          uuid: c990efc3-cc4a-4c86-9f3c-fe41a13a7524
+          bundle: speaker
+          default_langcode: en
+        default:
+          status:
+            -
+              value: true
+          created:
+            -
+              value: 1726040379
+          behavior_settings:
+            -
+              value: {  }
+          revision_translation_affected:
+            -
+              value: true
+          field_bio:
+            -
+              value: '<p>Distinctively extend visionary testing procedures after professional platforms. Rapidiously underwhelm empowered best practices vis-a-vis B2C total linkage.</p>'
+              format: basic_html
+          field_name:
+            -
+              value: 'Joe Fernandes'
+          field_organisation_designation:
+            -
+              value: 'Development Practice Head, Zenith Solutions'
+          field_picture:
+            -
+              entity: 76c0e253-a64b-4967-a16b-d944e1ee3b9f
+  field_image:
+    -
+      entity: 7ce18692-ce12-472e-9be6-be0518dea44c
+  field_link:
+    -
+      uri: 'https://www.drupal.org/community/events/drupal-camp-chattanooga-2024-2024-11-02'
+      title: Chattanooga
+      options: {  }
+  field_location:
+    -
+      langcode: ''
+      country_code: US
+      administrative_area: TN
+      locality: Chattanooga
+      dependent_locality: ''
+      postal_code: '37406'
+      address_line1: 'Chattanooga State Community College'
+      address_line2: ''
+      organization: 'Zenith Solutions'
+  field_teaser:
+    -
+      value: '<p>Drupal Camp Chattanooga is an annual conference that brings together web developers to learn, network and discuss web development with Drupal and all thing open source.</p>'
+      format: basic_html
+  field_thumbnail:
+    -
+      entity: 7ce18692-ce12-472e-9be6-be0518dea44c
